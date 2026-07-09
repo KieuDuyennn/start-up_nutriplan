@@ -1,4 +1,4 @@
-# setup-github.ps1 — Tao repo GitHub private + labels + milestones + project + issues PA2
+﻿# setup-github.ps1 — Tao repo GitHub private + labels + milestones + project + issues PA2
 # Yeu cau: da chay `gh auth login` (scopes: repo, project). Chay tu thu muc goc repo:
 #   powershell -ExecutionPolicy Bypass -File scripts\setup-github.ps1
 

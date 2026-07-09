@@ -1,5 +1,7 @@
 # NutriPlan — Nhóm 14
 
+> *"Ăn đúng mục tiêu, sống khỏe mỗi ngày"*
+>
 > **Nền tảng đặt suất ăn healthy theo subscription, tự động cá nhân hóa thực đơn theo TDEE/Macro.**
 
 Repo lưu trữ Business Plan (PA0–PA6) và mã nguồn MVP của startup NutriPlan — môn **Khởi nghiệp cho ngành CNTT**.
