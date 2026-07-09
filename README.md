@@ -33,7 +33,7 @@ Chi tiết vai trò và lý do phân công: [docs/PA1-doi-ngu/03-danh-sach-thanh
 
 ## Business Plan tổng hợp
 
-Khung Business Plan hoàn chỉnh (hợp nhất dần từ các PA): **[docs/business-plan/](docs/business-plan/)**
+Khung Business Plan hoàn chỉnh theo **17 mục chuẩn** trong đề bài (hợp nhất dần từ các PA): **[docs/business-plan/](docs/business-plan/)**
 
 ## MVP
 
