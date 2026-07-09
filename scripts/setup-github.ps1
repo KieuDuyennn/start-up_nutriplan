@@ -11,17 +11,17 @@ $repoRoot = Split-Path $PSScriptRoot -Parent
 Set-Location $repoRoot
 
 # ---------- 1. Tao repo private + push ----------
-& $gh repo view nutriplan-nhom14 2>$null
+& $gh repo view start-up_nutriplan 2>$null
 if ($LASTEXITCODE -ne 0) {
-    & $gh repo create nutriplan-nhom14 --private --source . --remote origin --push
+    & $gh repo create start-up_nutriplan --private --source . --remote origin --push
 } else {
     Write-Host "Repo da ton tai, chi push..."
     $owner = (& $gh api user -q .login)
-    if (-not (git remote | Select-String "^origin$")) { git remote add origin "https://github.com/$owner/nutriplan-nhom14.git" }
+    if (-not (git remote | Select-String "^origin$")) { git remote add origin "https://github.com/$owner/start-up_nutriplan.git" }
     git push -u origin main
 }
 $owner = (& $gh api user -q .login)
-$repo = "$owner/nutriplan-nhom14"
+$repo = "$owner/start-up_nutriplan"
 Write-Host "== Repo: https://github.com/$repo"
 
 # ---------- 2. Labels ----------

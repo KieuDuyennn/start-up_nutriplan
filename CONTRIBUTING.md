@@ -1,4 +1,4 @@
-# Đóng góp vào repo nutriplan-nhom14
+# Đóng góp vào repo start-up_nutriplan
 
 Quy trình làm việc của Nhóm 14, cụ thể hóa từ Team Contract (PA0) và cơ chế phối hợp đã chốt ở [docs/PA1-doi-ngu/05-co-cau-to-chuc.md](docs/PA1-doi-ngu/05-co-cau-to-chuc.md).
 
