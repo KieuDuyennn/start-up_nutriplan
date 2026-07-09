@@ -15,6 +15,21 @@
 
 > Bản Word/PDF trình bày đầy đủ theo template PA0: [PA1.docx](PA1.docx) · [PA1.pdf](PA1.pdf)
 
+## Mục lục
+
+- [PHẦN 1 — NỘI DUNG PHẦN ĐỘI NGŨ](#phần-1--nội-dung-phần-đội-ngũ)
+  - [1.1 Tóm Tắt Ý Tưởng Khởi Nghiệp Đã Chọn](#11-tóm-tắt-ý-tưởng-khởi-nghiệp-đã-chọn)
+  - [1.2 Danh Sách Thành Viên Và Vai Trò Cụ Thể Trong Dự Án](#12-danh-sách-thành-viên-và-vai-trò-cụ-thể-trong-dự-án)
+  - [1.3 Lý Do Đội Ngũ Phù Hợp Để Triển Khai Ý Tưởng](#13-lý-do-đội-ngũ-phù-hợp-để-triển-khai-ý-tưởng)
+  - [1.4 Cơ Cấu Tổ Chức Nhóm/Startup Dự Kiến](#14-cơ-cấu-tổ-chức-nhómstartup-dự-kiến)
+  - [1.5 Các Vị Trí Hoặc Năng Lực Còn Thiếu Trong Đội Ngũ](#15-các-vị-trí-hoặc-năng-lực-còn-thiếu-trong-đội-ngũ)
+  - [1.6 Kế Hoạch Bổ Sung Nhân Sự, Cố Vấn Hoặc Đối Tác](#16-kế-hoạch-bổ-sung-nhân-sự-cố-vấn-hoặc-đối-tác)
+- [PHẦN 2 — PHÂN CÔNG CÔNG VIỆC PA1](#phần-2--phân-công-công-việc-pa1)
+  - [2.1 Danh Sách Tasks Và Outcome Yêu Cầu](#21-danh-sách-tasks-và-outcome-yêu-cầu)
+  - [2.2 Bảng Phân Công & Deadline](#22-bảng-phân-công--deadline)
+  - [2.3 Một Số Điểm Cần Làm Rõ](#23-một-số-điểm-cần-làm-rõ)
+  - [2.4 Tìm Hiểu Trước (Chuẩn Bị Cho PA2)](#24-tìm-hiểu-trước-chuẩn-bị-cho-pa2)
+
 ---
 
 # PHẦN 1 — NỘI DUNG PHẦN ĐỘI NGŨ
