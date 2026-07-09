@@ -2,6 +2,8 @@
 
 Tài liệu PA1 của Nhóm 14 — dự án **NutriPlan**.
 
+> Bản tổng hợp trình bày theo template chính thức (giống PA0): [PA1.md](PA1.md) · [PA1.docx](PA1.docx) · [PA1.pdf](PA1.pdf)
+
 ## Danh mục
 
 | # | Tài liệu | Trạng thái |

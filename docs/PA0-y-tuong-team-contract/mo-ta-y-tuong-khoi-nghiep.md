@@ -1,5 +1,7 @@
 # PA0 — Mô tả Dự án & Ý tưởng Khởi nghiệp
 
+> Bản gốc đầy đủ (Phần 1 + Phần 2, đúng template nộp bài): [PA0.md](PA0.md) · [PA0.pdf](PA0.pdf)
+
 **TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN — ĐHQG THÀNH PHỐ HỒ CHÍ MINH**
 **KHOA CÔNG NGHỆ THÔNG TIN**
 **ĐỒ ÁN MÔN KHỞI NGHIỆP — PROJECT ASSIGNMENT 0 (PA0)**
