@@ -64,7 +64,7 @@ foreach ($m in $milestones) {
 Write-Host "== Milestones: xong"
 
 # ---------- 4. Project board ----------
-& $gh project create --owner "@me" --title "NutriPlan Nhom 14"
+& $gh project create --owner "@me" --title "Start-up NutriPlan"
 Write-Host "== Project: da tao (them cot Backlog/Doing/Review/Done trong UI neu can — mac dinh Todo/In Progress/Done)"
 
 # ---------- 5. Issues PA2 (task 02-10 con thieu noi dung) ----------
