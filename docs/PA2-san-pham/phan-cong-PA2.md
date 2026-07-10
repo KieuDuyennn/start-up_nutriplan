@@ -1,6 +1,6 @@
 # Phân công công việc PA2
 
-## I. Tasks
+## I. Mô tả công việc cho Business Plan (Phần sản phẩm)
 
 ### 1. Bắt buộc
 
@@ -53,49 +53,21 @@
       - **Khảo sát:** File báo cáo, thống kê câu trả lời của khách hàng. Yêu cầu cần ít nhất 8-10 người thực hiện.
 
 ## II. Phân công
-
 ### 1. Bảng phân công
-
-| Task | Vị trí thực hiện | Deadline |
+| Vị trí | Task | Deadline | 
 |---|---|---|
-| **1.** Mô tả sản phẩm hoặc dịch vụ | - CEO kiêm Product Owner<br>- Operations Manager & Logistic Partners | 12:00 trưa 10/7 |
-| **2.** Vấn đề của khách hàng mà sản phẩm giải quyết | - Business Developement & Customer Success<br>- CEO kiêm Product Owner | 21:00 tối 10/7 |
-| **3.** Chân dung khách hàng mục tiêu | - Marketing & Growth Lead<br>- Business Developement & Customer Success | 23:00 tối 10/7 |
-| **4.** Giá trị cốt lõi mà sản phẩm mang lại | CEO kiêm Product Owner | 00:00 ngày 11/7 |
-| **5.** Các tính năng chính của sản phẩm | - CTO/Founding Engineer<br>- Lead Full-stack & UI/UX Designer | 20:00 tối 11/7 |
-| **6.** Điểm khác biệt so với giải pháp hiện có trên thị trường | - Marketing & Growth Lead<br>- CEO kiêm Product Owner | 23:00 tối 11/7 |
-| **7.** Mô hình hoạt động cơ bản của sản phẩm/dịch vụ | - Operations Manager & Logistic Partners<br>- CTO/Founding Engineer | 23:00 tối 11/7 |
-| **8.** Phiên bản sản phẩm tối thiểu khả thi, gọi là MVP | - CEO kiêm Product Owner<br>- CTO/Founding Engineer<br>- Lead Full-stack & UI/UX Designer | 9:00 sáng 12/7 |
-| **9.** Lộ trình phát triển sản phẩm trong các giai đoạn tiếp theo | - CEO kiêm Product Owner<br>- Marketing & Growth Lead<br>- CTO/Founding Engineer | 12:00 trưa 12/7 |
-| **10.** Cập nhật Business Plan | CEO kiêm Product Owner | 22:00 tối 12/7 |
-| **11.** Minh họa giao diện, sơ đồ hoạt động hoặc prototype đơn giản | - Lead Full-stack & UI/UX Designer<br>- CTO/Founding Engineer | 12:00 trưa 12/7 |
-| **12.** Phân tích đối thủ cạnh tranh | - Marketing & Growth Lead<br>- Business Developement & Customer Success | 18:00 tối 12/7 |
-| **13.** Bảng so sánh sản phẩm của nhóm với các giải pháp hiện có | - Marketing & Growth Lead<br>- CTO/Founding Engineer | 18:00 tối 12/7 |
-| **14.** Phản hồi ban đầu từ người dùng tiềm năng nếu có | - Business Developement & Customer Success<br>- Marketing & Growth Lead | 18:00 tối 12/7 |
+| CEO kiêm Product Owner | Viết tài liệu cho Business Plan (Phần sản phẩm) | 22:00 tối 12/7 |
+| Marketing & Growth Lead | - Phân tích vấn đề của khách hàng mà sản phẩm giải quyết (Task 2) <br> - Phân tích đối thủ cạnh tranh (task 12) <br> - Bảng so sánh sản phẩm của nhóm với các giải pháp hiện có (task 13) | 18:00 tối 12/7 |
+| Business Development & Customer Success | - Mô tả chân dung khách hàng mục tiêu (Task 3) <br> - Bảng so sánh sản phẩm của nhóm với các giải pháp hiện có (task 13) <br> - Phản hồi ban đầu từ người dùng tiềm năng (Task 14) | 18:00 tối 12/7 |
+| CTO/Founding Engineer | - Liệt kê các tính năng chính của sản phẩm (Task 5) <br> - Bắt đầu phát triển phần mềm (phân tích yêu cầu, thiết kế kiến trúc, thiết kế thuật toán tính các chỉ số BMR,TDEE) <br> - Xác định phiên bản sản phẩm tối thiểu (MVP) sẽ bao gồm những tính năng nào (Task 8) | - Deadline của Task 5 và 8 là 22:00 tối 11/7 <br> - Task còn lại sẽ được thực hiện xuyên suốt thời gian làm dự án |
+| Lead Full-stack Developer & UI/UX Design | - Tham gia phát triển phần mềm dưới sự phân công của CTO <br> - Xây dựng prototype | - Deadline của prototype là 18:00 tối 12/7 |
+| Operations Manager - Logistics & Partners | - Lên kế hoạch logistic <br> - Kiểm tra tiến độ của tất cả các phòng ban | 18:00 tối 12/7 |
 
-**Giải thích phân công**
+### 2. Lưu ý
 
-- **Task 1, 7:** Cần sự kết hợp giữa tầm nhìn sản phẩm của CEO và thực tế vận hành luồng dịch vụ từ Operations Manager, có thêm CTO hỗ trợ kiến trúc ở mô hình hoạt động.
-- **Task 2, 3, 14:** Business Development & CS là người tiếp xúc gần nhất với "nỗi đau" và phản hồi của khách hàng thực tế, kết hợp cùng Marketing để chuẩn hóa chân dung khách hàng và làm khảo sát.
-- **Task 5, 8, 11:** Các task nặng về hệ thống, bóc tách luồng nghiệp vụ và UI/UX/UML nên được giao cho bộ đôi CTO và Lead Full-stack & UI/UX, có sự quyết định tính năng MVP từ CEO.
-- **Task 6, 12, 13:** Tập trung vào thị trường và đối thủ cạnh tranh, do Marketing & Growth Lead dẫn dắt, kết hợp với BD & CS (hiểu thị trường) và CTO (so sánh tính năng công nghệ).
-- **Task 4, 9, 10:** Chủ yếu là định hướng, tầm nhìn chiến lược và lộ trình phát triển dài hạn, do CEO kiêm PO làm chủ (có sự cố vấn lộ trình kỹ thuật từ CTO và chiến lược tăng trưởng từ Marketing ở Task 9).
+- CTO cần phải viết báo cáo tiến độ phát triển phần mềm bao gồm 
+   - Những công việc đã làm
+   - Kết quả đã làm (ví dụ: sơ đồ luồng, danh sách chức năng,...)
+   - Kế hoạch phát triển sắp tới
 
-### 2. Bảng thống kê phân công
-
-| Vị trí | Số task tham gia |
-|---|---|
-| CEO kiêm Product Owner | 7/14 |
-| Marketing & Growth Lead | 6/14 |
-| Lead Full-stack & UI/UX Designer | 3/14 |
-| CTO/Founding Engineer | 6/14 |
-| Business Developement & Customer Success | 4/14 |
-| Operations Manager & Logistic Partners | 2/14 |
-
-## III. Những công việc phụ
-
-1. **Lên kế hoạch phát triển sản phẩm (Dev)**
-   - **Host:** CTO/Founding Engineer
-2. **Lên kế hoạch phân công cho PA3**
-   - **Host:** CEO
-3. **Cử đại diện nghiên cứu về dinh dưỡng**
+- Operations Manager sẽ là người phụ trách liên lạc giữa hai phòng ban của CTO và Marketing
