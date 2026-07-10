@@ -8,7 +8,7 @@ Tài liệu PA2 của Nhóm 14 — dự án **NutriPlan**.
 |---|---|---|
 | 01 | [Mô tả sản phẩm/dịch vụ (8 Core Services)](01-mo-ta-san-pham-dich-vu.md) | ✅ Hoàn thành |
 | 02 | [Problem-Solution Fit](02-problem-solution-fit.md) | ⬜ Chưa hoàn thành |
-| 03 | [Chân dung khách hàng mục tiêu](03-chan-dung-khach-hang-muc-tieu.md) | ⬜ Chưa hoàn thành |
+| 03 | [Chân dung khách hàng mục tiêu](03-chan-dung-khach-hang-muc-tieu.md) | ✅ Hoàn thành |
 | 04 | [Giá trị cốt lõi](04-gia-tri-cot-loi.md) | ⬜ Chưa hoàn thành |
 | 05 | [Các tính năng chính](05-cac-tinh-nang-chinh.md) | ⬜ Chưa hoàn thành |
 | 06 | [Điểm khác biệt thị trường (USP)](06-diem-khac-biet-thi-truong.md) | ⬜ Chưa hoàn thành |
