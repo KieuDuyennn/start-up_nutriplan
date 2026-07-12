@@ -83,42 +83,11 @@ Sau khi bán hàng, các giải pháp hiện có kết thúc trách nhiệm; Nut
 
 Định vị này có thể rút gọn thành thông điệp truyền thông: **"Ăn đúng cho mục tiêu của bạn, tự động mỗi ngày."**
 
-## 5. Bảng đối chiếu nhanh với các nhóm giải pháp hiện có
+## 5. Kết luận
 
-Bảng dưới đây tóm tắt vị thế của NutriPlan trên 8 tiêu chí then chốt, ngay bên dưới là phần giải thích cơ sở đánh giá và cách tính cho từng dòng. Phân tích SWOT chi tiết từng đối thủ và ma trận so sánh đầy đủ sẽ được trình bày trong phần Phân tích đối thủ cạnh tranh và phần Bảng so sánh sản phẩm của nhóm với các giải pháp hiện có.
+Điểm khác biệt của NutriPlan không nằm ở một tính năng đơn lẻ, vì từng mảnh ghép như giao đồ ăn, tính Calo hay bán đồ eat clean đều đã có người làm. Khác biệt nằm ở việc NutriPlan là giải pháp đầu tiên tại thị trường TP.HCM nối liền cả ba khâu tính toán, cung cấp và duy trì thành một vòng khép kín, đặt hồ sơ dinh dưỡng cá nhân làm trung tâm vận hành, và đưa mức độ cá nhân hóa vốn chỉ dành cho người thuê chuyên gia xuống mức giá sinh viên. Năm USP nêu trên đều được chống lưng bằng các tính năng cụ thể đã đặc tả trong phần Các tính năng chính của sản phẩm, nghĩa là đây là khác biệt kiến trúc sản phẩm có thể kiểm chứng, không phải khẩu hiệu marketing. Tuyên ngôn định vị trong tài liệu này là đầu vào trực tiếp cho phần Phân tích đối thủ cạnh tranh và thông điệp quảng bá ở giai đoạn PA3. Ma trận so sánh trực diện từng tính năng với các giải pháp hiện có, kèm các đánh đổi và giới hạn hiện tại của sản phẩm, được trình bày riêng trong phần Bảng so sánh sản phẩm của nhóm với các giải pháp hiện có.
 
-| Tiêu chí | App giao đồ ăn | Bếp eat clean | App đếm Calo | Chuyên gia / PT | NutriPlan |
-|---|---|---|---|---|---|
-| 1. Tính nhu cầu dinh dưỡng cá nhân | Không có | Chỉ chọn gói theo mức kcal có sẵn | Có, người dùng tự khai | Có, tư vấn trực tiếp | Có, tự động từ form thể trạng |
-| 2. Bữa ăn thật giao tận nơi mỗi ngày | Có | Có | Không | Không | Có |
-| 3. Thực đơn sinh riêng theo mục tiêu từng người | Không | Không, thực đơn tuần chung | Không | Có | Có |
-| 4. Đổi món có tính lại cân bằng dinh dưỡng | Không | Nhắn tin thủ công, không tính lại | Không | Hỏi từng lần | Có, cảnh báo và gợi ý tự động |
-| 5. Dùng thử trước khi mua gói dài hạn | Không có khái niệm gói | Hiếm, thường phải mua trọn tuần | Không áp dụng | Buổi tập thử, không có bữa ăn | Có, gói 1-2 ngày lẻ |
-| 6. Duy trì bữa ăn khi bếp quá tải | Hủy đơn, khách tự đặt lại | Đứt bữa | Không áp dụng | Không áp dụng | Tự chuyển bếp dự phòng |
-| 7. Theo dõi tiến trình và tự điều chỉnh kế hoạch | Không | Không | Người dùng tự nhập liệu | Có | Có, tự động |
-| 8. Chi phí một tháng ăn 2 bữa mỗi ngày | Khoảng 2,8-4 triệu cộng phí ship từng đơn | Khoảng 2,4-3,8 triệu | Miễn phí nhưng không có đồ ăn | 3-8 triệu riêng phí huấn luyện, chưa gồm tiền ăn | Định hướng 2-2,9 triệu trọn gói đã gồm giao hàng |
-
-**Cơ sở đánh giá từng dòng:**
-
-Dòng 1 và dòng 3: luồng đặt hàng của GrabFood và ShopeeFood (nhóm khảo sát tháng 7/2026) không có bất kỳ bước nào hỏi chiều cao, cân nặng hay mục tiêu của người đặt. Website Fitfood cho chọn 1 trong 10 gói định sẵn theo mức kcal và không sinh thực đơn theo hồ sơ từng khách. App đếm Calo có tính TDEE nhưng dựa trên số liệu tự khai và dừng lại ở con số. NutriPlan tính BMR, TDEE, Macro tự động từ form thể trạng rồi dùng chính bộ chỉ số đó để sinh thực đơn 7 hoặc 30 ngày.
-
-Dòng 4: ở các bếp eat clean, đổi món đồng nghĩa với nhắn tin cho fanpage và không ai tính lại Macro sau khi đổi. NutriPlan tự đề xuất món tương đương, cảnh báo khi thực đơn lệch cân bằng và gợi ý món bù ở các bữa còn lại, người dùng vẫn có quyền bỏ qua cảnh báo.
-
-Dòng 5: Fitfood công bố trên website chỉ nhận đặt theo gói 2-3 bữa mỗi ngày cho cả tuần, nghĩa là khách mới buộc phải bỏ ra 600 nghìn đến hơn 1,2 triệu đồng cho lần mua đầu tiên. NutriPlan cho đặt thử 1-2 ngày lẻ với chi phí chỉ khoảng 80-180 nghìn đồng trước khi quyết định.
-
-Dòng 6: bếp eat clean vận hành trên một bếp trung tâm, bếp nghỉ hoặc quá tải là khách đứt bữa. App giao đồ ăn khi quán từ chối đơn thì hủy và khách phải tự đặt lại từ đầu. NutriPlan có Kitchen Dispatch Engine chấm điểm và tự chuyển đơn giữa các bếp trong mạng lưới, khách không phải thao tác gì.
-
-Dòng 7: nghiên cứu trên người dùng MyFitnessPal ghi nhận tần suất tự ghi chép rơi từ 5,4 xuống 1,4 ngày mỗi tuần chỉ sau tháng đầu, cho thấy mô hình bắt người dùng tự nhập liệu không giữ chân được họ. PT theo dõi sát nhưng chi phí nằm trong gói 3-8 triệu mỗi tháng. NutriPlan ghi nhận dinh dưỡng tự động từ chính các bữa đã giao, người dùng chỉ cần cập nhật cân nặng định kỳ khi hệ thống nhắc.
-
-Dòng 8, cách tính cụ thể như sau. Với app giao đồ ăn: một phần cơm văn phòng tại TP.HCM phổ biến 45-65 nghìn, cộng phí giao 15-25 nghìn mỗi đơn lẻ, ăn 2 bữa mỗi ngày trong 22 ngày làm việc tốn khoảng 2,8-4 triệu đồng. Với Fitfood: gói 2 bữa mỗi ngày giá 600-950 nghìn một tuần, một tháng 4 tuần hết 2,4-3,8 triệu đồng. Với PT: 300-800 nghìn một buổi nhân với 8-12 buổi mỗi tháng cho ra 3-8 triệu đồng, và khách vẫn phải tự lo toàn bộ phần ăn. NutriPlan đặt mục tiêu giá 40-60 nghìn một bữa cho phân khúc sinh viên (đúng mức sẵn sàng chi trả của các persona trong phần Chân dung khách hàng mục tiêu), sau chiết khấu gói tháng 15% và nhờ cơ chế gom đơn theo tuyến giúp giảm phí giao, tổng chi một tháng rơi vào khoảng 2-2,9 triệu đồng đã gồm giao hàng. Nghĩa là ngang với số tiền tệp mục tiêu đang chi để ăn ngoài, nhưng nhận thêm toàn bộ giá trị cá nhân hóa và theo dõi sức khỏe.
-
-Số liệu thị phần, bảng giá và các nghiên cứu hành vi đã được dẫn ở phần bối cảnh cạnh tranh, danh mục nguồn đầy đủ đặt ở cuối tài liệu. Các quan sát về luồng đặt hàng là kết quả nhóm trực tiếp khảo sát giao diện GrabFood, ShopeeFood và website Fitfood trong tháng 7/2026. Riêng mức giá của NutriPlan là định hướng cho giai đoạn MVP và sẽ được chốt chính thức trong kế hoạch kinh doanh.
-
-## 6. Kết luận
-
-Điểm khác biệt của NutriPlan không nằm ở một tính năng đơn lẻ, vì từng mảnh ghép như giao đồ ăn, tính Calo hay bán đồ eat clean đều đã có người làm. Khác biệt nằm ở việc NutriPlan là giải pháp đầu tiên tại thị trường TP.HCM nối liền cả ba khâu tính toán, cung cấp và duy trì thành một vòng khép kín, đặt hồ sơ dinh dưỡng cá nhân làm trung tâm vận hành, và đưa mức độ cá nhân hóa vốn chỉ dành cho người thuê chuyên gia xuống mức giá sinh viên. Năm USP nêu trên đều được chống lưng bằng các tính năng cụ thể đã đặc tả trong phần Các tính năng chính của sản phẩm, nghĩa là đây là khác biệt kiến trúc sản phẩm có thể kiểm chứng, không phải khẩu hiệu marketing. Tuyên ngôn định vị và bảng đối chiếu trong tài liệu này là đầu vào trực tiếp cho phần Phân tích đối thủ cạnh tranh, phần Bảng so sánh sản phẩm của nhóm với các giải pháp hiện có, và cho thông điệp quảng bá ở giai đoạn PA3.
-
-## 7. Nguồn tham khảo
+## 6. Nguồn tham khảo
 
 1. Momentum Works, báo cáo về thị trường giao đồ ăn Đông Nam Á công bố tháng 1/2026: GMV giao đồ ăn Việt Nam năm 2025 đạt 2,1 tỷ USD, tăng 19%, ShopeeFood và GrabFood mỗi bên chiếm 48% thị phần. Xem tại: https://thelowdown.momentum.asia/new-report-southeast-asia-food-delivery-gmv-grew-18-to-hit-us22-7b-in-2025/ và bản tin tóm tắt của The Investor: https://theinvestor.vn/vietnams-online-food-delivery-market-tops-21-bln-as-foreign-apps-dominate-d18259.html
 2. B-Company, cập nhật thị trường giao đồ ăn Việt Nam 2025: lượng đơn ShopeeFood quý 3/2025 tăng hơn 30% so với cùng kỳ, nhu cầu cao nhất đến từ nhân viên văn phòng và sinh viên. Xem tại: https://b-company.jp/vietnam-food-delivery-market-2025-key-updates/
