@@ -18,6 +18,7 @@ Tài liệu PA2 của Nhóm 14 — dự án **NutriPlan**.
 | 10 | [Cập nhật Business Plan](10-cap-nhat-business-plan.md) | ⬜ Chưa hoàn thành |
 | 11 | [Wireframe & UML](11-wireframe-uml/) | ⬜ Chưa hoàn thành (khuyến khích) |
 | 12 | [Phân tích đối thủ cạnh tranh](12-phan-tich-doi-thu.md) | ✅ Hoàn thành (khuyến khích) |
+| 13 | [Bảng so sánh sản phẩm với giải pháp hiện có](13-bang-so-sanh-san-pham.md) | ✅ Hoàn thành (khuyến khích) |
 | — | [Phân công công việc PA2](phan-cong-PA2.md) | ✅ Hoàn thành |
 
 *Các task khuyến khích 12–14 (phân tích đối thủ, bảng so sánh, phản hồi người dùng): xem yêu cầu chi tiết trong [phan-cong-PA2.md](phan-cong-PA2.md).*
