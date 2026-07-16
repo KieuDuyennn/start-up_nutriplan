@@ -72,3 +72,22 @@ Slide Tuần 4: kết quả sau chiến dịch là campaign report kèm bằng c
 - Quyết định tiếp theo:
 ```
 
+## 6. Gợi ý cụ thể cho NutriPlan
+
+- Phản đối thật thường xoay quanh các rào cản đã biết ở PA2: sợ suất ít, sợ ngán, ngại cam kết, so sánh giá cơm căng tin. Ghi đúng lời khách nói, không diễn giải lại cho đẹp.
+- Nếu mẫu nhỏ do sprint ngắn, cứ trung thực về quy mô mẫu và nêu đây là tín hiệu ban đầu, không phải kết luận cuối.
+- Ưu tiên thu ít nhất một con số chuyển đổi thật từ form, kể cả khi không kịp làm concierge.
+
+## 7. Tiêu chí hoàn thành
+
+- Có thiết kế thí nghiệm chốt trước khi chạy.
+- Có bằng chứng nội dung (link thật, ảnh chụp số liệu).
+- Có bảng số liệu thật đồng bộ với hạng mục 9.
+- Có đúng năm phản đối thật kèm hướng xử lý.
+- Có kết luận rõ về thông điệp và kênh đáng tiếp tục.
+
+## 8. Lỗi cần tránh
+
+- Bịa số liệu hoặc lời chứng thực không có thật (vi phạm nguyên tắc marketing có trách nhiệm).
+- Ghi phản đối chung chung thay vì lời thật của khách.
+- Báo cáo thiếu bằng chứng, chỉ nói kết quả bằng lời.
