@@ -62,3 +62,21 @@
 (SOM này định hướng chọn phân khúc và kênh ra sao)
 ```
 
+## 6. Gợi ý cụ thể cho NutriPlan
+
+- Nên neo SAM vào TP.HCM và hai nhóm đã chọn, không mở ra toàn quốc.
+- SOM giai đoạn MVP nên giới hạn ở một đến hai cụm trường đại học hoặc một vài tòa văn phòng, vì mạng lưới bếp và giao hàng còn nhỏ.
+- Dùng chính con số chi tiêu từ persona để tính doanh thu trên đầu khách, sẽ nhất quán với phần khách hàng ở PA2.
+
+## 7. Tiêu chí hoàn thành
+
+- Có đủ ba con số TAM, SAM, SOM, mỗi con số kèm cách tính và giả định.
+- Ít nhất một chiều tính từ dưới lên có số liệu neo từ persona PA2.
+- SOM gắn với phạm vi địa lý cụ thể và có lập luận khả thi.
+- Mọi số liệu bên ngoài đều ghi nguồn hoặc cách suy luận.
+
+## 8. Lỗi cần tránh
+
+- Lấy TAM quá rộng kiểu toàn bộ dân số, làm mất ý nghĩa.
+- Đưa số tròn đẹp mà không nói cách tính.
+- Trộn lẫn ba lớp, ví dụ dùng con số TAM để nói về khả năng đạt được thực tế.
