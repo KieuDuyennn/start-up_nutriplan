@@ -58,3 +58,21 @@ Vì bản web app chưa chạy được, ra mắt ở PA3 không phải mở bá
 (khi web app xong, mời waitlist vào bản chạy thật)
 ```
 
+## 6. Gợi ý cụ thể cho NutriPlan
+
+- Ưu đãi ra mắt nên gắn với gói dùng thử ngắn để hạ rào cản cam kết, ví dụ gói ba ngày giá ưu đãi cho người đăng ký sớm.
+- Chỉ số quan trọng nhất của ra mắt mềm là số lượt đăng ký beta và tỷ lệ chuyển đổi trên số người tiếp cận.
+- Bảng 7 ngày là bản kế hoạch lý tưởng để trình bày; ghi chú rõ trong PA3 nhóm chạy thật rút gọn hai ngày do hạn nộp.
+
+## 7. Tiêu chí hoàn thành
+
+- Có phạm vi ra mắt mềm rõ ràng.
+- Có checklist điều kiện sẵn sàng.
+- Có bảng chiến dịch 7 ngày đầy đủ người phụ trách, chi phí, chỉ số, ngưỡng quyết định.
+- Có điều kiện chuyển sang mở bán chính thức gắn với danh sách waitlist.
+
+## 8. Lỗi cần tránh
+
+- Mô tả ra mắt như mở bán full sản phẩm trong khi web app chưa chạy được.
+- Bảng chiến dịch thiếu cột chỉ số hoặc ngưỡng quyết định.
+- Không nói rõ waitlist sẽ được dùng thế nào sau này.
