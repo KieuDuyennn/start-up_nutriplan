@@ -56,3 +56,21 @@ Unlike [cách cũ hoặc đối thủ], we [khác biệt].
 (chuyên nghiệp, thân thiện, đáng tin; mỗi thông điệp chỉ một lời kêu gọi hành động)
 ```
 
+## 6. Gợi ý cụ thể cho NutriPlan
+
+- Ví dụ câu định vị hướng sinh viên có tập luyện: For sinh viên vừa học vừa tập tại TP.HCM, những người ăn ngoài thất thường nên tập mãi không tiến bộ, NutriPlan cung cấp suất ăn đủ protein theo đúng mục tiêu, tự đến mỗi ngày. Unlike đặt đồ ăn lẻ trên app thường không rõ dinh dưỡng, NutriPlan tính sẵn lượng calo và protein cho từng người.
+- Ví dụ ba tiêu đề: A là hết cảnh nghĩ trưa nay ăn gì; B là đủ protein mỗi bữa để tập có kết quả; C là biết trước tiền ăn cả tháng, không vượt ngân sách.
+- Tránh các từ như nền tảng ứng dụng AI, thuật toán tối ưu Macro. Nói thẳng kết quả.
+
+## 7. Tiêu chí hoàn thành
+
+- Có một câu định vị đầy đủ hai vế For và Unlike.
+- Có đủ ba biến thể thông điệp, mỗi biến thể có tiêu đề, lời kêu gọi hành động và hình minh họa.
+- Có dự đoán biến thể thắng kèm lý do.
+- Ngôn ngữ là ngôn ngữ kết quả, không phải thuật ngữ nội bộ.
+
+## 8. Lỗi cần tránh
+
+- Viết thông điệp chung chung kiểu ăn healthy mỗi ngày, sống khỏe hơn.
+- Một thông điệp nhồi nhiều lời kêu gọi hành động cùng lúc.
+- Dùng từ nội bộ của nhóm mà khách hàng không hiểu.
