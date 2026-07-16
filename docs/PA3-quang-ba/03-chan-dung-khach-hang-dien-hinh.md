@@ -59,3 +59,20 @@ Mỗi persona đã có nhân khẩu học, một ngày điển hình, mục tiê
 (Họ cần thấy bằng chứng gì để chuyển từ biết đến đăng ký dùng thử)
 ```
 
+## 6. Gợi ý cụ thể cho NutriPlan
+
+- Nếu chọn persona Tiến (có tập luyện): kênh mạnh là nội dung thể hình trên TikTok và YouTube, nhóm gym, bạn tập cùng. Nỗi đau nên nhấn: tập nhiều mà không tiến bộ vì ăn thất thường, không biết đủ protein chưa.
+- Nếu chọn persona Uyên (quá bận, không tập được): kênh mạnh là group môn học, bạn cùng lớp, ký túc xá. Nỗi đau nên nhấn: hiểu về dinh dưỡng nhưng không có thời gian áp dụng, ăn mì gói qua mùa thi.
+- Câu nói thật đã có sẵn trong PA2, ví dụ câu của Uyên: học về dinh dưỡng mà bữa ăn toàn mì gói, biết hại nhưng không còn thời gian. Dùng nguyên câu này cho thông điệp.
+
+## 7. Tiêu chí hoàn thành
+
+- Chọn đúng một persona đại diện, nhất quán với phân khúc ưu tiên ở hạng mục 2.
+- Có đủ ba lớp thông tin marketing mới (kênh tìm thông tin, nguồn tin cậy, câu nói thật).
+- Câu nói thật trích được dùng làm nguyên liệu cho hạng mục 4.
+
+## 8. Lỗi cần tránh
+
+- Chép nguyên persona PA2 mà không bổ sung góc marketing.
+- Chọn persona không khớp với phân khúc ưu tiên đã chốt.
+- Mô tả chung chung kiểu người bận rộn muốn sống khỏe thay vì một người cụ thể.
