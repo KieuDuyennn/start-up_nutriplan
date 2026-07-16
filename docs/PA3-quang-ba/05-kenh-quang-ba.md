@@ -16,3 +16,41 @@ Chọn các kênh quảng bá phù hợp với hành vi của phân khúc ưu ti
 
 Slide Tuần 4: kênh tốt là nơi khách hàng đã có sẵn niềm tin, không chạy kênh vì đang hot. Nhóm nhỏ ngân sách thấp nên phải tập trung một kênh chính làm cho tới, thay vì rải mỏng nhiều kênh.
 
+## 3. Đầu vào kế thừa
+
+- Phân khúc ưu tiên và hành vi của họ từ hạng mục 2.
+- Kênh tìm thông tin và nguồn tin cậy đã ghi ở hạng mục 3.
+- Gợi ý kênh theo nhóm khách của Tuần 4: sinh viên thì lớp học, câu lạc bộ, TikTok, Facebook group, Zalo, demo trực tiếp.
+
+## 4. Các bước thực hiện
+
+1. Liệt kê các kênh khả thi với phân khúc ưu tiên, gắn mỗi kênh với hành vi thật của khách.
+2. Chấm mỗi kênh theo ba yếu tố: khách có ở đó không, nhóm có làm được không, đo lường được không.
+3. Chốt một kênh chính và một kênh phụ. Với sinh viên, kênh chính thường là demo trực tiếp tại lớp và câu lạc bộ hoặc group môn học; kênh phụ là TikTok hoặc Zalo.
+4. Liên hệ với 7P, tập trung vào Place (khách gặp sản phẩm ở đâu) và Promotion (nội dung, giới thiệu, cộng đồng).
+5. Bổ sung góc tìm kiếm mới: nội dung nên trả lời câu hỏi cụ thể để được nhắc tới trên AI search và mạng xã hội, và cần bằng chứng cộng đồng trên landing page.
+
+## 5. Khung nội dung cần viết
+
+```
+## 1. Bảng kênh khả thi
+| Kênh | Hành vi khách gắn với kênh | Nhóm làm được không | Đo lường được không |
+
+## 2. Kênh chính và kênh phụ được chốt
+- Kênh chính:
+- Lý do:
+- Kênh phụ:
+- Lý do:
+
+## 3. Liên hệ 7P
+- Product (trải nghiệm và giá trị đầu tiên):
+- Price (gói tuần, gói tháng, ưu đãi):
+- Place (khách gặp NutriPlan ở đâu):
+- Promotion (nội dung, giới thiệu, cộng đồng):
+- People, Process, Physical evidence (niềm tin, hỗ trợ, demo):
+
+## 4. Góc tìm kiếm và cộng đồng
+- Nội dung trả lời câu hỏi gì để được tìm thấy:
+- Bằng chứng cộng đồng đưa lên landing page:
+```
+
