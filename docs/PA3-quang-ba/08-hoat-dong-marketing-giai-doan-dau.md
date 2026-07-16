@@ -61,3 +61,22 @@ Slide Tuần 4: nội dung không có mục tiêu đo thì chỉ là đăng cho 
 ## 5. Cơ chế giới thiệu (link hoặc mã riêng)
 ```
 
+## 6. Gợi ý cụ thể cho NutriPlan
+
+- Tiêu đề landing page nên nói thẳng kết quả, ví dụ suất ăn đúng dinh dưỡng tự đến mỗi ngày, hết cảnh nghĩ trưa nay ăn gì.
+- Ảnh mockup cần cover ba màn cốt lõi: hồ sơ dinh dưỡng, thực đơn tuần, đặt gói.
+- Bằng chứng ban đầu có thể là chính câu nói thật của persona và con số waitlist cập nhật liên tục.
+- Mỗi nội dung chỉ một lời kêu gọi hành động, dẫn về form đăng ký beta.
+
+## 7. Tiêu chí hoàn thành
+
+- Có lịch nội dung đủ bốn nhóm, mỗi nội dung gắn chỉ số đo.
+- Landing page thật đã dựng và có link truy cập được.
+- Form đăng ký beta hoạt động và thu đúng các trường cần.
+- Có cơ chế giới thiệu đo được nguồn khách.
+
+## 8. Lỗi cần tránh
+
+- Đăng nội dung mà không gắn lời kêu gọi hành động hay chỉ số.
+- Landing page nhồi nhiều nút và nhiều thông điệp cùng lúc.
+- Form hỏi quá nhiều trường làm người dùng bỏ dở.
