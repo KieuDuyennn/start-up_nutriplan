@@ -1,11 +1,10 @@
-# PA3 — Quảng bá
+# PA3: Quảng bá
 
-**Trạng thái: chưa bắt đầu.**
+**Trạng thái: đang thực hiện.**
 
-Khung trống — checklist công việc sẽ được viết dựa theo yêu cầu PA3 trong tài liệu đồ án (DO_AN.md / đề bài môn học) khi nhóm bước vào giai đoạn này.
+Sản phẩm nộp: bản cập nhật Business Plan tập trung phần Quảng bá và Go-to-Market. Bám theo 9 nội dung bắt buộc của đề bài và khung lý thuyết Tuần 4 (ICP, segmentation, positioning, funnel, kênh, growth loop, chiến dịch kiểm chứng nhu cầu). Kế thừa khách hàng mục tiêu, 3 persona và USP từ PA2.
 
-## Việc cần làm khi bắt đầu PA3
+Phương án đã chốt: Phương án B (kế hoạch đầy đủ kèm chạy thử chiến dịch lấy số liệu thật). Deadline nộp 20/7, nhóm hoàn tất nội dung trước ngày 19.
 
-- [ ] Đọc yêu cầu PA3 trong đề bài và lập checklist chi tiết
-- [ ] Lập bảng phân công (tạo `phan-cong-PA3.md`)
-- [ ] Kế hoạch phân công do CEO host (đã ghi nhận ở mục "Những công việc phụ" của PA2)
+Phân công chi tiết, cách tiếp cận và lộ trình: xem [phan-cong-PA3.md](phan-cong-PA3.md). Mỗi hạng mục có một file brief hướng dẫn riêng (`01` đến `11`).
+
