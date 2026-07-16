@@ -85,3 +85,90 @@ Phân công bám sát vai trò trong cơ cấu tổ chức (xem `docs/PA1-doi-ng
 
 ---
 
+## 5. Cấu trúc tài liệu
+
+Đặt trong thư mục `docs/PA3-quang-ba/`.
+
+| File | Nội dung | Người phụ trách |
+|---|---|---|
+| `01-thi-truong-muc-tieu.md` | Hạng mục 1 | Phú |
+| `02-phan-khuc-khach-hang.md` | Hạng mục 2 | Duyên |
+| `03-chan-dung-khach-hang-dien-hinh.md` | Hạng mục 3 | Phúc |
+| `04-dinh-vi-thong-diep.md` | Hạng mục 4 | Duyên |
+| `05-kenh-quang-ba.md` | Hạng mục 5 | Duyên |
+| `06-chien-luoc-khach-hang-dau-tien.md` | Hạng mục 6 | Phúc |
+| `07-ke-hoach-ra-mat.md` | Hạng mục 7 | Dũng |
+| `08-hoat-dong-marketing-giai-doan-dau.md` | Hạng mục 8 | Duyên |
+| `09-chi-so-do-luong.md` | Hạng mục 9 | Duyên và Dũng |
+| `10-cap-nhat-business-plan.md` | Hạng mục 10 | Phú |
+| `11-campaign-report.md` | Hạng mục 11 | Duyên và Phúc |
+
+---
+
+## 6. Cách chạy chiến dịch khi chưa có sản phẩm hoàn thiện
+
+Bản web app chưa chạy được, nhưng chiến dịch vẫn triển khai được vì mục tiêu là kiểm chứng nhu cầu, không phải kiểm chứng sản phẩm. Toàn bộ dùng công cụ không cần lập trình.
+
+### 6.1. Công cụ demo thay cho phần mềm
+
+| Cách làm | Chuẩn bị | Đo được điều gì |
+|---|---|---|
+| Ảnh mockup | Ba đến năm ảnh giao diện dựng bằng Canva hoặc Figma (hồ sơ dinh dưỡng, thực đơn tuần, đặt gói) | Phản ứng với thông điệp |
+| Bản Figma clickthrough | Bấm chuyển qua lại giữa các màn như thao tác thật, không cần backend | Mức độ muốn dùng |
+| Landing page không cần lập trình | Một trang trên Canva Site, Framer hoặc Google Site kèm form đăng ký beta | Reach, lượt click, lượt đăng ký, tỷ lệ chuyển đổi |
+| Concierge (vận hành thủ công) | Nhận ba đến năm khách thật, tự tay lập thực đơn và đặt giúp từ một bếp đối tác | Mức độ sẵn sàng trả tiền |
+
+Mô hình concierge là cách nhiều startup ngành thực phẩm dùng để kiểm chứng nhu cầu trước khi phát triển phần mềm, đồng thời thu được phản đối thật từ khách hàng.
+
+### 6.2. Khảo sát và form đăng ký
+
+Kết hợp hai lớp để có bằng chứng mạnh thay vì chỉ có ý kiến:
+
+- Một khảo sát ngắn để sàng lọc và lấy insight (nỗi đau, mục tiêu sức khỏe, mức giá chấp nhận, kênh thường dùng).
+- Một landing page kèm form đăng ký beta hoặc waitlist làm chỉ số chuyển đổi chính. Việc để lại email hoặc số điện thoại là một cam kết nhẹ, phản ánh nhu cầu thật rõ hơn câu trả lời khảo sát.
+- Tùy chọn nâng cao: nút giữ suất ưu đãi hoặc đặt trước để đo mức cam kết cao hơn.
+
+### 6.3. Landing page tối thiểu cần gì
+
+- Tiêu đề nói rõ vấn đề và kết quả, ví dụ hết cảnh phải nghĩ trưa nay ăn gì, suất ăn đúng dinh dưỡng tự đến mỗi ngày.
+- Ảnh mockup hoặc bản Figma thay cho demo phần mềm.
+- Bằng chứng: câu nói thật của persona, số liệu waitlist thu được, mục hỏi đáp.
+- Một lời kêu gọi hành động rõ ràng, dẫn tới form đăng ký beta thu tên, trường hoặc nơi làm việc, mục tiêu sức khỏe và mức giá chấp nhận.
+
+### 6.4. Chỉ số thu được, nạp thẳng vào hạng mục 9
+
+Reach (lượt xem), Interest (lượt click hoặc bình luận), lượt đăng ký beta, tỷ lệ chuyển đổi trên reach, chi phí có một đăng ký (kênh tự nhiên gần bằng không, quy đổi ra công), năm phản đối, và nếu làm concierge thì số người trả trước.
+
+Số liệu thật dạng 82 lượt xem, 19 lượt điền form, 6 người đồng ý trả trước cho gói dùng thử có sức thuyết phục cao hơn số dự phóng và được tái sử dụng cho PA4 và PA5.
+
+### 6.5. Ranh giới với phần phát triển sản phẩm
+
+Landing page, mockup và bản Figma là tài sản marketing tạm thời để kiểm chứng nhu cầu, không thay thế bản web app. Khi bản web app hoàn thiện, danh sách waitlist thu được ở PA3 trở thành nhóm người dùng đầu tiên được mời vào bản chạy thật. Mốc chuyển giao này ghi trong hạng mục 7.
+
+---
+
+## 7. Lộ trình và deadline theo thứ tự ưu tiên
+
+Hạn nộp là 20/7. Mục tiêu của nhóm: hoàn tất toàn bộ nội dung trước ngày 19, dành ngày 19 rà soát, nộp ngày 20. Mỗi deadline đặt vào một trong hai mốc: 12h trưa hoặc 23h tối. Bảng dưới xếp theo thứ tự ưu tiên: việc nền tảng và việc mà các phần khác phụ thuộc vào được đặt hạn sớm trước.
+
+| Ưu tiên | Việc | Người phụ trách | Deadline |
+|---|---|---|---|
+| 1 | Họp phân công, chốt phân khúc ưu tiên và giả thuyết chiến dịch | Cả nhóm (Phú chủ trì) | 12h trưa 16/7 |
+| 2 | Hạng mục 2: Phân khúc khách hàng | Duyên | 23h tối 16/7 |
+| 3 | Hạng mục 3: Chân dung điển hình | Phúc | 23h tối 16/7 |
+| 4 | Hạng mục 4: Định vị và thông điệp | Duyên | 23h tối 16/7 |
+| 5 | Hạng mục 1: Thị trường mục tiêu | Phú | 12h trưa 17/7 |
+| 6 | Hạng mục 5: Kênh quảng bá | Duyên | 12h trưa 17/7 |
+| 7 | Hạng mục 6: Chiến lược khách hàng đầu tiên | Phúc | 12h trưa 17/7 |
+| 8 | Hạng mục 7: Kế hoạch ra mắt và bảng chiến dịch | Dũng | 23h tối 17/7 |
+| 9 | Hạng mục 8: Hoạt động marketing, dựng xong landing page và form | Duyên | 23h tối 17/7 |
+| 10 | Hạng mục 9: Khung bảng chỉ số và ngưỡng quyết định | Dũng | 23h tối 17/7 |
+| 11 | Mở chiến dịch: đăng ba nội dung thử nghiệm thông điệp, mở form | Duyên | 23h tối 17/7 |
+| 12 | Chạy cao điểm: demo lớp hoặc câu lạc bộ, thu số liệu và năm phản đối, concierge nếu kịp | Phúc, Duyên, Dũng | 23h tối 18/7 |
+| 13 | Hạng mục 9: Điền số liệu thật | Duyên và Dũng | 23h tối 18/7 |
+| 14 | Hạng mục 11: Báo cáo chiến dịch | Duyên và Phúc | 23h tối 18/7 |
+| 15 | Hạng mục 10: Tổng hợp Business Plan và rà soát nhất quán | Phú | 12h trưa 19/7 |
+| 16 | Rà soát chéo cả nhóm, hoàn thiện hình thức trình bày | Cả nhóm | 23h tối 19/7 |
+| 17 | Kiểm tra lần cuối, nén file, nộp Moodle | Phú (đại diện nộp) | 12h trưa 20/7 |
+
+**Ưu tiên nếu thiếu thời gian:** giữ vững hạng mục 1 đến 10 (phần bắt buộc theo đề). Phần concierge của việc số 12 là tùy chọn, có thể bỏ nếu sprint không kịp, nhưng vẫn giữ landing page và form để có tối thiểu một con số chuyển đổi thật.
