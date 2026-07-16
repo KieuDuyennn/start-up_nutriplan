@@ -22,3 +22,13 @@ Phân công chi tiết, cách tiếp cận và lộ trình: xem [phan-cong-PA3.m
 - [10-cap-nhat-business-plan.md](10-cap-nhat-business-plan.md) (Phú)
 - [11-campaign-report.md](11-campaign-report.md) (Duyên và Phúc)
 
+## Việc cần làm
+
+- [x] Đọc yêu cầu PA3 trong đề bài và lập checklist chi tiết
+- [x] Lập bảng phân công (`phan-cong-PA3.md`)
+- [x] Chốt phương án triển khai (Phương án B)
+- [x] Tạo file brief hướng dẫn cho từng hạng mục (`01` đến `11`)
+- [ ] Viết nội dung từng hạng mục theo brief và lộ trình 16 đến 18/7
+- [ ] Chạy chiến dịch kiểm chứng nhu cầu (sprint 17 đến 18/7), viết `11-campaign-report.md`
+- [ ] Cập nhật `docs/business-plan/09-marketing-go-to-market.md` và rà soát nhất quán
+- [ ] Rà soát chéo ngày 19, nộp ngày 20
