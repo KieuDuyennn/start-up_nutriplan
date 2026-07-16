@@ -55,3 +55,22 @@ Slide Tuần 4: loop tốt giúp tăng trưởng bền hơn quảng cáo, và kh
 | Rào cản (từ persona) | Cách trấn an bằng tính năng hoặc chính sách |
 ```
 
+## 6. Gợi ý cụ thể cho NutriPlan
+
+- Rào cản sợ suất ít không đủ no: cho xem suất mẫu định lượng rõ, cam kết mức protein và khối lượng cho nam có tập luyện.
+- Rào cản sợ ngán: nhấn tính năng đổi món giữ nguyên dinh dưỡng, cho chọn trước thực đơn.
+- Rào cản ngại cam kết gói dài: mở gói dùng thử ngắn hoặc gói tuần, cho tạm ngưng linh hoạt.
+- Referral loop hợp môi trường sinh viên: mời bạn cùng phòng cùng đăng ký, cả hai giảm giá gói đầu, đồng thời tối ưu được tuyến giao vì cùng địa chỉ.
+
+## 7. Tiêu chí hoàn thành
+
+- Có ít nhất ba chiến thuật thu khách đầu tiên chi phí thấp.
+- Có ít nhất một growth loop mô tả bằng sơ đồ.
+- Có cơ chế giới thiệu cụ thể, rõ ai được gì.
+- Có bảng xử lý cho từng rào cản mua đã nêu trong persona PA2.
+
+## 8. Lỗi cần tránh
+
+- Chiến lược chỉ nói chung chung là chạy quảng cáo và đăng bài.
+- Growth loop mô tả mơ hồ, không chỉ ra vòng lặp tạo khách mới thế nào.
+- Bỏ qua rào cản mua, trong khi PA2 đã nêu rất rõ.
