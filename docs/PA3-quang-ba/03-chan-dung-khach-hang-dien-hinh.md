@@ -16,3 +16,46 @@ Chọn một chân dung khách hàng điển hình đại diện cho phân khúc
 
 Slide Tuần 4 nhấn mạnh marketing tốt bắt đầu từ hiểu người dùng, không từ công cụ. Câu nói thật của khách hàng chính là nguyên liệu để viết thông điệp bằng ngôn ngữ khách hàng. Biết họ tìm thông tin ở đâu và tin ai chính là cơ sở để chọn kênh.
 
+## 3. Đầu vào kế thừa
+
+PA2 đã có ba persona đầy đủ:
+
+- Persona 1: Nguyễn Thành Tiến, nam 20 tuổi, sinh viên năm 3 ngành CNTT, có tập gym, muốn tăng cơ.
+- Persona 2: Trần Nhật Huyền, nữ 24 tuổi, nhân viên văn phòng, muốn giảm cân.
+- Persona 3: Đoàn Tú Uyên, nữ 20 tuổi, sinh viên Y, quá bận không tập được, muốn duy trì sức khỏe.
+
+Mỗi persona đã có nhân khẩu học, một ngày điển hình, mục tiêu, nỗi đau, hành vi công nghệ và chi tiêu, rào cản khi mua, câu nói đặc trưng.
+
+## 4. Các bước thực hiện
+
+1. Đối chiếu với phân khúc ưu tiên ở hạng mục 2 để chọn một persona đại diện. Nếu phân khúc ưu tiên là sinh viên sống xa nhà thì persona Tiến hoặc Uyên là ứng viên.
+2. Giữ lại các thông tin nền từ PA2, không chép dài dòng mà tóm gọn.
+3. Bổ sung ba lớp thông tin mới phục vụ marketing:
+   - Kênh tìm thông tin: họ lướt gì, xem ai, ở đâu (TikTok, group môn học, bạn cùng lớp, nhóm gym).
+   - Người và nguồn họ tin: bạn bè, đàn anh khóa trên, người tập cùng, giảng viên, review thật.
+   - Câu nói thật mô tả nỗi đau, trích trực tiếp để dùng làm thông điệp.
+4. Kết nối persona với hành trình quyết định: từ lúc biết đến NutriPlan tới lúc đăng ký, họ cần thấy gì để tin.
+
+## 5. Khung nội dung cần viết
+
+```
+## 1. Persona đại diện được chọn
+- Tên và một dòng mô tả:
+- Vì sao đại diện đúng cho phân khúc ưu tiên:
+
+## 2. Tóm tắt nền (kế thừa PA2)
+- Nhân khẩu học và bối cảnh:
+- Mục tiêu sức khỏe:
+- Nỗi đau chính:
+- Ngân sách và hành vi chi tiêu:
+- Rào cản khi mua:
+
+## 3. Góc nhìn marketing (bổ sung mới)
+- Kênh tìm thông tin thường dùng:
+- Người và nguồn họ tin tưởng:
+- Câu nói thật mô tả nỗi đau (trích dẫn):
+
+## 4. Hành trình quyết định
+(Họ cần thấy bằng chứng gì để chuyển từ biết đến đăng ký dùng thử)
+```
+
