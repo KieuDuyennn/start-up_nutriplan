@@ -54,3 +54,22 @@ Slide Tuần 4: cần có bảng metric và ngưỡng quyết định trước k
 (kênh hoặc thông điệp nào đáng tiếp tục, dựa trên số thật)
 ```
 
+## 6. Gợi ý cụ thể cho NutriPlan
+
+- Vì chạy kênh tự nhiên, chi phí chủ yếu là công sức, có thể quy đổi ra số giờ làm để tính chi phí có một đăng ký một cách hợp lý.
+- Chỉ số quan trọng nhất trong sprint ngắn là tỷ lệ chuyển đổi từ tiếp cận sang đăng ký beta, vì nó phản ánh sức hút của thông điệp.
+- Nếu làm concierge, số người đồng ý trả trước là chỉ số mạnh nhất cho PA4.
+- Đặt mục tiêu thực tế cho mẫu nhỏ, không đặt con số quá lớn rồi không đạt.
+
+## 7. Tiêu chí hoàn thành
+
+- Có bảng chỉ số đủ các tầng phễu, mỗi chỉ số có công thức và mục tiêu.
+- Có ngưỡng quyết định đặt trước khi chạy.
+- Có số liệu thật điền vào sau sprint.
+- Có kết luận rút ra từ số liệu.
+
+## 8. Lỗi cần tránh
+
+- Chỉ liệt kê chỉ số mà không có công thức hay mục tiêu.
+- Đặt ngưỡng quyết định sau khi đã biết kết quả.
+- Dùng chỉ số phù phiếm như tổng lượt xem mà bỏ qua chuyển đổi.
