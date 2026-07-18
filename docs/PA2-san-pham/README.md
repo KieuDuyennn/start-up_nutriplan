@@ -8,15 +8,17 @@ Tài liệu PA2 của Nhóm 14 — dự án **NutriPlan**.
 |---|---|---|
 | 01 | [Mô tả sản phẩm/dịch vụ (8 Core Services)](01-mo-ta-san-pham-dich-vu.md) | ✅ Hoàn thành |
 | 02 | [Problem-Solution Fit](02-problem-solution-fit.md) | ⬜ Chưa hoàn thành |
-| 03 | [Chân dung khách hàng mục tiêu](03-chan-dung-khach-hang-muc-tieu.md) | ⬜ Chưa hoàn thành |
+| 03 | [Chân dung khách hàng mục tiêu](03-chan-dung-khach-hang-muc-tieu.md) | ✅ Hoàn thành |
 | 04 | [Giá trị cốt lõi](04-gia-tri-cot-loi.md) | ⬜ Chưa hoàn thành |
 | 05 | [Các tính năng chính](05-cac-tinh-nang-chinh.md) | ⬜ Chưa hoàn thành |
-| 06 | [Điểm khác biệt thị trường (USP)](06-diem-khac-biet-thi-truong.md) | ⬜ Chưa hoàn thành |
+| 06 | [Điểm khác biệt thị trường (USP)](06-diem-khac-biet-thi-truong.md) | ✅ Hoàn thành |
 | 07 | [Mô hình hoạt động](07-mo-hinh-hoat-dong.md) | ⬜ Chưa hoàn thành |
 | 08 | [MVP Scope](08-mvp-scope.md) | ⬜ Chưa hoàn thành |
-| 09 | [Lộ trình phát triển](09-lo-trinh-phat-trien.md) | ⬜ Chưa hoàn thành |
+| 09 | [Lộ trình phát triển](09-lo-trinh-phat-trien.md) | ✅ Hoàn thành |
 | 10 | [Cập nhật Business Plan](10-cap-nhat-business-plan.md) | ⬜ Chưa hoàn thành |
 | 11 | [Wireframe & UML](11-wireframe-uml/) | ⬜ Chưa hoàn thành (khuyến khích) |
+| 12 | [Phân tích đối thủ cạnh tranh](12-phan-tich-doi-thu.md) | ✅ Hoàn thành (khuyến khích) |
+| 13 | [Bảng so sánh sản phẩm với giải pháp hiện có](13-bang-so-sanh-san-pham.md) | ✅ Hoàn thành (khuyến khích) |
 | — | [Phân công công việc PA2](phan-cong-PA2.md) | ✅ Hoàn thành |
 
 *Các task khuyến khích 12–14 (phân tích đối thủ, bảng so sánh, phản hồi người dùng): xem yêu cầu chi tiết trong [phan-cong-PA2.md](phan-cong-PA2.md).*
