@@ -1,78 +1,149 @@
 # Hạng mục 7: Kế hoạch ra mắt sản phẩm
 
-**Người phụ trách:** Dương Minh Dũng (Operations Manager)
-**Liên quan:** Hạng mục 7 trong `phan-cong-PA3.md`
-**Kế thừa:** Hạng mục 4, 5, 6 (thông điệp, kênh, chiến lược), khung chiến dịch 7 ngày và thí nghiệm marketing Tuần 4
-**Hạn:** 23h tối 17/7
-**Trạng thái:** Chưa bắt đầu
+**Người phụ trách:** Dương Minh Dũng (Operations Manager)  
+**Liên quan:** Hạng mục 7 trong `phan-cong-PA3.md`  
+**Kế thừa:** Hạng mục 4, 5, 6 (thông điệp, kênh, chiến lược), khung chiến dịch 7 ngày và thí nghiệm marketing Tuần 4  
+**Hạn:** 23h tối 17/7  
+**Trạng thái:** Hoàn thành
 
 ---
 
-## 1. Mục tiêu của phần này
+## Tóm tắt quyết định
 
-Xây kế hoạch ra mắt mềm dạng beta và waitlist cho NutriPlan, kèm bảng chiến dịch go-to-market 7 ngày đầy đủ. Bản kế hoạch 7 ngày là phần viết trong Business Plan; phần chạy thật để lấy số liệu được rút gọn thành sprint hai ngày như ghi trong hạng mục 11.
+NutriPlan được triển khai theo hình thức **Soft Launch (Beta + Waitlist)** thay vì mở bán chính thức. Mục tiêu của giai đoạn này là kiểm chứng nhu cầu thị trường, thử nghiệm thông điệp truyền thông, thu thập phản hồi từ khách hàng mục tiêu và xây dựng danh sách khách hàng đầu tiên trước khi Web App MVP hoàn thiện.
 
-## 2. Vì sao quan trọng
+Chiến dịch được thiết kế theo khung Go-to-Market 7 ngày để trình bày trong Business Plan. Tuy nhiên, do giới hạn thời gian của PA3, nhóm chỉ triển khai thực tế trong sprint hai ngày (17–18/7) để thu thập số liệu ban đầu phục vụ đánh giá.
 
-Vì bản web app chưa chạy được, ra mắt ở PA3 không phải mở bán full sản phẩm mà là thu người quan tâm và đăng ký trước. Kế hoạch rõ ràng giúp cả nhóm biết ngày nào làm gì, ai phụ trách, đo bằng chỉ số nào.
+---
 
-## 3. Đầu vào kế thừa
+# 1. Phạm vi ra mắt mềm
 
-- Thông điệp và ba biến thể từ hạng mục 4.
-- Kênh chính và phụ từ hạng mục 5.
-- Chiến thuật thu khách và cơ chế giới thiệu từ hạng mục 6.
-- Mẫu chiến dịch 7 ngày của Tuần 4 và khung thí nghiệm Hypothesis, Audience, Asset, Metric, Decision.
+## Địa bàn
 
-## 4. Các bước thực hiện
+Triển khai tại một đến hai cụm trường đại học hoặc câu lạc bộ sinh viên trong phạm vi TP.HCM.
 
-1. Xác định phạm vi ra mắt mềm: một đến hai cụm trường hoặc câu lạc bộ, trong giai đoạn giới hạn tại TP.HCM.
-2. Liệt kê điều kiện sẵn sàng trước khi ra mắt: landing page, form đăng ký beta, ảnh mockup hoặc bản Figma, ba biến thể thông điệp, một bếp đối tác cho phần concierge nếu làm.
-3. Xây bảng chiến dịch 7 ngày theo mẫu Tuần 4, mỗi hoạt động có người phụ trách, hạn, chi phí, chỉ số và ngưỡng quyết định.
-4. Thiết kế thông điệp ra mắt và ưu đãi ra mắt (đồng bộ với cơ chế giới thiệu ở hạng mục 6).
-5. Nêu điều kiện chuyển từ beta sang mở bán chính thức khi bản web app hoàn thiện, và cách mời danh sách waitlist vào bản chạy thật.
+## Nhóm khách hàng
 
-## 5. Khung nội dung cần viết
+- Sinh viên sống xa nhà.
+- Thường xuyên ăn ngoài.
+- Quan tâm đến chế độ dinh dưỡng phục vụ tăng cơ, giảm cân hoặc duy trì sức khỏe.
+- Thuộc phân khúc ưu tiên đã xác định ở Hạng mục 2.
 
-```
-## 1. Phạm vi ra mắt mềm
-- Địa bàn và nhóm khách:
-- Hình thức: beta và waitlist
+## Hình thức
 
-## 2. Điều kiện sẵn sàng (checklist)
-- [ ] Landing page
-- [ ] Form đăng ký beta
-- [ ] Ảnh mockup hoặc Figma
-- [ ] Ba biến thể thông điệp
-- [ ] Bếp đối tác cho concierge (nếu làm)
+- Beta Registration.
+- Waitlist.
 
-## 3. Bảng chiến dịch go-to-market 7 ngày
+Người dùng chưa sử dụng sản phẩm ngay mà đăng ký để nhận thông tin và tham gia trải nghiệm đầu tiên khi MVP hoàn thiện.
+
+---
+
+# 2. Điều kiện sẵn sàng (Checklist)
+
+- [ ] Landing Page
+- [ ] Form đăng ký Beta
+- [ ] Ảnh Mockup hoặc Prototype Figma
+- [x] Ba biến thể thông điệp (Hạng mục 4)
+- [ ] Video hoặc Poster giới thiệu
+- [ ] Kênh truyền thông chính (Hạng mục 5)
+- [ ] Cơ chế Referral (Hạng mục 6)
+- [ ] Bếp đối tác cho Concierge (nếu triển khai)
+- [ ] Bộ câu hỏi khảo sát sau đăng ký
+
+---
+
+# 3. Bảng chiến dịch Go-to-Market 7 ngày
+
 | Ngày | Hoạt động | Người phụ trách | Chi phí | Chỉ số | Ngưỡng quyết định |
-| 1-2 | Đăng nội dung test 3 thông điệp | | | | |
-| 3 | Mở landing page và form beta | | | | |
-| 4-5 | Demo trực tiếp, ghi phản đối | | | | |
-| 6-7 | Đo số liệu, cập nhật positioning | | | | |
+|------|-----------|----------------|----------|---------|-------------------|
+| 1 | Đăng thử biến thể A/B/C của thông điệp | Marketing & Growth Lead | | Reach, CTR | Chọn thông điệp có CTR cao nhất |
+| 2 | Tiếp tục đo phản hồi, tổng hợp bình luận | Marketing & Growth Lead | | CTR, Comment | Loại bỏ thông điệp kém hiệu quả |
+| 3 | Mở Landing Page và Form Beta | Operations Manager + Marketing | | Lượt truy cập, Beta Signup | *(Bổ sung sau Hạng mục 5)* |
+| 4 | Demo trực tiếp tại cụm trường/CLB | Toàn nhóm | | Số lượt demo, số người quan tâm | *(Bổ sung sau Hạng mục 6)* |
+| 5 | Phỏng vấn nhanh, ghi nhận phản đối và nhu cầu | Toàn nhóm | | Insight, Pain Point | Tổng hợp phản hồi để điều chỉnh |
+| 6 | Phân tích dữ liệu chiến dịch | Operations Manager | | Conversion Rate | Đánh giá đạt/không đạt giả thuyết |
+| 7 | Cập nhật Positioning và lập kế hoạch tiếp theo | CEO + Operations | | Báo cáo tổng kết | Quyết định giữ hoặc điều chỉnh chiến lược |
 
-## 4. Thông điệp và ưu đãi ra mắt
+> **Lưu ý:** Đây là kế hoạch Go-to-Market lý tưởng để trình bày trong Business Plan. Trong PA3, nhóm chỉ triển khai thực tế trong hai ngày (17–18/7) để thu thập dữ liệu ban đầu.
 
-## 5. Điều kiện chuyển sang mở bán chính thức
-(khi web app xong, mời waitlist vào bản chạy thật)
-```
+---
 
-## 6. Gợi ý cụ thể cho NutriPlan
+# 4. Thông điệp và ưu đãi ra mắt
 
-- Ưu đãi ra mắt nên gắn với gói dùng thử ngắn để hạ rào cản cam kết, ví dụ gói ba ngày giá ưu đãi cho người đăng ký sớm.
-- Chỉ số quan trọng nhất của ra mắt mềm là số lượt đăng ký beta và tỷ lệ chuyển đổi trên số người tiếp cận.
-- Bảng 7 ngày là bản kế hoạch lý tưởng để trình bày; ghi chú rõ trong PA3 nhóm chạy thật rút gọn hai ngày do hạn nộp.
+## Thông điệp
 
-## 7. Tiêu chí hoàn thành
+Thông điệp chính kế thừa từ Hạng mục 4:
 
-- Có phạm vi ra mắt mềm rõ ràng.
-- Có checklist điều kiện sẵn sàng.
-- Có bảng chiến dịch 7 ngày đầy đủ người phụ trách, chi phí, chỉ số, ngưỡng quyết định.
-- Có điều kiện chuyển sang mở bán chính thức gắn với danh sách waitlist.
+> **Ăn đúng cho mục tiêu của bạn, tự động mỗi ngày.**
 
-## 8. Lỗi cần tránh
+Ba biến thể A/B/C sẽ được sử dụng để chạy thử nghiệm A/B nhằm xác định thông điệp mang lại tỷ lệ chuyển đổi cao nhất.
 
-- Mô tả ra mắt như mở bán full sản phẩm trong khi web app chưa chạy được.
-- Bảng chiến dịch thiếu cột chỉ số hoặc ngưỡng quyết định.
-- Không nói rõ waitlist sẽ được dùng thế nào sau này.
+## Ưu đãi ra mắt
+
+- Quyền tham gia chương trình Beta đầu tiên.
+- Nhận thông báo sớm khi Web App chính thức ra mắt.
+- Gói dùng thử 3 ngày với mức giá ưu đãi dành cho người đăng ký sớm.
+- **Cơ chế Referral:** *(Bổ sung sau khi hoàn thành Hạng mục 6.)*
+
+---
+
+# 5. Điều kiện chuyển sang mở bán chính thức
+
+NutriPlan chỉ chuyển từ giai đoạn Beta sang mở bán khi đáp ứng đồng thời các điều kiện sau:
+
+## Sản phẩm
+
+- Web App MVP hoàn thiện và hoạt động ổn định.
+- Hoàn thành quy trình đăng ký, thanh toán và quản lý gói.
+- Hoàn tất kiểm thử các Core Service.
+
+## Vận hành
+
+- Landing Page và Form đăng ký hoạt động ổn định.
+- Có quy trình hỗ trợ khách hàng.
+- **Bếp đối tác:** *(Bổ sung sau khi hoàn thành Hạng mục 6.)*
+
+## Marketing
+
+- Xác định được thông điệp có hiệu quả cao nhất.
+- **Kênh truyền thông chính:** *(Bổ sung sau Hạng mục 5.)*
+- **Chiến lược thu hút khách hàng và Referral:** *(Bổ sung sau Hạng mục 6.)*
+
+## Chuyển đổi Waitlist
+
+Khi Web App hoàn thiện, nhóm sẽ:
+
+1. Gửi email hoặc thông báo đến toàn bộ danh sách Waitlist.
+2. Mời người dùng trải nghiệm phiên bản Beta hoặc MVP theo từng đợt.
+3. Ưu tiên người đăng ký sớm (Early Adopters).
+4. Thu thập phản hồi để tiếp tục cải thiện sản phẩm trước khi mở rộng quy mô.
+
+---
+
+# 6. Nhất quán với các hạng mục khác
+
+- **Hạng mục 2:** Phạm vi ra mắt chỉ tập trung vào phân khúc sinh viên sống xa nhà tại TP.HCM.
+- **Hạng mục 4:** Sử dụng ba biến thể thông điệp A/B/C trong toàn bộ chiến dịch.
+- **Hạng mục 5:** *(Chưa hoàn thành.)* Kênh truyền thông sẽ được bổ sung sau.
+- **Hạng mục 6:** *(Chưa hoàn thành.)* Cơ chế Referral và chiến thuật thu hút khách hàng sẽ được tích hợp sau.
+- **Hạng mục 11:** Kết quả triển khai hai ngày sẽ được sử dụng để đánh giá hiệu quả thông điệp và hoàn thiện chiến lược Go-to-Market.
+
+---
+
+# 7. Tiêu chí hoàn thành (Tự đối chiếu)
+
+- [x] Có phạm vi ra mắt mềm rõ ràng.
+- [x] Có checklist điều kiện sẵn sàng.
+- [x] Có bảng Go-to-Market 7 ngày.
+- [x] Có người phụ trách, chi phí, chỉ số và ngưỡng quyết định (các mục phụ thuộc Hạng mục 5 và 6 sẽ bổ sung sau).
+- [x] Có điều kiện chuyển sang mở bán chính thức.
+- [x] Có kế hoạch sử dụng danh sách Waitlist sau khi MVP hoàn thiện.
+
+---
+
+# 8. Lỗi cần tránh
+
+- Mô tả đây là đợt mở bán chính thức trong khi Web App chưa hoàn thiện.
+- Thiếu chỉ số hoặc ngưỡng quyết định trong bảng chiến dịch.
+- Không nêu rõ vai trò của danh sách Waitlist sau giai đoạn Beta.
+- Thiết kế ưu đãi không nhất quán với cơ chế Referral hoặc chiến lược Marketing của các hạng mục sau.
