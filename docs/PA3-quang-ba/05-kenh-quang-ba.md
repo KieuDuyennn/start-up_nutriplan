@@ -23,10 +23,10 @@ Mỗi kênh được chấm theo ba yếu tố quyết định của khung Tuầ
 | Facebook group môn học và group ngành | Vào group để hỏi bài, mua bán đồ cũ, tìm phòng trọ; tin bài đăng của người cùng trường hơn quảng cáo | Cao | Cao. Thành viên nhóm đã ở sẵn trong các group này | Trung bình. Đếm được lượt tương tác, khó tách nguồn nếu không dùng link riêng |
 | Zalo (nhóm lớp, tin nhắn cá nhân) | Kênh liên lạc mặc định với bạn cùng lớp và cùng phòng | Cao | Cao | Trung bình. Đo được số người nhận và số người phản hồi, không đo được lượt xem |
 | Ký túc xá và phòng gym trường (poster, đứng bàn) | Đi qua mỗi ngày, đúng bối cảnh vừa tập xong hoặc vừa về phòng | Trung bình đến Cao | Trung bình. Cần xin phép ban quản lý, mất thời gian thủ tục | Thấp. Chỉ đo được qua mã QR riêng |
-| Micro KOC sinh viên (tài khoản 3 đến 10 nghìn người theo dõi trong trường) | Theo dõi vì cùng trường, xem như bạn học chứ không phải người nổi tiếng | Cao | Trung bình. Cần thời gian tìm và thương lượng, khó hoàn tất trong sprint hai ngày | Cao nếu dùng mã giới thiệu riêng |
+| Micro KOC sinh viên (tài khoản 3 đến 10 nghìn người theo dõi trong trường) | Theo dõi vì cùng trường, xem như bạn học chứ không phải người nổi tiếng | Cao | Trung bình. Cần thời gian tìm và thương lượng, khó hoàn tất gọn trong thời gian chiến dịch | Cao nếu dùng mã giới thiệu riêng |
 | Quảng cáo trả phí (Facebook, TikTok Ads) | Khách có thấy nhưng ở trạng thái không chủ động tìm | Trung bình | Thấp. Cần ngân sách và thời gian tối ưu, nhóm không có cả hai | Cao |
 
-Đọc bảng theo cột giữa thấy rõ ràng buộc thật của nhóm: ngân sách gần bằng không và chỉ có hai ngày chạy cao điểm. Vì vậy tiêu chí nhóm làm được là tiêu chí loại, không phải tiêu chí cộng điểm. Quảng cáo trả phí và micro KOC rơi ra ở đúng cột này dù khách vẫn có ở đó.
+Đọc bảng theo cột giữa thấy rõ ràng buộc thật của nhóm: ngân sách gần bằng không và thời gian chạy có hạn. Vì vậy tiêu chí nhóm làm được là tiêu chí loại, không phải tiêu chí cộng điểm. Quảng cáo trả phí và micro KOC rơi ra ở đúng cột này dù khách vẫn có ở đó.
 
 ## 2. Kênh chính và kênh phụ được chốt
 
@@ -64,7 +64,7 @@ Zalo và group môn học không được xếp là kênh thu hút mà là kênh
 
 Quảng cáo trả phí bị loại có chủ đích, không phải vì thiếu tiền đơn thuần. Trả tiền để khuếch đại một thông điệp chưa được kiểm chứng là cách nhanh nhất để đốt ngân sách mà không học được gì. Điều kiện để mở kênh trả phí: đã có ít nhất một biến thể thông điệp cho tỷ lệ chuyển đổi vượt ngưỡng ở hạng mục 9, và bản web app đã chạy được để người click quảng cáo có thứ thật để dùng.
 
-Micro KOC lùi lại giai đoạn sau vì thời gian tìm và thương lượng không khớp với sprint hai ngày, dù đây là kênh rất hợp khi mở rộng.
+Micro KOC lùi lại giai đoạn sau vì thời gian tìm và thương lượng không khớp với một chiến dịch ngắn ngày, dù đây là kênh rất hợp khi mở rộng.
 
 ## 3. Kênh theo tầng phễu
 
@@ -83,7 +83,7 @@ Cách đọc bảng này: TikTok đưa người vào đầu phễu, demo trực 
 ## 4. Liên hệ 7P
 
 - **Product.** Giá trị đầu tiên khách nhận được không phải là bữa ăn mà là hồ sơ dinh dưỡng cá nhân với con số calo và protein của riêng họ. Ở kênh demo, đây chính là thứ nhóm đưa ra trước tiên vì nó tạo cảm giác cụ thể ngay trong 5 phút.
-- **Price.** Gói tuần và gói tháng cho phân khúc sinh viên nằm trong khoảng 35 đến 60 nghìn một bữa đã chốt ở hạng mục 2. Gói dùng thử 1 đến 2 ngày là công cụ truyền thông quan trọng nhất về giá vì nó hạ rào cản cân nhắc kỹ trước khi trả cả gói, và là mức cam kết đo được trong sprint.
+- **Price.** Gói tuần và gói tháng cho phân khúc sinh viên nằm trong khoảng 35 đến 60 nghìn một bữa đã chốt ở hạng mục 2. Gói dùng thử 1 đến 2 ngày là công cụ truyền thông quan trọng nhất về giá vì nó hạ rào cản cân nhắc kỹ trước khi trả cả gói, và là mức cam kết đo được trong chiến dịch.
 - **Place.** Khách gặp NutriPlan ở ba nơi: trong lớp và câu lạc bộ (gặp trực tiếp), trên TikTok (gặp tình cờ), và trên landing page (nơi mọi kênh dẫn về). Landing page là điểm hội tụ duy nhất, mọi kênh chỉ có một đích đến, nhờ vậy phép đo không bị phân mảnh.
 - **Promotion.** Bốn nhóm nội dung (giáo dục, bằng chứng, hậu trường, chuyển đổi) chi tiết ở hạng mục 8, cộng ưu đãi ra mắt và cơ chế giới thiệu ở hạng mục 6.
 - **People.** Chính bốn thành viên nhóm là gương mặt của thương hiệu ở kênh demo. Việc người trình bày cũng là sinh viên cùng trường làm giảm rào cản niềm tin đáng kể so với một thương hiệu xa lạ.
@@ -108,7 +108,7 @@ Bằng chứng cộng đồng đưa lên landing page:
 - Số người đã đăng ký waitlist, cập nhật liên tục, vì con số thật dù nhỏ vẫn đáng tin hơn lời hứa.
 - Câu nói nguyên văn của người đăng ký về nỗi đau của họ, có xin phép trước khi đăng.
 - Ảnh chụp buổi demo tại lớp, cho thấy có người thật đang quan tâm.
-- Mục hỏi đáp gom đúng năm phản đối thu được trong sprint, trả lời thẳng thay vì né.
+- Mục hỏi đáp gom đúng năm phản đối thu được trong chiến dịch, trả lời thẳng thay vì né.
 
 Nguyên tắc bắt buộc: không tạo lời chứng thực giả, không đăng con số waitlist chưa đạt. Nếu chưa có bằng chứng thì để trống mục đó thay vì bịa, đúng nguyên tắc marketing có trách nhiệm đã cam kết ở `phan-cong-PA3.md`.
 
