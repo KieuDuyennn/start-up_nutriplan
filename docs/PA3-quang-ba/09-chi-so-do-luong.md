@@ -10,6 +10,8 @@
 
 PA3 là bản kế hoạch quảng bá, nhóm chưa chạy chiến dịch thật nên phần này chưa có số liệu kết quả. Mục tiêu của hạng mục là chỉ ra rõ: nhóm sẽ đo hiệu quả marketing bằng những chỉ số nào, tính theo công thức nào, đặt mục tiêu bao nhiêu là đạt, và quan trọng nhất là nhìn thấy từng con số đó ở đâu, qua công cụ nào. Khi chạy chiến dịch ở giai đoạn sau, chỉ việc ghi số thu được vào đúng khung này. Việc chốt trước bộ chỉ số và ngưỡng quyết định là để tránh tình trạng chạy xong mới đi tìm cách giải thích kết quả.
 
+*Các con số ở cột Ví dụ minh họa trong tài liệu này là số giả định, dùng để cho thấy bảng chỉ số trông thế nào khi điền và cách đọc ra kết luận. Đây chưa phải số đo thật, sẽ được thay bằng số liệu thu được khi chạy chiến dịch.*
+
 ## Tóm tắt quyết định
 
 Nhóm đo theo phễu năm tầng Reach, Interest, Activation, Revenue, Referral, mỗi tầng một chỉ số chính và một công thức rõ ràng. Chỉ số quan trọng nhất là tỷ lệ đăng ký beta trên số người tiếp cận, vì đây là thứ phản ánh sức mạnh thông điệp chứ không phản ánh may mắn thuật toán. Mỗi chỉ số được gắn với một nguồn dữ liệu cụ thể để biết nhìn con số đó ở đâu: bảng đếm tay tại buổi demo, thống kê sẵn có của TikTok và Facebook, và kết quả tổng hợp từ Google Form. Số liệu tách theo hai kênh chính là demo trực tiếp và TikTok, và tách theo ba biến thể thông điệp, nhờ vậy khi có kết quả sẽ kết luận được ở mức kênh nào và thông điệp nào chứ không dừng ở một con số tổng.
@@ -18,13 +20,13 @@ Nhóm đo theo phễu năm tầng Reach, Interest, Activation, Revenue, Referral
 
 Mục tiêu đặt cho quy mô một chiến dịch nhỏ chạy trên kênh tự nhiên, không phải cho một chiến dịch có ngân sách quảng cáo. Cột cuối cho biết nhìn thấy con số ở đâu, đây là phần trả lời câu hỏi đo bằng cách nào.
 
-| Tầng phễu | Chỉ số | Công thức | Mục tiêu định hướng | Nhìn thấy ở đâu |
-|---|---|---|---|---|
-| Reach | Số người tiếp cận | Số người nghe demo cộng lượt xem TikTok cộng lượt tiếp cận bài đăng group | Vài trăm người | Đếm tay tại buổi demo; mục thống kê lượt xem của TikTok; mục insight của bài đăng Facebook group |
-| Interest | Lượt tương tác | Lượt click link, lượt quét mã QR, lượt bình luận và lưu bài | Khoảng 15 phần trăm reach | Thống kê click ở link tiểu sử TikTok; số lượt quét mã QR; đếm bình luận và lượt lưu trên bài đăng |
-| Activation | Lượt đăng ký beta | Số form đăng ký hợp lệ (có liên hệ, thuộc cụm trường mục tiêu) | Vài chục đăng ký | Bảng tổng hợp câu trả lời của Google Form |
-| Revenue | Số người đồng ý trả trước | Số người nhận gói dùng thử concierge và trả tiền hoặc cam kết trả | Một vài người đầu tiên | Ghi tay danh sách người đã chuyển tiền hoặc chốt lịch nhận suất ăn |
-| Referral | Số lượt giới thiệu | Số người đăng ký có điền mã giới thiệu của người khác | Một vài lượt | Trường mã giới thiệu trong Google Form, đối chiếu trên bảng tính |
+| Tầng phễu | Chỉ số | Công thức | Mục tiêu định hướng | Ví dụ minh họa | Nhìn thấy ở đâu |
+|---|---|---|---|---|---|
+| Reach | Số người tiếp cận | Số người nghe demo cộng lượt xem TikTok cộng lượt tiếp cận bài đăng group | Vài trăm người | 412 | Đếm tay tại buổi demo; mục thống kê lượt xem của TikTok; mục insight của bài đăng Facebook group |
+| Interest | Lượt tương tác | Lượt click link, lượt quét mã QR, lượt bình luận và lưu bài | Khoảng 15 phần trăm reach | 58 | Thống kê click ở link tiểu sử TikTok; số lượt quét mã QR; đếm bình luận và lượt lưu trên bài đăng |
+| Activation | Lượt đăng ký beta | Số form đăng ký hợp lệ (có liên hệ, thuộc cụm trường mục tiêu) | Vài chục đăng ký | 24 | Bảng tổng hợp câu trả lời của Google Form |
+| Revenue | Số người đồng ý trả trước | Số người nhận gói dùng thử concierge và trả tiền hoặc cam kết trả | Một vài người đầu tiên | 4 | Ghi tay danh sách người đã chuyển tiền hoặc chốt lịch nhận suất ăn |
+| Referral | Số lượt giới thiệu | Số người đăng ký có điền mã giới thiệu của người khác | Một vài lượt | 6 | Trường mã giới thiệu trong Google Form, đối chiếu trên bảng tính |
 
 Ghi chú cách đếm để tránh thổi phồng số khi chạy thật:
 
@@ -36,37 +38,41 @@ Ghi chú cách đếm để tránh thổi phồng số khi chạy thật:
 
 Đây là các tỷ lệ tính ra từ bảng phễu, phản ánh chất lượng chứ không chỉ số lượng.
 
-| Chỉ số | Công thức | Mục tiêu định hướng | Nhìn thấy ở đâu |
-|---|---|---|---|
-| Tỷ lệ chuyển đổi tổng | Lượt đăng ký chia số người tiếp cận | Khoảng 5 đến 7 phần trăm | Tính từ tầng Activation và Reach |
-| Tỷ lệ click trên reach | Lượt tương tác chia số người tiếp cận | Khoảng 15 phần trăm | Tính từ tầng Interest và Reach |
-| Tỷ lệ đăng ký trên click | Lượt đăng ký chia lượt tương tác | Khoảng 40 phần trăm trở lên | Tính từ tầng Activation và Interest |
-| Chi phí có một đăng ký | Tổng chi phí quy đổi chia số đăng ký | Càng thấp càng tốt, kênh tự nhiên gần bằng không tiền mặt | Tính từ bảng công sức và tầng Activation |
-| Tỷ lệ trả trước trên đăng ký | Số người trả trước chia số đăng ký | Một phần nhỏ đủ để chứng minh có nhu cầu trả tiền | Tính từ tầng Revenue và Activation |
+| Chỉ số | Công thức | Mục tiêu định hướng | Ví dụ minh họa | Nhìn thấy ở đâu |
+|---|---|---|---|---|
+| Tỷ lệ chuyển đổi tổng | Lượt đăng ký chia số người tiếp cận | Khoảng 5 đến 7 phần trăm | 5,8 phần trăm (24 trên 412) | Tính từ tầng Activation và Reach |
+| Tỷ lệ click trên reach | Lượt tương tác chia số người tiếp cận | Khoảng 15 phần trăm | 14,1 phần trăm | Tính từ tầng Interest và Reach |
+| Tỷ lệ đăng ký trên click | Lượt đăng ký chia lượt tương tác | Khoảng 40 phần trăm trở lên | 41,4 phần trăm | Tính từ tầng Activation và Interest |
+| Chi phí có một đăng ký | Tổng chi phí quy đổi chia số đăng ký | Càng thấp càng tốt, kênh tự nhiên gần bằng không tiền mặt | 25 nghìn đồng | Tính từ bảng công sức và tầng Activation |
+| Tỷ lệ trả trước trên đăng ký | Số người trả trước chia số đăng ký | Một phần nhỏ đủ để chứng minh có nhu cầu trả tiền | 16,7 phần trăm | Tính từ tầng Revenue và Activation |
 
-Cách quy đổi chi phí khi chạy kênh tự nhiên: chi phí tiền mặt gần bằng không (chỉ có phí công cụ dựng landing page và chi phí nguyên liệu nếu chạy concierge), nên phần lớn chi phí là công sức. Nhóm quy đổi theo công thức số giờ làm nhân mức thù lao làm thêm phổ biến của sinh viên tại TP.HCM. Cách quy đổi này không phải chi phí thật đã chi mà là chi phí cơ hội, nêu rõ giả định để người đọc PA4 hiểu đúng bản chất con số.
+Cách quy đổi chi phí khi chạy kênh tự nhiên: chi phí tiền mặt gần bằng không (chỉ có phí công cụ dựng landing page và chi phí nguyên liệu nếu chạy concierge), nên phần lớn chi phí là công sức. Nhóm quy đổi theo công thức số giờ làm nhân mức thù lao làm thêm phổ biến của sinh viên tại TP.HCM, khoảng 25 nghìn đồng một giờ. Cách quy đổi này không phải chi phí thật đã chi mà là chi phí cơ hội, nêu rõ giả định để người đọc PA4 hiểu đúng bản chất con số.
+
+Ví dụ minh họa cách tính: 20 giờ công nhân 25 nghìn bằng 500 nghìn, cộng 100 nghìn phí công cụ và nguyên liệu, chia cho 24 đăng ký, ra khoảng 25 nghìn đồng một đăng ký.
 
 ## 3. Tách chỉ số theo kênh
 
 Đây là lý do trường bạn biết NutriPlan từ đâu trong form ở hạng mục 8 tồn tại. Không có nó thì mọi kết luận về kênh chỉ là phỏng đoán. Khi chạy thật, mỗi kênh được điền reach và số đăng ký riêng để tính ra tỷ lệ chuyển đổi của từng kênh.
 
-| Kênh | Đo reach ở đâu | Đo đăng ký ở đâu | Dùng để kết luận điều gì |
-|---|---|---|---|
-| Demo trực tiếp tại lớp và câu lạc bộ | Đếm tay số người nghe | Trường nguồn trong form chọn demo tại lớp | Kênh này có phải kênh chuyển đổi mạnh nhất không |
-| TikTok | Thống kê lượt xem của TikTok | Trường nguồn trong form chọn TikTok | Kênh này phủ được bao nhiêu người ngoài số lớp đi được |
-| Facebook group và Zalo | Insight bài đăng, số thành viên nhóm | Trường nguồn trong form chọn bạn giới thiệu hoặc khác | Kênh hạ tầng có kéo được giới thiệu không |
+| Kênh | Đo reach ở đâu | Đo đăng ký ở đâu | Reach (ví dụ) | Đăng ký (ví dụ) | Tỷ lệ chuyển đổi (ví dụ) |
+|---|---|---|---|---|---|
+| Demo trực tiếp tại lớp và câu lạc bộ | Đếm tay số người nghe | Trường nguồn trong form chọn demo tại lớp | 87 | 15 | 17,2 phần trăm |
+| TikTok | Thống kê lượt xem của TikTok | Trường nguồn trong form chọn TikTok | 268 | 5 | 1,9 phần trăm |
+| Facebook group và Zalo | Insight bài đăng, số thành viên nhóm | Trường nguồn trong form chọn bạn giới thiệu hoặc khác | 57 | 4 | 7,0 phần trăm |
 
-Cách đọc bảng này khi có số thật: kỳ vọng TikTok cho reach lớn nhất nhưng tỷ lệ chuyển đổi thấp, demo trực tiếp ngược lại, đúng với phân vai đã đặt ở hạng mục 5. Nếu demo trực tiếp lại không cho tỷ lệ chuyển đổi cao hơn TikTok đáng kể thì giả định về sức mạnh của kênh gặp mặt bị bác bỏ, và cần xem lại phần trình bày trong buổi demo chứ không phải đổi kênh.
+Cách đọc bảng này khi có số thật: kỳ vọng TikTok cho reach lớn nhất nhưng tỷ lệ chuyển đổi thấp, demo trực tiếp ngược lại, đúng với phân vai đã đặt ở hạng mục 5. Dạng số ví dụ ở trên minh họa đúng kỳ vọng này. Nếu số thật cho thấy demo trực tiếp lại không có tỷ lệ chuyển đổi cao hơn TikTok đáng kể thì giả định về sức mạnh của kênh gặp mặt bị bác bỏ, và cần xem lại phần trình bày trong buổi demo chứ không phải đổi kênh.
 
 ## 4. Tách chỉ số theo biến thể thông điệp
 
 Ba biến thể ở hạng mục 4 chạy đồng thời trên cùng landing page, chỉ khác tiêu đề và phụ đề, nên chênh lệch kết quả quy về sức mạnh thông điệp. Mỗi biến thể được đo riêng theo hai tầng để kiểm chứng dự đoán ở hạng mục 4.
 
-| Biến thể | Hướng lợi ích | Đo tỷ lệ click ở đâu | Đo tỷ lệ đăng ký ở đâu | Dự đoán ở hạng mục 4 |
+| Biến thể | Hướng lợi ích | Click / reach (ví dụ) | Đăng ký / click (ví dụ) | Dự đoán ở hạng mục 4 |
 |---|---|---|---|---|
-| A | Tiết kiệm thời gian | Thống kê từng video và link riêng | Trang landing dùng tiêu đề A | Thắng ở tầng thu hút, tỷ lệ click cao nhất |
-| B | Đạt mục tiêu sức khỏe | Thống kê bài đăng B | Trang landing dùng tiêu đề B | Thắng ở tầng chuyển đổi, tỷ lệ đăng ký trên click cao nhất |
-| C | Kiểm soát chi phí | Thống kê bài đăng C | Trang landing dùng tiêu đề C | Là bước chốt cho nhóm nhạy giá, không phải nội dung mở đầu |
+| A | Tiết kiệm thời gian | 16,7 phần trăm (cao nhất) | 29,0 phần trăm | Thắng ở tầng thu hút, tỷ lệ click cao nhất |
+| B | Đạt mục tiêu sức khỏe | 13,4 phần trăm | 61,1 phần trăm (cao nhất) | Thắng ở tầng chuyển đổi, tỷ lệ đăng ký trên click cao nhất |
+| C | Kiểm soát chi phí | 9,8 phần trăm | 44,4 phần trăm | Là bước chốt cho nhóm nhạy giá, không phải nội dung mở đầu |
+
+Mỗi biến thể được đo tỷ lệ click từ thống kê video và bài đăng riêng, đo tỷ lệ đăng ký từ trang landing dùng đúng tiêu đề của biến thể đó. Dạng số ví dụ ở trên khớp với dự đoán ở hạng mục 4: A cao nhất ở tầng thu hút, B cao nhất ở tầng chuyển đổi.
 
 Lưu ý khi có số thật: với mẫu vài chục người, chênh lệch nhỏ giữa các biến thể chưa đủ để kết luận chắc chắn. Chỉ coi là có ý nghĩa khi chênh lệch đủ lớn, ví dụ tỷ lệ của biến thể này gấp rưỡi biến thể kia trở lên. Nếu ba biến thể cho kết quả sát nhau thì kết luận trung thực là chưa phân định được, cần thêm mẫu, chứ không phải chọn đại biến thể nhỉnh hơn vài phần trăm.
 
@@ -120,6 +126,8 @@ Phần này mô tả cách đọc kết quả, sẽ được điền số và vi
 
 Hai con số dùng lại trực tiếp cho PA4 là chi phí có một đăng ký và tỷ lệ trả trước trên đăng ký. Vì vậy khi có kết quả, hai chỉ số này cần được ghi cẩn thận nhất.
 
+Ví dụ minh họa cách rút kết luận, đọc theo dạng số giả định ở các bảng trên: tỷ lệ chuyển đổi tổng 5,8 phần trăm vượt ngưỡng 5 phần trăm, 24 đăng ký vượt mức 15, có 4 người đồng ý trả trước, nên rơi vào tình huống tiếp tục. Kết luận tương ứng gồm ba ý: giữ nguyên phân vai kênh (demo trực tiếp là kênh chuyển đổi với 17,2 phần trăm, TikTok là kênh phủ sóng với 1,9 phần trăm nhưng đóng góp phần lớn reach); dùng biến thể A làm nội dung đầu phễu và biến thể B làm nội dung chốt đúng như dự đoán; lấy mức 25 nghìn đồng một đăng ký làm con số nền để so sánh khi mở kênh trả phí sau này. Khi có số thật, thay toàn bộ số trên bằng số đo được và viết lại kết luận theo đúng số đó.
+
 ## 8. Nhất quán với các hạng mục khác
 
 - Hạng mục 2: hai chỉ số định tính về mục tiêu sức khỏe và mức giá chấp nhận kiểm chứng ngược lại giả định phân khúc, kết quả ảnh hưởng tới cả PA4.
@@ -137,4 +145,5 @@ Hai con số dùng lại trực tiếp cho PA4 là chi phí có một đăng ký
 - [x] Có cách tách chỉ số theo kênh và theo biến thể thông điệp.
 - [x] Có chỉ số định tính bổ sung phần vì sao.
 - [x] Có công thức quy đổi chi phí cho kênh tự nhiên kèm giả định nêu rõ.
-- [x] Có quy trình rút kết luận để áp dụng khi chạy chiến dịch thật.
+- [x] Có quy trình rút kết luận và ví dụ minh họa cách đọc số, để áp dụng khi chạy chiến dịch thật.
+- [ ] Đã thay số ví dụ minh họa bằng số liệu thật sau khi chạy chiến dịch.
