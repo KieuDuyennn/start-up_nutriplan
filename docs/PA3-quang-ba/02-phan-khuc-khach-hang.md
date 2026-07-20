@@ -12,6 +12,46 @@
 
 Nhóm cắt thị trường theo hành vi thành ba phân khúc và chốt phân khúc ưu tiên số một là sinh viên sống xa nhà quanh một cụm trường đại học tại TP.HCM. Đây là phân khúc đủ đau, dễ tiếp cận nhất trong một chiến dịch ngắn ngày và có khả năng trở thành khách hàng tham chiếu để lan tỏa. Nhân viên văn phòng trẻ được giữ lại làm phân khúc mở rộng ở giai đoạn sau. Quyết định này là đầu vào cho thông điệp (hạng mục 4), kênh (hạng mục 5) và đối tượng chạy chiến dịch (hạng mục 11).
 
+## Bức tranh tổng thể marketing (một màn hình)
+
+Toàn bộ mạch marketing của PA3 gói trong một dòng chảy: chọn đúng người, nói đúng lời hứa, gặp ở đúng kênh, đo bằng đúng chỉ số.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, Roboto, sans-serif','fontSize':'14px','lineColor':'#90A4AE'}}}%%
+flowchart LR
+  P(["Phân khúc ưu tiên<br/>Sinh viên sống xa nhà (S1 + S2)"])
+  M(["Thông điệp lõi<br/>Ăn đúng cho mục tiêu của bạn,<br/>tự động mỗi ngày"])
+  K(["Kênh chính<br/>Demo trực tiếp + TikTok"])
+  C(["Chỉ số bắc cầu<br/>Tỷ lệ đăng ký beta trên reach"])
+  P --> M --> K --> C
+  classDef step fill:#E8F5E9,stroke:#2E7D32,stroke-width:1.5px,color:#1B5E20;
+  classDef goal fill:#2E7D32,stroke:#1B5E20,stroke-width:2px,color:#FFFFFF;
+  class P,M,K step;
+  class C goal;
+```
+
+Sơ đồ chọn phân khúc ưu tiên, đọc nhanh vì sao gộp S1 và S2 và lùi O1:
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, Roboto, sans-serif','fontSize':'14px','lineColor':'#90A4AE'}}}%%
+flowchart TD
+  Market["Người ăn ngoài cần ăn healthy tại TP.HCM"]
+  Market --> S1["S1 · SV có tập<br/>Đau: Cao · Tiếp cận: Cao"]
+  Market --> S2["S2 · SV quá bận<br/>Đau: Cao · Tiếp cận: Cao"]
+  Market --> O1["O1 · NV văn phòng<br/>Chi trả: Cao · Tiếp cận: Thấp"]
+  S1 --> Pick(["Phân khúc ưu tiên<br/>S1 + S2 · cùng cụm trường"])
+  S2 --> Pick
+  O1 -. giai đoạn sau .-> Later["Mở rộng về sau<br/>kênh trả phí, hợp tác doanh nghiệp"]
+  classDef root fill:#ECEFF1,stroke:#546E7A,stroke-width:1.5px,color:#37474F;
+  classDef cand fill:#E8F5E9,stroke:#2E7D32,stroke-width:1.5px,color:#1B5E20;
+  classDef chosen fill:#2E7D32,stroke:#1B5E20,stroke-width:2px,color:#FFFFFF;
+  classDef muted fill:#FAFAFA,stroke:#B0BEC5,stroke-width:1px,color:#78909C,stroke-dasharray:4 3;
+  class Market root;
+  class S1,S2 cand;
+  class Pick chosen;
+  class O1,Later muted;
+```
+
 ## 1. Các phân khúc xét đến
 
 Thay vì chia thị trường theo nhân khẩu học đơn thuần như tuổi và giới tính, nhóm chia theo hành vi và nhu cầu, bám vào ba persona đã dựng ở PA2. Ba persona đó không phải ba cá nhân rời rạc mà đại diện cho ba nhóm hành vi khác nhau, mỗi nhóm có use case và nỗi đau riêng.

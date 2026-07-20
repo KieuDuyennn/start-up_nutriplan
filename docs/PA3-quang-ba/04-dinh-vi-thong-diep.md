@@ -52,6 +52,28 @@ Ghi chú vận hành:
 - Biến thể B có hai phiên bản tiêu đề cho hai nhóm hành vi trong phân khúc ưu tiên (S1 tập luyện muốn tăng cơ, S2 quá bận cần giữ sức), để đo riêng nhóm nào phản hồi mạnh hơn với trục sức khỏe.
 - Ba biến thể dùng chung bộ nhận diện và cùng một landing page, chỉ khác tiêu đề, câu phụ đề và hình. Nhờ vậy phép so sánh A/B sạch, mọi khác biệt về lượt click và lượt đăng ký đều quy về sức mạnh của thông điệp.
 
+## Bản đồ kiến trúc thông điệp
+
+Một thông điệp lõi, ba biến thể, mỗi biến thể gánh một tầng phễu khác nhau.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, Roboto, sans-serif','fontSize':'14px','lineColor':'#90A4AE'}}}%%
+flowchart TD
+  Core(["Thông điệp lõi<br/>Ăn đúng cho mục tiêu của bạn, tự động mỗi ngày"])
+  Core --> A["Biến thể A · Tiết kiệm thời gian<br/>Hết cảnh nghĩ trưa nay ăn gì"]
+  Core --> B["Biến thể B · Mục tiêu sức khỏe<br/>Đủ protein / đủ chất mỗi bữa"]
+  Core --> C["Biến thể C · Kiểm soát chi phí<br/>Biết trước tiền ăn cả tháng"]
+  A --> FA(["Đầu phễu · kéo click"])
+  B --> FB(["Giữa phễu · chốt đăng ký"])
+  C --> FC(["Cuối phễu · nhóm nhạy giá"])
+  classDef core fill:#2E7D32,stroke:#1B5E20,stroke-width:2px,color:#FFFFFF;
+  classDef var fill:#E8F5E9,stroke:#2E7D32,stroke-width:1.5px,color:#1B5E20;
+  classDef stage fill:#E0F2F1,stroke:#00897B,stroke-width:1.5px,color:#004D40;
+  class Core core;
+  class A,B,C var;
+  class FA,FB,FC stage;
+```
+
 ## 4. Dự đoán biến thể thắng
 
 Nhóm dự đoán biến thể A (Hết cảnh nghĩ trưa nay ăn gì) thắng ở tầng thu hút, tức từ reach sang click.
