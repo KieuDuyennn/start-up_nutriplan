@@ -10,7 +10,7 @@
 
 ## Tóm tắt quyết định
 
-Phần này biến thông điệp và kênh đã chốt thành tài sản chạy được trong sprint. Nhóm dựng một landing page duy nhất làm điểm hội tụ của mọi kênh, một form đăng ký beta chỉ sáu trường để không mất người giữa chừng, một lịch nội dung tám mẩu chia theo bốn nhóm giáo dục, bằng chứng, hậu trường, chuyển đổi, và một cơ chế giới thiệu bằng mã riêng để đo được nguồn khách. Nguyên tắc xuyên suốt: mỗi mẩu nội dung chỉ một lời kêu gọi hành động và phải gắn với đúng một chỉ số ở hạng mục 9, nếu không đo được thì không đăng.
+Phần này biến thông điệp và kênh đã chốt thành tài sản chạy được trong chiến dịch. Nhóm dựng một landing page duy nhất làm điểm hội tụ của mọi kênh, một form đăng ký beta chỉ sáu trường để không mất người giữa chừng, một lịch nội dung tám mẩu chia theo bốn nhóm giáo dục, bằng chứng, hậu trường, chuyển đổi, và một cơ chế giới thiệu bằng mã riêng để đo được nguồn khách. Nguyên tắc xuyên suốt: mỗi mẩu nội dung chỉ một lời kêu gọi hành động và phải gắn với đúng một chỉ số ở hạng mục 9, nếu không đo được thì không đăng.
 
 ## 1. Lịch nội dung giai đoạn đầu
 
@@ -27,13 +27,13 @@ Tám mẩu nội dung, chia theo bốn nhóm của Tuần 4. Cột chỉ số đ
 | 7 | Bằng chứng | Câu nói nguyên văn của người đăng ký về nỗi đau của họ, có xin phép trước khi đăng | Ảnh chữ | TikTok, Facebook group | Đăng ký dùng thử beta | Lượt tương tác |
 | 8 | Hậu trường | Nhóm bốn sinh viên đang xây NutriPlan, vì sao bắt đầu từ chính bữa ăn của mình | Video 45 giây | TikTok | Theo dõi để xem nhóm làm tiếp | Lượt xem, lượt theo dõi mới |
 
-Cách phân bổ theo thời gian trong sprint:
+Cách phân bổ theo thời gian trong chiến dịch bảy ngày (gắn với kịch bản ở hạng mục 11):
 
-- Trước sprint (tối 17/7): đăng mẩu 3, 4, 5 cùng lúc để phép so sánh A/B sạch, ba biến thể xuất phát cùng điều kiện.
-- Trong sprint (18/7): đăng mẩu 1, 2 để kéo thêm reach, đăng mẩu 6 và 7 sau buổi demo đầu tiên vì lúc đó mới có bằng chứng thật.
-- Mẩu 8 đăng cuối, phục vụ giữ người theo dõi cho giai đoạn sau chứ không nhắm chuyển đổi trong sprint.
+- Mở màn (ngày 1): đăng mẩu 3, 4, 5 cùng lúc để phép so sánh A/B sạch, ba biến thể xuất phát cùng điều kiện.
+- Phủ sóng và demo (ngày 2 đến 4): đăng mẩu 1, 2 để kéo thêm reach, đăng mẩu 6 và 7 sau buổi demo đầu tiên vì lúc đó mới có bằng chứng thật.
+- Mẩu 8 đăng cuối, phục vụ giữ người theo dõi cho giai đoạn sau chứ không nhắm chuyển đổi trong chiến dịch.
 
-Nhóm hậu trường chỉ có một mẩu vì trong sprint hai ngày, ưu tiên cao nhất là nội dung chuyển đổi và bằng chứng. Nội dung hậu trường có giá trị dài hạn cho việc xây niềm tin nhưng không tạo ra đăng ký trong 48 giờ.
+Nhóm hậu trường chỉ có một mẩu vì trong một chiến dịch ngắn ngày, ưu tiên cao nhất là nội dung chuyển đổi và bằng chứng. Nội dung hậu trường có giá trị dài hạn cho việc xây niềm tin nhưng không tạo ra đăng ký ngay trong chiến dịch.
 
 ## 2. Đặc tả landing page
 
@@ -49,7 +49,7 @@ Một trang duy nhất, dựng bằng công cụ không cần lập trình (Canv
 | Khối mockup | Ba ảnh giao diện: màn hồ sơ dinh dưỡng, màn thực đơn tuần, màn đặt gói. Ghi rõ dưới ảnh: đây là bản mô phỏng giao diện, sản phẩm đang trong giai đoạn phát triển |
 | Khối bằng chứng | Con số waitlist cập nhật liên tục, câu nói thật của người đăng ký, ảnh buổi demo tại lớp |
 | Khối giá | Khoảng giá gói cho sinh viên và gói dùng thử 1 đến 2 ngày, nêu rõ đây là giá dự kiến giai đoạn beta |
-| Khối hỏi đáp | Năm câu, lấy đúng từ phản đối thu được trong buổi demo và cập nhật liên tục trong sprint |
+| Khối hỏi đáp | Năm câu, lấy đúng từ phản đối thu được trong buổi demo và cập nhật liên tục trong chiến dịch |
 | Nút cuối trang | Lặp lại đúng nút chính, không thêm nút mới |
 
 Nguyên tắc thiết kế:
@@ -98,7 +98,7 @@ Tin nhắn mẫu:
 >
 > Nếu bạn thấy hữu ích, gửi mã [mã riêng] cho bạn bè để cả hai cùng được ưu đãi khi mở bán.
 
-Nguyên tắc: không nhắn hàng loạt bằng tin sao chép nguyên si, luôn điền đúng tên và mục tiêu của từng người. Với mẫu vài chục người trong sprint, việc này làm thủ công được và tạo khác biệt rõ về tỷ lệ phản hồi.
+Nguyên tắc: không nhắn hàng loạt bằng tin sao chép nguyên si, luôn điền đúng tên và mục tiêu của từng người. Với mẫu vài chục người trong chiến dịch, việc này làm thủ công được và tạo khác biệt rõ về tỷ lệ phản hồi.
 
 Về dữ liệu cá nhân: chỉ dùng thông tin liên hệ cho mục đích mời dùng thử NutriPlan, không chia sẻ cho bên thứ ba, và ghi rõ điều này ngay dưới form đăng ký. Người đăng ký có thể yêu cầu xóa thông tin bất cứ lúc nào.
 
@@ -106,13 +106,13 @@ Về dữ liệu cá nhân: chỉ dùng thông tin liên hệ cho mục đích m
 
 Mỗi người đăng ký nhận một mã riêng dạng `NP-[tên viết tắt][số]`, ví dụ `NP-HUY07`. Mã này gửi kèm trong tin nhắn cảm ơn ở mục 4.
 
-Cách vận hành trong sprint:
+Cách vận hành trong chiến dịch:
 
 - Người được giới thiệu điền mã vào ô bạn biết NutriPlan từ đâu khi chọn mục bạn giới thiệu.
 - Nhóm đối chiếu thủ công trên bảng tính, đếm được mỗi người đăng ký kéo thêm bao nhiêu người.
 - Ưu đãi hai chiều: cả người giới thiệu và người được giới thiệu đều được ưu đãi khi mở bán chính thức. Ưu đãi hai chiều quan trọng vì nó cho người giới thiệu một lý do chính đáng để nhắn cho bạn mình, thay vì cảm giác đang đi bán hàng.
 
-Vì sao dùng mã thủ công thay vì link theo dõi tự động: trong sprint hai ngày với mẫu vài chục người, bảng tính thủ công đủ chính xác và dựng xong trong 15 phút, còn hệ thống link tự động tốn nhiều thời gian hơn phần giá trị nó mang lại. Khi quy mô vượt vài trăm người thì mới cần chuyển sang link riêng.
+Vì sao dùng mã thủ công thay vì link theo dõi tự động: trong một chiến dịch nhỏ với mẫu vài chục người, bảng tính thủ công đủ chính xác và dựng xong trong 15 phút, còn hệ thống link tự động tốn nhiều thời gian hơn phần giá trị nó mang lại. Khi quy mô vượt vài trăm người thì mới cần chuyển sang link riêng.
 
 Chỉ số thu được từ cơ chế này nạp thẳng vào tầng Referral của bảng chỉ số ở hạng mục 9. Chi tiết growth loop và ưu đãi ra mắt thuộc hạng mục 6 do Phúc phụ trách, phần này chỉ chịu trách nhiệm phần kỹ thuật đo lường nguồn khách.
 
