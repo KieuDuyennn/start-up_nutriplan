@@ -1,78 +1,153 @@
 # Hạng mục 3: Chân dung khách hàng điển hình
 
-**Người phụ trách:** Nguyễn Trọng Phúc (Business Development và Customer Success)
-**Liên quan:** Hạng mục 3 trong `phan-cong-PA3.md`
-**Kế thừa:** PA2 (`docs/PA2-san-pham/03-chan-dung-khach-hang-muc-tieu.md`, ba persona chi tiết)
-**Hạn:** 23h tối 16/7
-**Trạng thái:** Chưa bắt đầu
+## 1. Persona đại diện được chọn
+
+### Trần Nhật Huyền – Nhân viên văn phòng trẻ muốn giảm cân nhưng không thể duy trì chế độ ăn uống khoa học
+
+Huyền là nhân viên văn phòng 24 tuổi đang làm việc toàn thời gian tại TP. Hồ Chí Minh. Công việc bận rộn khiến cô thường xuyên ăn ngoài, đặt đồ ăn qua ứng dụng và không có thời gian chuẩn bị bữa ăn. Huyền mong muốn giảm cân và cải thiện sức khỏe nhưng gặp khó khăn trong việc duy trì chế độ dinh dưỡng lâu dài.
+
+### Vì sao Huyền đại diện đúng cho phân khúc ưu tiên?
+
+Trong PA2, nhóm xác định NutriPlan tập trung giải quyết bài toán của những người trẻ sống tại đô thị, có thu nhập ổn định, quan tâm đến sức khỏe nhưng thiếu thời gian để tự xây dựng chế độ ăn phù hợp. Trong ba persona đã xây dựng, Huyền là người phản ánh đầy đủ nhất đặc điểm của phân khúc này:
+
+- Có nhu cầu sử dụng dịch vụ thường xuyên.
+- Có khả năng chi trả cho mô hình subscription theo tuần hoặc tháng.
+- Đã quen với việc sử dụng các ứng dụng công nghệ để đặt đồ ăn.
+- Có động lực cải thiện sức khỏe nhưng thiếu thời gian và kiến thức để duy trì.
+
+Đây cũng là nhóm khách hàng có khả năng trở thành khách hàng trung thành nếu sản phẩm mang lại kết quả rõ ràng.
 
 ---
 
-## 1. Mục tiêu của phần này
+# 2. Tóm tắt nền (kế thừa PA2)
 
-Chọn một chân dung khách hàng điển hình đại diện cho phân khúc ưu tiên (đã chốt ở hạng mục 2), rồi bổ sung góc nhìn marketing để phần thông điệp và kênh phía sau có nguyên liệu thật để dùng. Đây không phải viết lại persona PA2 từ đầu, mà chắt lọc và làm sắc thêm.
+### Nhân khẩu học và bối cảnh
 
-## 2. Vì sao quan trọng
+- Nữ, 24 tuổi.
+- Nhân viên văn phòng tại TP. Hồ Chí Minh.
+- Thu nhập khoảng 12–18 triệu đồng/tháng.
+- Làm việc giờ hành chính, thường xuyên tăng ca.
+- Sử dụng GrabFood, ShopeeFood và ví điện tử gần như hằng ngày.
 
-Slide Tuần 4 nhấn mạnh marketing tốt bắt đầu từ hiểu người dùng, không từ công cụ. Câu nói thật của khách hàng chính là nguyên liệu để viết thông điệp bằng ngôn ngữ khách hàng. Biết họ tìm thông tin ở đâu và tin ai chính là cơ sở để chọn kênh.
+### Mục tiêu sức khỏe
 
-## 3. Đầu vào kế thừa
+- Giảm cân một cách bền vững.
+- Ăn uống lành mạnh nhưng vẫn đảm bảo sự tiện lợi.
+- Kiểm soát lượng Calories tiêu thụ.
+- Hình thành thói quen ăn uống khoa học thay vì ăn theo cảm hứng.
 
-PA2 đã có ba persona đầy đủ:
+### Nỗi đau chính
 
-- Persona 1: Nguyễn Thành Tiến, nam 20 tuổi, sinh viên năm 3 ngành CNTT, có tập gym, muốn tăng cơ.
-- Persona 2: Trần Nhật Huyền, nữ 24 tuổi, nhân viên văn phòng, muốn giảm cân.
-- Persona 3: Đoàn Tú Uyên, nữ 20 tuổi, sinh viên Y, quá bận không tập được, muốn duy trì sức khỏe.
+- Không có thời gian chuẩn bị bữa ăn.
+- Không biết món nào thực sự phù hợp với mục tiêu giảm cân.
+- Mỗi ngày đều phải suy nghĩ "hôm nay ăn gì".
+- Đặt đồ ăn theo cảm tính nên khó kiểm soát lượng Calories.
+- Khó duy trì chế độ ăn quá vài tuần.
 
-Mỗi persona đã có nhân khẩu học, một ngày điển hình, mục tiêu, nỗi đau, hành vi công nghệ và chi tiêu, rào cản khi mua, câu nói đặc trưng.
+### Ngân sách và hành vi chi tiêu
 
-## 4. Các bước thực hiện
+- Chấp nhận chi khoảng 80.000–150.000 VNĐ mỗi ngày cho ăn uống nếu dịch vụ mang lại sự tiện lợi và hiệu quả.
+- Sẵn sàng trả tiền cho gói theo tuần hoặc tháng nếu giúp tiết kiệm thời gian và cải thiện sức khỏe.
+- Thường so sánh đánh giá và đọc review trước khi quyết định đăng ký.
 
-1. Đối chiếu với phân khúc ưu tiên ở hạng mục 2 để chọn một persona đại diện. Nếu phân khúc ưu tiên là sinh viên sống xa nhà thì persona Tiến hoặc Uyên là ứng viên.
-2. Giữ lại các thông tin nền từ PA2, không chép dài dòng mà tóm gọn.
-3. Bổ sung ba lớp thông tin mới phục vụ marketing:
-   - Kênh tìm thông tin: họ lướt gì, xem ai, ở đâu (TikTok, group môn học, bạn cùng lớp, nhóm gym).
-   - Người và nguồn họ tin: bạn bè, đàn anh khóa trên, người tập cùng, giảng viên, review thật.
-   - Câu nói thật mô tả nỗi đau, trích trực tiếp để dùng làm thông điệp.
-4. Kết nối persona với hành trình quyết định: từ lúc biết đến NutriPlan tới lúc đăng ký, họ cần thấy gì để tin.
+### Rào cản khi mua
 
-## 5. Khung nội dung cần viết
+- Lo ngại thực đơn sẽ nhanh chán.
+- Chưa tin rằng hệ thống có thể thực sự cá nhân hóa khẩu phần.
+- Sợ phải trả trước cả tuần nhưng chất lượng không như kỳ vọng.
+- Muốn thấy kết quả rõ ràng trước khi cam kết sử dụng lâu dài.
 
-```
-## 1. Persona đại diện được chọn
-- Tên và một dòng mô tả:
-- Vì sao đại diện đúng cho phân khúc ưu tiên:
+---
 
-## 2. Tóm tắt nền (kế thừa PA2)
-- Nhân khẩu học và bối cảnh:
-- Mục tiêu sức khỏe:
-- Nỗi đau chính:
-- Ngân sách và hành vi chi tiêu:
-- Rào cản khi mua:
+# 3. Góc nhìn marketing
 
-## 3. Góc nhìn marketing (bổ sung mới)
-- Kênh tìm thông tin thường dùng:
-- Người và nguồn họ tin tưởng:
-- Câu nói thật mô tả nỗi đau (trích dẫn):
+## Kênh tìm thông tin thường dùng
 
-## 4. Hành trình quyết định
-(Họ cần thấy bằng chứng gì để chuyển từ biết đến đăng ký dùng thử)
-```
+Do đặc điểm là nhân viên văn phòng trẻ, Huyền dành phần lớn thời gian trực tuyến trên điện thoại. Các kênh thường xuyên sử dụng gồm:
 
-## 6. Gợi ý cụ thể cho NutriPlan
+- TikTok (nội dung giảm cân, meal prep, healthy lifestyle).
+- Facebook (các nhóm Eat Clean, Healthy Food Việt Nam, review đồ ăn healthy).
+- Instagram (food blogger, lifestyle creator).
+- YouTube (video chia sẻ kinh nghiệm giảm cân, dinh dưỡng, tập luyện).
+- Google Search khi cần tìm hiểu thông tin cụ thể.
 
-- Nếu chọn persona Tiến (có tập luyện): kênh mạnh là nội dung thể hình trên TikTok và YouTube, nhóm gym, bạn tập cùng. Nỗi đau nên nhấn: tập nhiều mà không tiến bộ vì ăn thất thường, không biết đủ protein chưa.
-- Nếu chọn persona Uyên (quá bận, không tập được): kênh mạnh là group môn học, bạn cùng lớp, ký túc xá. Nỗi đau nên nhấn: hiểu về dinh dưỡng nhưng không có thời gian áp dụng, ăn mì gói qua mùa thi.
-- Câu nói thật đã có sẵn trong PA2, ví dụ câu của Uyên: học về dinh dưỡng mà bữa ăn toàn mì gói, biết hại nhưng không còn thời gian. Dùng nguyên câu này cho thông điệp.
+Ngoài ra, Huyền thường tiếp cận sản phẩm mới thông qua quảng cáo trên mạng xã hội hoặc video review của các KOL trong lĩnh vực sức khỏe.
 
-## 7. Tiêu chí hoàn thành
+## Người và nguồn Huyền tin tưởng
 
-- Chọn đúng một persona đại diện, nhất quán với phân khúc ưu tiên ở hạng mục 2.
-- Có đủ ba lớp thông tin marketing mới (kênh tìm thông tin, nguồn tin cậy, câu nói thật).
-- Câu nói thật trích được dùng làm nguyên liệu cho hạng mục 4.
+Khi quyết định sử dụng một dịch vụ ăn uống định kỳ, Huyền thường tham khảo:
 
-## 8. Lỗi cần tránh
+- Đồng nghiệp đã từng sử dụng.
+- Bạn bè cùng công ty.
+- Review thực tế từ người dùng trên Facebook hoặc TikTok.
+- Huấn luyện viên thể hình hoặc chuyên gia dinh dưỡng có chuyên môn.
+- Các creator chia sẻ hành trình giảm cân thật thay vì quảng cáo quá mức.
 
-- Chép nguyên persona PA2 mà không bổ sung góc marketing.
-- Chọn persona không khớp với phân khúc ưu tiên đã chốt.
-- Mô tả chung chung kiểu người bận rộn muốn sống khỏe thay vì một người cụ thể.
+Huyền có xu hướng tin vào trải nghiệm thực tế của người dùng hơn là những thông điệp quảng cáo chỉ nói về tính năng sản phẩm.
+
+## Câu nói thật mô tả nỗi đau
+
+> "Ngày nào cũng muốn ăn uống lành mạnh, nhưng tan làm là quá mệt để nghĩ hôm nay nên ăn gì. Cuối cùng lại đặt đại một món cho xong."
+
+Câu nói này phản ánh đúng vấn đề cốt lõi của Huyền: mong muốn sống khỏe luôn tồn tại, nhưng sự bận rộn khiến việc duy trì chế độ ăn khoa học trở nên rất khó khăn.
+
+Đây cũng là chất liệu để xây dựng các thông điệp marketing của NutriPlan như:
+
+- "Đừng mất 20 phút mỗi ngày để nghĩ hôm nay ăn gì."
+- "NutriPlan lên kế hoạch dinh dưỡng để bạn chỉ cần tập trung vào công việc."
+- "Ăn đúng mục tiêu, không cần tính Calories mỗi ngày."
+
+---
+
+# 4. Hành trình quyết định
+
+## Giai đoạn 1 – Nhận biết
+
+Huyền bắt gặp một video TikTok chia sẻ hành trình giảm cân của một nhân viên văn phòng sử dụng NutriPlan. Nội dung nhấn mạnh việc không cần tự chuẩn bị bữa ăn nhưng vẫn giảm cân đều đặn.
+
+**Điều cần thấy để tiếp tục quan tâm**
+
+- Vấn đề được mô tả giống hoàn cảnh của bản thân.
+- Hình ảnh bữa ăn thực tế.
+- Kết quả trước và sau của người dùng.
+
+---
+
+## Giai đoạn 2 – Cân nhắc
+
+Huyền truy cập website NutriPlan để tìm hiểu thêm.
+
+Những yếu tố giúp tăng niềm tin gồm:
+
+- Hệ thống tính Calories và Macro dựa trên thông tin cá nhân.
+- Thực đơn được cá nhân hóa thay vì áp dụng chung.
+- Có thể thay đổi món ăn.
+- Giá gói dịch vụ rõ ràng.
+- Chính sách dùng thử hoặc cam kết hoàn tiền.
+
+---
+
+## Giai đoạn 3 – Quyết định
+
+Trước khi thanh toán, Huyền vẫn còn lo ngại về chất lượng và hiệu quả.
+
+Các bằng chứng giúp Huyền ra quyết định gồm:
+
+- Hình ảnh thật từ khách hàng.
+- Review tích cực trên mạng xã hội.
+- Video hậu trường chế biến.
+- Chứng nhận hoặc sự đồng hành của chuyên gia dinh dưỡng.
+- Cam kết hỗ trợ trong suốt quá trình sử dụng.
+
+---
+
+## Giai đoạn 4 – Sau khi sử dụng
+
+Sau khi đăng ký, điều khiến Huyền tiếp tục gia hạn không chỉ là bữa ăn ngon mà còn là:
+
+- Theo dõi được cân nặng thay đổi.
+- Thấy thực đơn được điều chỉnh theo tiến trình.
+- Được nhắc nhở và chăm sóc định kỳ.
+- Cảm nhận NutriPlan giống một người đồng hành hơn là một ứng dụng giao đồ ăn.
+
+Nếu trải nghiệm tích cực, Huyền sẽ sẵn sàng giới thiệu NutriPlan cho đồng nghiệp và bạn bè – đây cũng là nguồn khách hàng mới có độ tin cậy cao và chi phí chuyển đổi thấp.
