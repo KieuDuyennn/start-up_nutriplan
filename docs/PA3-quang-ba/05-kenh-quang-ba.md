@@ -14,7 +14,7 @@ Nhóm chốt kênh chính là demo trực tiếp tại lớp và câu lạc bộ
 
 ## 1. Bảng kênh khả thi
 
-Mỗi kênh được chấm theo ba yếu tố quyết định của khung Tuần 4: khách có sẵn ở đó không, nhóm bốn người làm nổi không, và có đo được chuyển đổi không. Thang Cao, Trung bình, Thấp.
+Mỗi kênh được chấm theo ba yếu tố quyết định của khung Tuần 4: khách có sẵn ở đó không, nguồn lực nhóm có kham nổi không, và có đo được chuyển đổi không. Thang Cao, Trung bình, Thấp.
 
 | Kênh | Hành vi khách gắn với kênh | Khách có ở đó | Nhóm làm được | Đo lường được |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ flowchart LR
 
 ## 4. Liên hệ 7P
 
-- **Product.** Giá trị đầu tiên khách nhận được không phải là bữa ăn mà là hồ sơ dinh dưỡng cá nhân với con số calo và protein của riêng họ. Ở kênh demo, đây chính là thứ nhóm đưa ra trước tiên vì nó tạo cảm giác cụ thể ngay trong 5 phút.
+- **Product.** Giá trị đầu tiên khách nhận được là hồ sơ dinh dưỡng cá nhân với con số calo và protein của riêng họ, đến trước cả bữa ăn. Ở kênh demo, đây chính là thứ nhóm đưa ra trước tiên vì nó tạo cảm giác cụ thể ngay trong 5 phút.
 - **Price.** Gói tuần và gói tháng cho phân khúc sinh viên nằm trong khoảng 35 đến 60 nghìn một bữa đã chốt ở hạng mục 2. Gói dùng thử 1 đến 2 ngày là công cụ truyền thông quan trọng nhất về giá vì nó hạ rào cản cân nhắc kỹ trước khi trả cả gói, và là mức cam kết đo được trong chiến dịch.
 - **Place.** Khách gặp NutriPlan ở ba nơi: trong lớp và câu lạc bộ (gặp trực tiếp), trên TikTok (gặp tình cờ), và trên landing page (nơi mọi kênh dẫn về). Landing page là điểm hội tụ duy nhất, mọi kênh chỉ có một đích đến, nhờ vậy phép đo không bị phân mảnh.
 - **Promotion.** Bốn nhóm nội dung (giáo dục, bằng chứng, hậu trường, chuyển đổi) chi tiết ở hạng mục 8, cộng ưu đãi ra mắt và cơ chế giới thiệu ở hạng mục 6.
@@ -135,7 +135,7 @@ flowchart TD
 
 ## 5. Góc tìm kiếm và cộng đồng
 
-Sinh viên hiện tìm thông tin không chỉ trên Google mà còn hỏi thẳng công cụ AI và tìm ngay trong ô tìm kiếm của TikTok. Nội dung muốn được tìm thấy phải trả lời đúng câu hỏi họ gõ, chứ không phải mô tả sản phẩm.
+Sinh viên hiện tìm thông tin ở nhiều nơi ngoài Google: hỏi thẳng công cụ AI, hoặc gõ ngay vào ô tìm kiếm của TikTok. Nội dung muốn được tìm thấy phải trả lời đúng câu hỏi họ gõ, chứ không phải mô tả sản phẩm.
 
 Các câu hỏi cụ thể nội dung nhóm nhắm trả lời:
 
@@ -153,7 +153,7 @@ Bằng chứng cộng đồng đưa lên landing page:
 - Ảnh chụp buổi demo tại lớp, cho thấy có người thật đang quan tâm.
 - Mục hỏi đáp gom đúng năm phản đối thu được trong chiến dịch, trả lời thẳng thay vì né.
 
-Nguyên tắc bắt buộc: không tạo lời chứng thực giả, không đăng con số waitlist chưa đạt. Nếu chưa có bằng chứng thì để trống mục đó thay vì bịa, đúng nguyên tắc marketing có trách nhiệm đã cam kết ở `phan-cong-PA3.md`.
+Nguyên tắc bắt buộc: không tạo lời chứng thực giả, không đăng con số waitlist chưa đạt. Nếu chưa có bằng chứng thì để trống mục đó thay vì bịa, đúng nguyên tắc marketing có trách nhiệm mà nhóm cam kết.
 
 ## 6. Nhất quán với các hạng mục khác
 
