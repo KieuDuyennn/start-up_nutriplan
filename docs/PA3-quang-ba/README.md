@@ -1,10 +1,10 @@
 # PA3: Quảng bá
 
-**Trạng thái: đang thực hiện.**
+**Trạng thái: đã viết xong nội dung 11 hạng mục, đang chờ hợp nhất Business Plan và rà soát chéo.**
 
 Sản phẩm nộp: bản cập nhật Business Plan tập trung phần Quảng bá và Go-to-Market. Bám theo 9 nội dung bắt buộc của đề bài và khung lý thuyết Tuần 4 (ICP, segmentation, positioning, funnel, kênh, growth loop, chiến dịch kiểm chứng nhu cầu). Kế thừa khách hàng mục tiêu, 3 persona và USP từ PA2.
 
-Phương án đã chốt: Phương án B (kế hoạch đầy đủ kèm chạy thử chiến dịch lấy số liệu thật). Deadline nộp 20/7, nhóm hoàn tất nội dung trước ngày 19.
+Phương án đã chốt: Phương án B (kế hoạch đầy đủ kèm chạy thử chiến dịch lấy số liệu thật). Nhóm nộp bản kế hoạch đầy đủ với số ví dụ minh họa cho bảng chỉ số (đã ghi rõ là số giả định ở hạng mục 9 và 11); phần chạy chiến dịch thật để lấy số liệu để lại giai đoạn sau khi bản web app sẵn sàng. Deadline nộp 20/7, nhóm hoàn tất nội dung trước ngày 19.
 
 Phân công chi tiết, cách tiếp cận và lộ trình: xem [phan-cong-PA3.md](phan-cong-PA3.md). Mỗi hạng mục có một file brief hướng dẫn riêng (`01` đến `11`).
 
@@ -28,7 +28,8 @@ Phân công chi tiết, cách tiếp cận và lộ trình: xem [phan-cong-PA3.m
 - [x] Lập bảng phân công (`phan-cong-PA3.md`)
 - [x] Chốt phương án triển khai (Phương án B)
 - [x] Tạo file brief hướng dẫn cho từng hạng mục (`01` đến `11`)
-- [ ] Viết nội dung từng hạng mục theo brief và lộ trình 16 đến 18/7
-- [ ] Chạy chiến dịch kiểm chứng nhu cầu (sprint 17 đến 18/7), viết `11-campaign-report.md`
-- [ ] Cập nhật `docs/business-plan/09-marketing-go-to-market.md` và rà soát nhất quán
-- [ ] Rà soát chéo ngày 19, nộp ngày 20
+- [x] Viết nội dung 11 hạng mục theo brief (`01` đến `11`)
+- [x] Thiết kế kịch bản chiến dịch và bảng chỉ số với số ví dụ minh họa (`09`, `11`)
+- [ ] Chạy chiến dịch thật để thay số ví dụ bằng số liệu thu được (giai đoạn sau, khi web app sẵn sàng)
+- [ ] Hạng mục 10: cập nhật `docs/business-plan/09-marketing-go-to-market.md` và rà soát nhất quán (Phú)
+- [ ] Rà soát chéo cả nhóm, nộp ngày 20

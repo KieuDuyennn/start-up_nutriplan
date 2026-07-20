@@ -4,7 +4,7 @@
 **Liên quan:** Hạng mục 1 trong `phan-cong-PA3.md`
 **Kế thừa:** PA2 (chân dung khách hàng, mức chi tiêu ăn uống trong 3 persona), PA2 phân tích đối thủ
 **Hạn:** 12h trưa 17/7
-**Trạng thái:** Chưa bắt đầu
+**Trạng thái:** Hoàn thành
 
 ---
 
