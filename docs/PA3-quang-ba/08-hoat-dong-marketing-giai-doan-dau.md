@@ -16,34 +16,13 @@ Phần này biến thông điệp và kênh đã chốt thành tài sản chạy
 
 Hành trình từ nội dung tới khách hàng và vòng giới thiệu quay lại:
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, Roboto, sans-serif','fontSize':'14px','lineColor':'#90A4AE'}}}%%
-flowchart LR
-  G["Giáo dục"] --> LP
-  Cv["Chuyển đổi"] --> LP
-  Bc["Bằng chứng"] --> LP
-  Ht["Hậu trường"] --> LP
-  LP(["Landing page · 10 khối"]) --> F(["Form đăng ký beta · 6 trường"])
-  F --> Z(["Zalo<br/>cảm ơn + thực đơn mẫu"])
-  Z --> Rf(["Mã giới thiệu<br/>kéo khách mới"])
-  Rf -. quay lại .-> LP
-  classDef content fill:#E0F2F1,stroke:#00897B,stroke-width:1.5px,color:#004D40;
-  classDef flow fill:#E8F5E9,stroke:#2E7D32,stroke-width:1.5px,color:#1B5E20;
-  class G,Cv,Bc,Ht content;
-  class LP,F,Z,Rf flow;
-```
+<!-- Sơ đồ dựng từ assets/hm8-hanh-trinh-khach.mmd -->
+![Hành trình khách: nội dung đến landing page, form, Zalo và vòng giới thiệu](assets/hm8-hanh-trinh-khach.png)
 
 Cơ cấu tám mẩu nội dung giai đoạn đầu, ưu tiên chuyển đổi và bằng chứng:
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, Roboto, sans-serif','pie1':'#2E7D32','pie2':'#66BB6A','pie3':'#A5D6A7','pie4':'#C8E6C9','pieStrokeColor':'#FFFFFF','pieStrokeWidth':'2px','pieOuterStrokeColor':'#2E7D32','pieOuterStrokeWidth':'2px','pieTitleTextSize':'16px','pieTitleTextColor':'#1B5E20','pieSectionTextColor':'#1B5E20','pieSectionTextSize':'14px','pieLegendTextColor':'#37474F'}}}%%
-pie showData
-  title Cơ cấu 8 mẩu nội dung
-  "Chuyển đổi" : 3
-  "Giáo dục" : 2
-  "Bằng chứng" : 2
-  "Hậu trường" : 1
-```
+<!-- Sơ đồ dựng từ assets/hm8-co-cau-noi-dung.mmd -->
+![Cơ cấu 8 mẩu nội dung giai đoạn đầu](assets/hm8-co-cau-noi-dung.png)
 
 ## 1. Lịch nội dung giai đoạn đầu
 

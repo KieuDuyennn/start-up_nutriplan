@@ -1,0 +1,11 @@
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, Roboto, sans-serif','fontSize':'14px','lineColor':'#90A4AE'}}}%%
+flowchart LR
+  P(["Phân khúc ưu tiên<br/>Sinh viên sống xa nhà (S1 + S2)"])
+  M(["Thông điệp lõi<br/>Ăn đúng cho mục tiêu của bạn,<br/>tự động mỗi ngày"])
+  K(["Kênh chính<br/>Demo trực tiếp + TikTok"])
+  C(["Chỉ số bắc cầu<br/>Tỷ lệ đăng ký beta trên reach"])
+  P --> M --> K --> C
+  classDef step fill:#E8F5E9,stroke:#2E7D32,stroke-width:1.5px,color:#1B5E20;
+  classDef goal fill:#2E7D32,stroke:#1B5E20,stroke-width:2px,color:#FFFFFF;
+  class P,M,K step;
+  class C goal;

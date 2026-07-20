@@ -1,0 +1,13 @@
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, Roboto, sans-serif','fontSize':'14px','lineColor':'#90A4AE'}}}%%
+flowchart LR
+  H(["Hypothesis<br/>Giả thuyết nhu cầu + thông điệp"]) --> Run(["Run<br/>Chạy 3 biến thể trên 2 kênh"])
+  Run --> M(["Measure<br/>Phễu 5 tầng + phản đối thật"])
+  M --> D{"Decision<br/>Đạt ngưỡng ở hạng mục 9?"}
+  D -->|Đạt| Scale(["Mở rộng · tiến tới mở bán"])
+  D -->|Chưa| H
+  classDef step fill:#E8F5E9,stroke:#2E7D32,stroke-width:1.5px,color:#1B5E20;
+  classDef gate fill:#FFF8E1,stroke:#FF8F00,stroke-width:2px,color:#E65100;
+  classDef goal fill:#2E7D32,stroke:#1B5E20,stroke-width:2px,color:#FFFFFF;
+  class H,Run,M step;
+  class D gate;
+  class Scale goal;

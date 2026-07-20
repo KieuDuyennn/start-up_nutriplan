@@ -1,0 +1,17 @@
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, Roboto, sans-serif','fontSize':'14px','lineColor':'#90A4AE'}}}%%
+flowchart TD
+  Market["Người ăn ngoài cần ăn healthy tại TP.HCM"]
+  Market --> S1["S1 · SV có tập<br/>Đau: Cao · Tiếp cận: Cao"]
+  Market --> S2["S2 · SV quá bận<br/>Đau: Cao · Tiếp cận: Cao"]
+  Market --> O1["O1 · NV văn phòng<br/>Chi trả: Cao · Tiếp cận: Thấp"]
+  S1 --> Pick(["Phân khúc ưu tiên<br/>S1 + S2 · cùng cụm trường"])
+  S2 --> Pick
+  O1 -. giai đoạn sau .-> Later["Mở rộng về sau<br/>kênh trả phí, hợp tác doanh nghiệp"]
+  classDef root fill:#ECEFF1,stroke:#546E7A,stroke-width:1.5px,color:#37474F;
+  classDef cand fill:#E8F5E9,stroke:#2E7D32,stroke-width:1.5px,color:#1B5E20;
+  classDef chosen fill:#2E7D32,stroke:#1B5E20,stroke-width:2px,color:#FFFFFF;
+  classDef muted fill:#FAFAFA,stroke:#B0BEC5,stroke-width:1px,color:#78909C,stroke-dasharray:4 3;
+  class Market root;
+  class S1,S2 cand;
+  class Pick chosen;
+  class O1,Later muted;

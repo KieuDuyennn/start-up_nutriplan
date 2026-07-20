@@ -1,0 +1,15 @@
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, Roboto, sans-serif','fontSize':'14px','lineColor':'#90A4AE'}}}%%
+flowchart TD
+  Core(["Thông điệp lõi<br/>Ăn đúng cho mục tiêu của bạn, tự động mỗi ngày"])
+  Core --> A["Biến thể A · Tiết kiệm thời gian<br/>Hết cảnh nghĩ trưa nay ăn gì"]
+  Core --> B["Biến thể B · Mục tiêu sức khỏe<br/>Đủ protein / đủ chất mỗi bữa"]
+  Core --> C["Biến thể C · Kiểm soát chi phí<br/>Biết trước tiền ăn cả tháng"]
+  A --> FA(["Đầu phễu · kéo click"])
+  B --> FB(["Giữa phễu · chốt đăng ký"])
+  C --> FC(["Cuối phễu · nhóm nhạy giá"])
+  classDef core fill:#2E7D32,stroke:#1B5E20,stroke-width:2px,color:#FFFFFF;
+  classDef var fill:#E8F5E9,stroke:#2E7D32,stroke-width:1.5px,color:#1B5E20;
+  classDef stage fill:#E0F2F1,stroke:#00897B,stroke-width:1.5px,color:#004D40;
+  class Core core;
+  class A,B,C var;
+  class FA,FB,FC stage;
