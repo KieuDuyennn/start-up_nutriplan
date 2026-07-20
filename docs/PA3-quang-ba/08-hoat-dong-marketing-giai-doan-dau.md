@@ -3,7 +3,7 @@
 **Người phụ trách:** Lê Phạm Kiều Duyên (Marketing và Growth Lead)
 **Liên quan:** Hạng mục 8 trong `phan-cong-PA3.md`
 **Kế thừa:** Hạng mục 4 (thông điệp), hạng mục 5 (kênh), hạng mục 6 (chiến lược khách hàng đầu tiên); khung content và landing page Tuần 4
-**Hạn:** 23h tối 17/7 (gồm dựng xong landing page và form)
+**Hạn:** 23h tối 17/7
 **Trạng thái:** Hoàn thành
 
 ---
@@ -11,6 +11,33 @@
 ## Tóm tắt quyết định
 
 Phần này biến thông điệp và kênh đã chốt thành tài sản chạy được trong chiến dịch. Nhóm dựng một landing page duy nhất làm điểm hội tụ của mọi kênh, một form đăng ký beta chỉ sáu trường để không mất người giữa chừng, một lịch nội dung tám mẩu chia theo bốn nhóm giáo dục, bằng chứng, hậu trường, chuyển đổi, và một cơ chế giới thiệu bằng mã riêng để đo được nguồn khách. Nguyên tắc xuyên suốt: mỗi mẩu nội dung chỉ một lời kêu gọi hành động và phải gắn với đúng một chỉ số ở hạng mục 9, nếu không đo được thì không đăng.
+
+## Sơ đồ hành trình và cơ cấu nội dung
+
+Hành trình từ nội dung tới khách hàng và vòng giới thiệu quay lại:
+
+```mermaid
+flowchart LR
+  G["Giáo dục"] --> LP
+  Cv["Chuyển đổi"] --> LP
+  Bc["Bằng chứng"] --> LP
+  Ht["Hậu trường"] --> LP
+  LP["Landing page<br/>(10 khối)"] --> F["Form đăng ký beta<br/>(6 trường)"]
+  F --> Z["Zalo<br/>cảm ơn + thực đơn mẫu"]
+  Z --> Rf["Mã giới thiệu<br/>kéo khách mới"]
+  Rf -. quay lại .-> LP
+```
+
+Cơ cấu tám mẩu nội dung giai đoạn đầu, ưu tiên chuyển đổi và bằng chứng:
+
+```mermaid
+pie showData
+  title Cơ cấu 8 mẩu nội dung
+  "Chuyển đổi" : 3
+  "Giáo dục" : 2
+  "Bằng chứng" : 2
+  "Hậu trường" : 1
+```
 
 ## 1. Lịch nội dung giai đoạn đầu
 
@@ -116,7 +143,7 @@ Vì sao dùng mã thủ công thay vì link theo dõi tự động: trong một 
 
 Chỉ số thu được từ cơ chế này nạp thẳng vào tầng Referral của bảng chỉ số ở hạng mục 9. Chi tiết growth loop và ưu đãi ra mắt thuộc hạng mục 6 do Phúc phụ trách, phần này chỉ chịu trách nhiệm phần kỹ thuật đo lường nguồn khách.
 
-## 6. Danh mục tài sản cần dựng xong trước 23h 17/7
+## 6. Danh mục tài sản cần chuẩn bị khi triển khai
 
 - [ ] Landing page một trang, đủ mười khối ở mục 2, có link truy cập được
 - [ ] Ba biến thể tiêu đề và phụ đề cho landing page (A, B, C)
