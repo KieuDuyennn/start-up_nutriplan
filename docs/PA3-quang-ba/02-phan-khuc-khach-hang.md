@@ -10,7 +10,7 @@
 
 ## Tóm tắt quyết định
 
-Nhóm cắt thị trường theo hành vi thành ba phân khúc và chốt phân khúc ưu tiên số một là sinh viên sống xa nhà quanh một cụm trường đại học tại TP.HCM. Đây là phân khúc đủ đau, dễ tiếp cận nhất trong sprint hai ngày và có khả năng trở thành khách hàng tham chiếu để lan tỏa. Nhân viên văn phòng trẻ được giữ lại làm phân khúc mở rộng ở giai đoạn sau. Quyết định này là đầu vào cho thông điệp (hạng mục 4), kênh (hạng mục 5) và đối tượng chạy chiến dịch (hạng mục 11).
+Nhóm cắt thị trường theo hành vi thành ba phân khúc và chốt phân khúc ưu tiên số một là sinh viên sống xa nhà quanh một cụm trường đại học tại TP.HCM. Đây là phân khúc đủ đau, dễ tiếp cận nhất trong một chiến dịch ngắn ngày và có khả năng trở thành khách hàng tham chiếu để lan tỏa. Nhân viên văn phòng trẻ được giữ lại làm phân khúc mở rộng ở giai đoạn sau. Quyết định này là đầu vào cho thông điệp (hạng mục 4), kênh (hạng mục 5) và đối tượng chạy chiến dịch (hạng mục 11).
 
 ## 1. Các phân khúc xét đến
 
@@ -33,9 +33,9 @@ Chấm theo bốn tiêu chí của khung Tuần 4, thang Cao, Trung bình, Thấ
 | Use case (dùng để làm gì, tần suất) | Suất ăn đủ protein cho mục tiêu tăng cơ, đặt gần như hằng ngày, cao điểm mùa deadline | Suất ăn cân bằng vi chất để giữ sức, đặt hằng ngày theo lịch học và lịch trực | Bữa trưa và tối giảm cân, đặt các ngày trong tuần làm việc |
 | Mức độ đau | Cao. Tập nhiều mà không tiến bộ vì ăn thất thường, không biết Calo và protein đang nạp | Cao. Không tập được nên ăn uống là cách duy nhất giữ sức, hay bỏ bữa và sụt cân mùa thi | Trung bình đến Cao. Biết ăn nhiều dầu mỡ nhưng chưa nguy cấp, đau kiểu dai dẳng hơn là cấp bách |
 | Khả năng chi trả | Trung bình. Ngân sách ăn 2,5-3 triệu/tháng, chấp nhận 40-60 nghìn/bữa, cân nhắc kỹ trước khi trả cả gói | Thấp đến Trung bình. 2-2,5 triệu/tháng, 35-55 nghìn/bữa, so sánh kỹ với cơm căng tin | Cao. Thu nhập khoảng 13 triệu/tháng, chấp nhận 50-80 nghìn/bữa, đã quen trả phí subscription |
-| Khả năng tiếp cận (gặp được trong sprint 2 ngày) | Cao. Tập trung theo cụm trường, gặp qua lớp, câu lạc bộ, phòng gym trường, group môn học | Cao. Cùng cụm trường, gặp qua lớp, ký túc xá, group lớp và group ngành | Thấp đến Trung bình. Phân tán theo tòa văn phòng nhiều quận, khó demo trực tiếp trong 2 ngày |
+| Khả năng tiếp cận (gặp được trong thời gian chiến dịch) | Cao. Tập trung theo cụm trường, gặp qua lớp, câu lạc bộ, phòng gym trường, group môn học | Cao. Cùng cụm trường, gặp qua lớp, ký túc xá, group lớp và group ngành | Thấp đến Trung bình. Phân tán theo tòa văn phòng nhiều quận, khó demo trực tiếp trong thời gian ngắn |
 
-Đọc bảng theo cột thấy rõ: S1 và S2 nổi trội ở mức độ đau và khả năng tiếp cận, đúng hai tiêu chí quyết định cho một chiến dịch ngân sách gần bằng không và thời gian rất ngắn. O1 thắng ở khả năng chi trả nhưng lại yếu nhất ở tiếp cận, mà tiếp cận là thứ nhóm không thể bù bằng tiền trong sprint hai ngày.
+Đọc bảng theo cột thấy rõ: S1 và S2 nổi trội ở mức độ đau và khả năng tiếp cận, đúng hai tiêu chí quyết định cho một chiến dịch ngân sách gần bằng không và thời gian rất ngắn. O1 thắng ở khả năng chi trả nhưng lại yếu nhất ở tiếp cận, mà tiếp cận là thứ nhóm không thể bù bằng tiền trong một chiến dịch ngắn ngày.
 
 ## 3. Phân khúc ưu tiên số một
 
@@ -47,7 +47,7 @@ Xét theo bốn tiêu chí:
 
 - Use case rõ và lặp lại hằng ngày. Cả hai nhóm ăn ngoài gần như toàn bộ số bữa, tần suất cao, đúng bản chất dịch vụ gói định kỳ của NutriPlan chứ không phải nhu cầu ăn healthy thỉnh thoảng.
 - Đủ đau. Đây là nhóm đau nhất và cấp bách nhất. Ăn thất thường trực tiếp phá kết quả tập luyện (S1) hoặc bào mòn sức khỏe khi không còn cách nào khác để bù (S2). Nỗi đau càng cấp thì thông điệp càng dễ chạm và tỷ lệ chuyển đổi càng cao.
-- Dễ tiếp cận nhất trong sprint hai ngày. Sinh viên tập trung theo cụm, gặp được trực tiếp qua lớp và câu lạc bộ với chi phí gần bằng không. Đây là yếu tố quyết định khi thời gian chạy thật chỉ có 17 và 18/7.
+- Dễ tiếp cận nhất trong một chiến dịch ngắn ngày. Sinh viên tập trung theo cụm, gặp được trực tiếp qua lớp và câu lạc bộ với chi phí gần bằng không. Đây là yếu tố quyết định khi thời gian chạy thật có hạn.
 - Khả năng chi trả tuy chỉ trung bình nhưng đã đủ ngưỡng. Mức 35-60 nghìn/bữa nằm trong tầm giá gói mà NutriPlan thiết kế, và gói dùng thử 1-2 ngày lẻ (USP 3) hạ đúng rào cản cân nhắc kỹ trước khi trả cả gói của nhóm này.
 
 Vì sao nhóm này là khách hàng tham chiếu tốt:
@@ -62,7 +62,7 @@ Vì sao nhóm này là khách hàng tham chiếu tốt:
 
 Lý do lùi lại thay vì loại bỏ:
 
-- Khó tiếp cận trong sprint. Nhóm này phân tán theo nhiều tòa văn phòng ở các quận khác nhau, không có cụm như sinh viên, nên không thể demo trực tiếp hàng loạt trong hai ngày với ngân sách gần bằng không.
+- Khó tiếp cận trong một chiến dịch ngắn. Nhóm này phân tán theo nhiều tòa văn phòng ở các quận khác nhau, không có cụm như sinh viên, nên không thể demo trực tiếp hàng loạt trong thời gian chiến dịch với ngân sách gần bằng không.
 - Nỗi đau dai dẳng hơn là cấp bách. Họ biết mình ăn nhiều dầu mỡ nhưng chưa ở mức bắt buộc phải đổi ngay, nên chu kỳ ra quyết định dài hơn, không hợp với một chiến dịch kiểm chứng nhu cầu ngắn.
 
 Nhóm vẫn giữ phân khúc này trong chiến lược vì đây là nhóm có khả năng chi trả cao nhất và đã quen mô hình subscription, nên là nguồn doanh thu ổn định khi mở rộng. Cách tiếp cận phù hợp ở giai đoạn sau là kênh trả phí và hợp tác doanh nghiệp thay cho demo trực tiếp, làm sau khi đã có bằng chứng chuyển đổi và bộ nội dung được kiểm chứng từ phân khúc sinh viên. Thứ tự ưu tiên này nhất quán với PA2, nơi sinh viên là phân khúc chính còn nhân viên văn phòng là phân khúc thứ hai.
@@ -73,7 +73,7 @@ Nhóm vẫn giữ phân khúc này trong chiến lược vì đây là nhóm có
 - Hạng mục 3 (chân dung điển hình): persona đại diện cho phân khúc ưu tiên sẽ được chọn từ nhóm S1 hoặc S2, không phải O1.
 - Hạng mục 4 (thông điệp): ba biến thể thông điệp được viết và dự đoán thắng dựa trên nỗi đau của phân khúc sinh viên này.
 - Hạng mục 5 (kênh): kênh chính là demo trực tiếp tại lớp và câu lạc bộ, chọn được nhờ đặc điểm tập trung theo cụm của phân khúc ưu tiên.
-- Hạng mục 6 và 11 (khách hàng đầu tiên, chiến dịch): đối tượng demo và thu phản đối trong sprint 17 và 18/7 chính là sinh viên trong cụm trường này.
+- Hạng mục 6 và 11 (khách hàng đầu tiên, chiến dịch): đối tượng demo và thu phản đối trong chiến dịch 7 ngày chính là sinh viên trong cụm trường này.
 
 ## 6. Tiêu chí hoàn thành (tự đối chiếu)
 
