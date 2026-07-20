@@ -58,8 +58,6 @@ Nguyên tắc thiết kế:
 - Ba biến thể thông điệp dùng chung trang này, chỉ khác khối tiêu đề và phụ đề. Nhờ vậy chênh lệch về tỷ lệ đăng ký giữa ba biến thể quy hết về sức mạnh thông điệp, không lẫn với khác biệt thiết kế.
 - Ghi rõ trạng thái mô phỏng ở khối mockup và trạng thái dự kiến ở khối giá. Đây là yêu cầu bắt buộc của nguyên tắc marketing có trách nhiệm, và cũng tránh việc người đăng ký thất vọng khi biết sản phẩm chưa chạy.
 
-**Link landing page:** cập nhật sau khi dựng xong tối 17/7.
-
 ## 3. Form đăng ký beta
 
 Sáu trường, tối đa một phút để điền. Mỗi trường phải trả lời được câu hỏi vì sao cần, nếu không thì bỏ.
