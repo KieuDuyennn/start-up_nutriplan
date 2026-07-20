@@ -52,6 +52,21 @@ Ghi chú vận hành:
 - Biến thể B có hai phiên bản tiêu đề cho hai nhóm hành vi trong phân khúc ưu tiên (S1 tập luyện muốn tăng cơ, S2 quá bận cần giữ sức), để đo riêng nhóm nào phản hồi mạnh hơn với trục sức khỏe.
 - Ba biến thể dùng chung bộ nhận diện và cùng một landing page, chỉ khác tiêu đề, câu phụ đề và hình. Nhờ vậy phép so sánh A/B sạch, mọi khác biệt về lượt click và lượt đăng ký đều quy về sức mạnh của thông điệp.
 
+## Bản đồ kiến trúc thông điệp
+
+Một thông điệp lõi, ba biến thể, mỗi biến thể gánh một tầng phễu khác nhau.
+
+```mermaid
+flowchart TD
+  Core["Thông điệp lõi<br/>Ăn đúng cho mục tiêu của bạn, tự động mỗi ngày"]
+  Core --> A["Biến thể A · Tiết kiệm thời gian<br/>Hết cảnh nghĩ trưa nay ăn gì"]
+  Core --> B["Biến thể B · Mục tiêu sức khỏe<br/>Đủ protein / đủ chất mỗi bữa"]
+  Core --> C["Biến thể C · Kiểm soát chi phí<br/>Biết trước tiền ăn cả tháng"]
+  A --> FA["Đầu phễu · kéo click"]
+  B --> FB["Giữa phễu · chốt đăng ký"]
+  C --> FC["Cuối phễu · nhóm nhạy giá"]
+```
+
 ## 4. Dự đoán biến thể thắng
 
 Nhóm dự đoán biến thể A (Hết cảnh nghĩ trưa nay ăn gì) thắng ở tầng thu hút, tức từ reach sang click.
