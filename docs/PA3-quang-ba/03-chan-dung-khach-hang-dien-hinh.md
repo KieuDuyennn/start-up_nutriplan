@@ -127,7 +127,7 @@ Trước khi để lại thông tin hoặc trả trước, Tiến còn lo suất
 
 ### Giai đoạn 4: Sau khi sử dụng
 
-Điều khiến Tiến tiếp tục gia hạn không chỉ là bữa ăn đủ chất mà còn là:
+Những thứ giữ Tiến tiếp tục gia hạn, ngoài bữa ăn đủ chất:
 
 - Thấy rõ tiến bộ tập luyện khi ăn đều và đúng lượng.
 - Bữa ăn tự đến đúng giờ kể cả mùa deadline, không phải nghĩ.
