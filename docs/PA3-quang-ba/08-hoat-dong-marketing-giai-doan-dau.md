@@ -77,8 +77,6 @@ Trường tùy chọn duy nhất: một ô mở hỏi điều gì khiến bạn 
 
 Các trường đã cân nhắc rồi bỏ: giới tính, tuổi, chiều cao cân nặng, khung giờ ăn quen thuộc. Đây đều là thông tin cần cho sản phẩm nhưng không cần cho việc đo nhu cầu, và mỗi trường thêm vào làm tăng tỷ lệ bỏ dở giữa chừng. Những thông tin này thu sau, khi mời người dùng vào bản chạy thật.
 
-**Link form:** cập nhật sau khi dựng xong tối 17/7.
-
 ## 4. Kênh liên hệ người đăng ký và tin nhắn mẫu
 
 Kênh chính là Zalo, dự phòng là email cho người không để lại Zalo. Chọn Zalo vì đây là kênh liên lạc mặc định của phân khúc sinh viên, tỷ lệ đọc cao hơn hẳn email và cho phép trả lời qua lại ngay.
@@ -148,4 +146,4 @@ Chỉ số thu được từ cơ chế này nạp thẳng vào tầng Referral c
 - [x] Có đặc tả form đăng ký beta với lý do cho từng trường và các trường đã chủ động loại bỏ.
 - [x] Có kênh liên hệ người đăng ký kèm quy trình và tin nhắn mẫu.
 - [x] Có cơ chế giới thiệu đo được nguồn khách.
-- [ ] Landing page và form đã dựng thật, đã cập nhật link vào mục 2 và mục 3.
+- [ ] Landing page và form đã dựng thật khi triển khai chiến dịch (ngoài phạm vi bản kế hoạch này).
