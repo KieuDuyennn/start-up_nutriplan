@@ -147,7 +147,7 @@ Cách vận hành trong chiến dịch:
 
 Vì sao dùng mã thủ công thay vì link theo dõi tự động: trong một chiến dịch nhỏ với mẫu vài chục người, bảng tính thủ công đủ chính xác và dựng xong trong 15 phút, còn hệ thống link tự động tốn nhiều thời gian hơn phần giá trị nó mang lại. Khi quy mô vượt vài trăm người thì mới cần chuyển sang link riêng.
 
-Chỉ số thu được từ cơ chế này nạp thẳng vào tầng Referral của bảng chỉ số ở hạng mục 9. Chi tiết growth loop và ưu đãi ra mắt thuộc hạng mục 6 do Phúc phụ trách, phần này chỉ chịu trách nhiệm phần kỹ thuật đo lường nguồn khách.
+Chỉ số thu được từ cơ chế này nạp thẳng vào tầng Referral của bảng chỉ số ở hạng mục 9. Chi tiết growth loop và ưu đãi ra mắt được trình bày ở hạng mục 6, phần này chỉ tập trung vào cách đo lường nguồn khách.
 
 ## 6. Danh mục tài sản cần chuẩn bị khi triển khai
 
@@ -165,8 +165,8 @@ Chỉ số thu được từ cơ chế này nạp thẳng vào tầng Referral c
 
 - Hạng mục 4: ba mẩu nội dung chuyển đổi (3, 4, 5) chính là ba biến thể thông điệp, giữ nguyên tiêu đề, phụ đề, lời kêu gọi hành động và hình minh họa đã chốt.
 - Hạng mục 5: mỗi mẩu nội dung được gán đúng kênh theo bảng phễu, nội dung chuyển đổi ưu tiên TikTok cho biến thể A và group cho biến thể B, C.
-- Hạng mục 6: mã giới thiệu ở mục 5 là phần đo lường của growth loop do Phúc thiết kế, ưu đãi ra mắt lấy theo mức Phúc chốt.
-- Hạng mục 7: landing page và form là điều kiện sẵn sàng bắt buộc trong timeline ra mắt mềm của Dũng.
+- Hạng mục 6: mã giới thiệu ở mục 5 là phần đo lường của growth loop, ưu đãi ra mắt lấy theo mức đã chốt tại đó.
+- Hạng mục 7: landing page và form là điều kiện sẵn sàng bắt buộc trong timeline ra mắt mềm.
 - Hạng mục 9: trường bạn biết NutriPlan từ đâu trong form và mã giới thiệu là hai cơ chế duy nhất cho phép tách số liệu theo kênh, không có chúng thì bảng chỉ số chỉ có con số tổng.
 - Hạng mục 11: ô hỏi điều gì khiến bạn còn lưỡng lự trong form bổ sung cho danh sách phản đối thu được tại buổi demo.
 
