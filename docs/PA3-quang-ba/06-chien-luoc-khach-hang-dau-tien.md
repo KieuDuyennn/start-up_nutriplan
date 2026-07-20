@@ -10,8 +10,8 @@ Trong giai đoạn MVP, NutriPlan chưa tập trung mở rộng quy mô bằng q
 |-------------|---------------|----------|-----------------|
 | **Demo trực tiếp tại trường đại học và câu lạc bộ** | Tổ chức các buổi giới thiệu ngắn tại lớp học, câu lạc bộ thể thao, câu lạc bộ gym hoặc các sự kiện sinh viên. Demo cách NutriPlan xây dựng thực đơn cá nhân hóa và mô phỏng quá trình đặt gói ăn. Người quan tâm được đăng ký dùng thử beta ngay tại chỗ thông qua QR Code. | Thấp (in standee, poster, QR code) | Thu hút nhóm người dùng đầu tiên và thu thập danh sách đăng ký beta. |
 | **Giới thiệu qua bạn bè, đồng nghiệp và cộng đồng nhỏ** | Khuyến khích các thành viên trong nhóm giới thiệu NutriPlan cho bạn cùng lớp, cùng phòng hoặc đồng nghiệp. Tập trung vào những người có nhu cầu cải thiện chế độ ăn hoặc tập luyện. | Gần như bằng 0 | Tận dụng hiệu ứng truyền miệng và xây dựng nhóm khách hàng đầu tiên có mức độ tin tưởng cao. |
-| **Hợp tác với Micro KOC** | Mời các KOC quy mô nhỏ (2.000–20.000 người theo dõi) trong lĩnh vực gym, healthy lifestyle hoặc sinh viên trải nghiệm NutriPlan miễn phí trong một tuần và chia sẻ trải nghiệm thật trên TikTok hoặc Facebook. | Thấp (chi phí sản phẩm dùng thử) | Tăng độ tin cậy của thương hiệu thông qua đánh giá thực tế thay vì quảng cáo. |
-| **Xây dựng cộng đồng NutriPlan trên Facebook/Zalo** | Thành lập nhóm "NutriPlan – Ăn đúng mục tiêu mỗi ngày" để chia sẻ kiến thức dinh dưỡng, mẹo meal prep, hành trình giảm cân và giải đáp thắc mắc. Thành viên đăng ký beta sẽ được mời tham gia nhóm ngay sau khi để lại thông tin. | Miễn phí | Xây dựng cộng đồng khách hàng đầu tiên, duy trì tương tác và thu thập phản hồi liên tục. |
+| **Hợp tác với Micro KOC** | Mời các KOC quy mô nhỏ (2.000-20.000 người theo dõi) trong lĩnh vực gym, healthy lifestyle hoặc sinh viên trải nghiệm NutriPlan miễn phí trong một tuần và chia sẻ trải nghiệm thật trên TikTok hoặc Facebook. | Thấp (chi phí sản phẩm dùng thử) | Tăng độ tin cậy của thương hiệu thông qua đánh giá thực tế thay vì quảng cáo. |
+| **Xây dựng cộng đồng NutriPlan trên Facebook/Zalo** | Thành lập nhóm "NutriPlan - Ăn đúng mục tiêu mỗi ngày" để chia sẻ kiến thức dinh dưỡng, mẹo meal prep, hành trình giảm cân và giải đáp thắc mắc. Thành viên đăng ký beta sẽ được mời tham gia nhóm ngay sau khi để lại thông tin. | Miễn phí | Xây dựng cộng đồng khách hàng đầu tiên, duy trì tương tác và thu thập phản hồi liên tục. |
 
 ---
 
@@ -54,7 +54,7 @@ Khách hàng mới tiếp tục trải nghiệm
 
 ### Vì sao Growth Loop này phù hợp với NutriPlan?
 
-NutriPlan cung cấp dịch vụ theo mô hình đăng ký định kỳ nên sự hài lòng của khách hàng không chỉ tạo ra doanh thu tái sử dụng mà còn góp phần thu hút khách hàng mới. Những người có cùng môi trường sống hoặc làm việc thường có nhu cầu tương tự về ăn uống và sức khỏe. Khi một khách hàng giới thiệu cho bạn cùng lớp, bạn cùng phòng hoặc đồng nghiệp, NutriPlan vừa giảm chi phí tìm kiếm khách hàng mới, vừa tận dụng được yếu tố tin cậy từ mối quan hệ cá nhân.
+NutriPlan cung cấp dịch vụ theo mô hình đăng ký định kỳ nên sự hài lòng của khách hàng tạo ra doanh thu tái sử dụng, đồng thời góp phần thu hút khách hàng mới. Những người có cùng môi trường sống hoặc làm việc thường có nhu cầu tương tự về ăn uống và sức khỏe. Khi một khách hàng giới thiệu cho bạn cùng lớp, bạn cùng phòng hoặc đồng nghiệp, NutriPlan vừa giảm chi phí tìm kiếm khách hàng mới, vừa tận dụng được yếu tố tin cậy từ mối quan hệ cá nhân.
 
 Ngoài ra, nếu nhiều người cùng đăng ký tại một địa điểm (ví dụ cùng công ty hoặc ký túc xá), việc giao hàng cũng trở nên thuận tiện hơn nhờ tối ưu tuyến giao và giảm chi phí vận hành.
 
