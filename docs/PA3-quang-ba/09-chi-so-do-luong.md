@@ -8,9 +8,9 @@
 
 ---
 
-PA3 là bản kế hoạch quảng bá, nhóm chưa chạy chiến dịch thật nên phần này chưa có số liệu kết quả. Mục tiêu của hạng mục là chỉ ra rõ: nhóm sẽ đo hiệu quả marketing bằng những chỉ số nào, tính theo công thức nào, đặt mục tiêu bao nhiêu là đạt, và quan trọng nhất là nhìn thấy từng con số đó ở đâu, qua công cụ nào. Khi chạy chiến dịch ở giai đoạn sau, chỉ việc ghi số thu được vào đúng khung này. Việc chốt trước bộ chỉ số và ngưỡng quyết định là để tránh tình trạng chạy xong mới đi tìm cách giải thích kết quả.
+Phần này trình bày cách NutriPlan đo hiệu quả quảng bá: dùng những chỉ số nào, tính theo công thức nào, đặt mục tiêu bao nhiêu là đạt, và nhìn thấy từng con số đó ở đâu, qua công cụ nào. Bộ chỉ số cùng ngưỡng quyết định được chốt trước khi chạy, nhằm tránh tình trạng chạy xong mới đi tìm cách giải thích kết quả. Khi chiến dịch được triển khai ở giai đoạn sau, số liệu thu được sẽ điền vào đúng khung này.
 
-*Các con số ở cột Ví dụ minh họa trong tài liệu này là số giả định, dùng để cho thấy bảng chỉ số trông thế nào khi điền và cách đọc ra kết luận. Đây chưa phải số đo thật, sẽ được thay bằng số liệu thu được khi chạy chiến dịch.*
+*Các con số ở cột Ví dụ minh họa là số giả định, dùng để cho thấy bảng chỉ số trông thế nào khi điền và cách đọc ra kết luận. Đây chưa phải số đo thật, sẽ được thay bằng số liệu thu được khi chạy chiến dịch.*
 
 ## Tóm tắt quyết định
 
@@ -69,7 +69,7 @@ Ghi chú cách đếm để tránh thổi phồng số khi chạy thật:
 | Chi phí có một đăng ký | Tổng chi phí quy đổi chia số đăng ký | Càng thấp càng tốt, kênh tự nhiên gần bằng không tiền mặt | 25 nghìn đồng | Tính từ bảng công sức và tầng Activation |
 | Tỷ lệ trả trước trên đăng ký | Số người trả trước chia số đăng ký | Một phần nhỏ đủ để chứng minh có nhu cầu trả tiền | 16,7 phần trăm | Tính từ tầng Revenue và Activation |
 
-Cách quy đổi chi phí khi chạy kênh tự nhiên: chi phí tiền mặt gần bằng không (chỉ có phí công cụ dựng landing page và chi phí nguyên liệu nếu chạy concierge), nên phần lớn chi phí là công sức. Nhóm quy đổi theo công thức số giờ làm nhân mức thù lao làm thêm phổ biến của sinh viên tại TP.HCM, khoảng 25 nghìn đồng một giờ. Cách quy đổi này không phải chi phí thật đã chi mà là chi phí cơ hội, nêu rõ giả định để người đọc PA4 hiểu đúng bản chất con số.
+Cách quy đổi chi phí khi chạy kênh tự nhiên: chi phí tiền mặt gần bằng không (chỉ có phí công cụ dựng landing page và chi phí nguyên liệu nếu chạy concierge), nên phần lớn chi phí là công sức. Nhóm quy đổi theo công thức số giờ làm nhân mức thù lao làm thêm phổ biến của sinh viên tại TP.HCM, khoảng 25 nghìn đồng một giờ. Con số này là chi phí cơ hội quy đổi, không phải khoản tiền mặt nhóm đã chi ra. Nhóm nêu rõ giả định để người đọc PA4 hiểu đúng bản chất con số.
 
 Ví dụ minh họa cách tính: 20 giờ công nhân 25 nghìn bằng 500 nghìn, cộng 100 nghìn phí công cụ và nguyên liệu, chia cho 24 đăng ký, ra khoảng 25 nghìn đồng một đăng ký.
 
@@ -162,7 +162,7 @@ flowchart TD
 
 ## 7. Cách rút kết luận khi có số liệu
 
-Phần này mô tả cách đọc kết quả, sẽ được điền số và viết thành kết luận thật sau khi chạy chiến dịch. Trình tự đọc gồm bốn bước:
+Trình tự đọc kết quả khi đã có số liệu gồm bốn bước:
 
 1. So bảng phễu ở mục 1 với ba điều kiện tiếp tục ở mục 6, xác định rơi vào tình huống nào trong bốn tình huống ngưỡng quyết định.
 2. Đọc bảng tách theo kênh ở mục 3 để biết giữ hay đổi phân vai kênh đã đặt ở hạng mục 5.
