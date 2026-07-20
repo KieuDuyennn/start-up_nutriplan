@@ -80,6 +80,24 @@ Mỗi kênh gánh một vai trò khác nhau trong phễu, không kênh nào làm
 
 Cách đọc bảng này: TikTok đưa người vào đầu phễu, demo trực tiếp chốt phần giữa và cuối, Zalo giữ vòng lặp quay lại. Bảng này là cơ sở để hạng mục 9 gán chỉ số cho từng kênh thay vì gộp chung một con số.
 
+Sơ đồ kênh theo tầng phễu, thấy rõ mỗi kênh gánh vai trò gì, không kênh nào làm hết mọi việc:
+
+```mermaid
+flowchart LR
+  subgraph Phễu
+    direction LR
+    R["Reach"] --> I["Interest"] --> Ac["Activation"] --> Rev["Revenue"] --> Ref["Referral"]
+  end
+  TikTok["TikTok"] --> R
+  TikTok --> I
+  Demo["Demo trực tiếp"] --> I
+  Demo --> Ac
+  Demo --> Rev
+  LP["Landing page"] --> Ac
+  Concierge["Concierge"] --> Rev
+  Zalo["Zalo / FB group"] --> Ref
+```
+
 ## 4. Liên hệ 7P
 
 - **Product.** Giá trị đầu tiên khách nhận được không phải là bữa ăn mà là hồ sơ dinh dưỡng cá nhân với con số calo và protein của riêng họ. Ở kênh demo, đây chính là thứ nhóm đưa ra trước tiên vì nó tạo cảm giác cụ thể ngay trong 5 phút.
@@ -89,6 +107,20 @@ Cách đọc bảng này: TikTok đưa người vào đầu phễu, demo trực 
 - **People.** Chính bốn thành viên nhóm là gương mặt của thương hiệu ở kênh demo. Việc người trình bày cũng là sinh viên cùng trường làm giảm rào cản niềm tin đáng kể so với một thương hiệu xa lạ.
 - **Process.** Quy trình từ nghe demo đến nhận suất ăn phải nói được trong ba câu. Nếu người nghe không nhắc lại được quy trình sau buổi demo thì đó là lỗi truyền thông, không phải lỗi của họ.
 - **Physical evidence.** Ảnh mockup ba màn cốt lõi, bản Figma clickthrough, và nếu chạy concierge thì suất ăn thật là bằng chứng mạnh nhất. Trên landing page, bằng chứng là câu nói thật của persona và con số waitlist cập nhật theo thời gian thực.
+
+Sơ đồ 7P của NutriPlan trong một hình:
+
+```mermaid
+flowchart TD
+  NP["NutriPlan · 7P"]
+  NP --> P1["Product<br/>Hồ sơ dinh dưỡng cá nhân"]
+  NP --> P2["Price<br/>Gói SV 35-60k/bữa + gói dùng thử"]
+  NP --> P3["Place<br/>Lớp/CLB, TikTok, landing page"]
+  NP --> P4["Promotion<br/>4 nhóm nội dung + referral"]
+  NP --> P5["People<br/>4 thành viên cùng trường"]
+  NP --> P6["Process<br/>Đăng ký đến nhận suất gọn trong 3 câu"]
+  NP --> P7["Physical evidence<br/>Mockup, Figma, waitlist thật"]
+```
 
 ## 5. Góc tìm kiếm và cộng đồng
 
