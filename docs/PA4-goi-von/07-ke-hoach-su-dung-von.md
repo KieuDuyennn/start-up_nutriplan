@@ -65,6 +65,25 @@ Không khoản nào được giải ngân chỉ vì đến kỳ. Mỗi nhóm chi
 | Ưu đãi giới thiệu | Referral loop có người tham gia thật và đo được số lượt giới thiệu | Chi phí ưu đãi trên một khách giới thiệu vượt CAC kênh khác thì điều chỉnh mức ưu đãi |
 | Sự kiện và demo | Còn dư địa trường chưa tiếp cận trong cụm mục tiêu | Tỷ lệ chuyển đổi tại demo giảm rõ thì xem lại phần trình bày trước khi mở thêm buổi |
 
+### 5. Kế thừa và liên kết
+
+- **Task 6 PA4:** mỗi hạng mục chi ở đây gắn đúng một mục đích trong danh sách tám mục đích, cột đầu bảng ghi rõ mối nối.
+- **Task 4 PA4:** tổng chi 6 tháng đầu 48 triệu đồng khớp bảng dự phóng doanh thu và chi phí, bảo đảm hai tài liệu không mâu thuẫn số.
+- **PA2 lộ trình:** phân bổ theo quý khớp ba giai đoạn thương mại và chỉ tiêu khách của từng giai đoạn.
+- **PA3 hạng mục 5 và 9:** điều kiện giải ngân quảng cáo trả phí và các ngưỡng dừng lấy nguyên tắc từ điều kiện mở kênh và cây quyết định của PA3.
+- **Task 5 PA4:** hạn mức 120 triệu đồng là dòng marketing trong tổng nhu cầu vốn do Operations Manager tính.
+- **Task 8 PA4:** mỗi khoản chi ở đây có một cột mốc phát triển tương ứng để kiểm chứng tiền chi có tạo ra kết quả.
+
+### 6. Nguồn tham khảo
+
+| Nội dung dùng | Nguồn |
+|---|---|
+| Tám mục đích sử dụng vốn marketing | `docs/PA4-goi-von/06-muc-dich-su-dung-von.md` |
+| Cơ cấu và tổng chi phí marketing 6 tháng | `docs/PA4-goi-von/04-du-kien-doanh-thu-va-chi-phi.md` |
+| Mốc quý, chỉ tiêu khách từng giai đoạn | `docs/PA2-san-pham/09-lo-trinh-phat-trien.md` |
+| Điều kiện mở kênh trả phí, ngưỡng quyết định | `docs/PA3-quang-ba/05-kenh-quang-ba.md`, `docs/PA3-quang-ba/09-chi-so-do-luong.md` |
+| Cơ chế và ưu đãi giới thiệu | `docs/PA3-quang-ba/06-chien-luoc-khach-hang-dau-tien.md` |
+
 ---
 
 ## CTO/Founding Engineer
