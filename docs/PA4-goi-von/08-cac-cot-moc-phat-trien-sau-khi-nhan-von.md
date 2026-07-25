@@ -131,7 +131,7 @@ Mục tiêu của giai đoạn này không phải là ký kết với càng nhi�
 - Tạo nội dung hợp tác.
 - Tiếp cận đúng nhóm khách hàng mục tiêu.
 
-**Chỉ số đánh giá cuối giai đoạn 1**
+## Chỉ số đánh giá cuối giai đoạn 1
 
 | Chỉ số                                     | Mục tiêu |
 | ------------------------------------------ | -------: |
@@ -229,7 +229,7 @@ Một đối tác được xem là hoạt động khi có ít nhất một trong
 
 Mục tiêu là xây dựng mạng lưới đối tác có khả năng tạo ra khách hàng thực tế, thay vì chỉ tăng số lượng đối tác trên danh nghĩa.
 
-**Chỉ số đánh giá cuối giai đoạn 2**
+## Chỉ số đánh giá cuối giai đoạn 2
 
 | Chỉ số                                  | Mục tiêu |
 | --------------------------------------- | -------: |
@@ -320,7 +320,8 @@ NutriPlan phân loại đối tác theo nhóm khách hàng mà họ có thể ti
 
 Mục tiêu là xây dựng nhiều nguồn khách hàng khác nhau và giảm sự phụ thuộc vào một kênh duy nhất.
 
-**Chỉ số đánh giá cuối giai đoạn 3**
+## Chỉ số đánh giá cuối giai đoạn 3
+
 | Chỉ số                                        |                       Mục tiêu |
 | --------------------------------------------- | -----------------------------: |
 | Khách hàng trả phí                            |                        500–700 |
@@ -385,7 +386,8 @@ Mục tiêu đến cuối năm đầu tiên:
 - Chăm sóc khách hàng sau khi mua.
 - Khuyến khích gia hạn và giới thiệu.
 
-**Chỉ số đánh giá cuối giai đoạn 4**
+## Chỉ số đánh giá cuối giai đoạn 4
+
 | Chỉ số                                  | Mục tiêu |
 | --------------------------------------- | -------: |
 | Khách hàng trả phí                      |  ≥ 1.000 |
