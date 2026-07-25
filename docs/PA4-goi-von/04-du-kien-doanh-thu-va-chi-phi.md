@@ -104,6 +104,36 @@ CAC blended khoảng 260 nghìn đồng một khách trả phí. CAC từng kên
 
 Ở giai đoạn đầu LTV trên CAC khoảng 1,4 lần, tức mỗi đồng bỏ ra thu hút vẫn thu về nhiều hơn một đồng đóng góp, nhưng biên an toàn còn mỏng. Tỷ lệ này cải thiện theo hai hướng đã có trong lộ trình: giữ chân tốt hơn nhờ gói tháng làm tuổi thọ khách dài ra, và CAC giảm khi tỷ lệ khách đến từ kênh tự nhiên và giới thiệu tăng lên. Đây chính là các cột mốc marketing sẽ cam kết ở task 8.
 
+### 6. Vì sao khối marketing lỗ đóng góp ở giai đoạn đầu vẫn là kết quả lành mạnh
+
+Nhìn tổng 6 tháng, khối marketing âm 17,7 triệu đồng ở dòng đóng góp. Đây là **khoản đầu tư có chủ đích để dựng hệ thống thu hút khách**, và là một trong những lý do chính cần gọi vốn, nối sang task 5 và task 6. Ba lập luận:
+
+1. **Quy mô khách còn nhỏ theo đúng thiết kế của lộ trình.** Lộ trình PA2 đặt mục tiêu thận trọng 100 khách trả phí trong Q4/2026, tương đương thâm nhập chỉ 0,2 phần trăm cụm ký túc xá ĐHQG hơn 50.000 sinh viên. Khi mẫu số khách còn nhỏ thì chi phí cố định của việc dựng kênh bị chia cho ít khách, làm CAC trông cao. Đây là đặc điểm chung của giai đoạn đầu, không phải lỗi của cách làm.
+2. **Phần lớn chi phí là chi phí một lần để dựng nền.** Landing page, bộ nội dung gốc, quan hệ với KOC, cơ chế đo lường theo kênh là tài sản dùng lại nhiều lần. Chi một lần nhưng phục vụ cho cả các giai đoạn sau, nên tính đều ra 6 tháng đầu thì nặng, càng về sau càng nhẹ trên mỗi khách.
+3. **Dòng đóng góp đã chuyển dương từ tháng 12/2026.** Xu hướng quan trọng hơn con số tuyệt đối. Việc khối marketing tự nuôi được chi phí thu hút chỉ sau bốn tháng cho thấy mô hình đang đi đúng hướng tới hiệu quả, khoản âm 17,7 triệu là chi phí học có giới hạn và có điểm dừng, không phải lỗ kéo dài.
+
+### 7. Kế thừa và liên kết
+
+- **PA2 lộ trình phát triển:** số khách và mốc thời gian khớp giai đoạn Thí điểm thương mại Q4/2026 và chỉ tiêu 100 khách trả phí; cơ cấu biên đóng góp 12 phần trăm lấy từ cơ cấu kinh tế đơn vị mục 2.
+- **PA3 hạng mục 1:** ARPU 500 nghìn đồng và mức SOM 550 triệu đồng một tháng là cơ sở của cột doanh thu.
+- **PA3 hạng mục 5 và 9:** phân vai kênh và cách quy đổi CAC định hình bảng CAC theo kênh; hai con số PA3 dặn dùng lại cho PA4 là chi phí một đăng ký và tỷ lệ trả trước đã được nạp vào đây.
+- **Task 1 (mô hình doanh thu) và task 3 (nhóm chi phí):** bảng này chi tiết hóa phần doanh thu và chi phí thuộc mảng marketing trong khung mô hình doanh thu và nhóm chi phí do CEO xác định.
+- **Task 5 (nhu cầu gọi vốn):** khoản âm 17,7 triệu và hạn mức chi phí marketing là đầu vào để Operations Manager tính tổng nhu cầu vốn.
+- **Task 6 và 7 (mục đích và kế hoạch dùng vốn):** cơ cấu chi phí ở mục 4 là bản rút gọn của kế hoạch dùng vốn chi tiết ở task 7.
+- **Phối hợp với Business Development và Customer Success:** tỷ lệ chuyển đổi 25 phần trăm, tuổi thọ khách và tỷ lệ giới thiệu là các con số cần Phúc xác nhận vì thuộc phần cuối phễu; các con số dùng ở đây lấy theo chỉ tiêu lộ trình và sẽ hiệu chỉnh khi có số vận hành thật.
+
+### 8. Nguồn tham khảo
+
+| Nội dung dùng | Nguồn |
+|---|---|
+| ARPU và SOM 550 triệu đồng một tháng | `docs/PA3-quang-ba/01-thi-truong-muc-tieu.md` |
+| Cơ cấu kinh tế đơn vị, biên đóng góp 10-15 phần trăm, mốc và chỉ tiêu lộ trình | `docs/PA2-san-pham/09-lo-trinh-phat-trien.md` |
+| Phân vai kênh, cách quy đổi CAC, ngưỡng quyết định | `docs/PA3-quang-ba/05-kenh-quang-ba.md`, `docs/PA3-quang-ba/09-chi-so-do-luong.md` |
+| Mức chi 40-60 nghìn một bữa của khách mục tiêu | `docs/PA2-san-pham/03-chan-dung-khach-hang-muc-tieu.md` |
+| Quy mô thị trường giao đồ ăn 2,1 tỷ USD năm 2025, tăng 19 phần trăm | Momentum Works, 1/2026: https://thelowdown.momentum.asia/new-report-southeast-asia-food-delivery-gmv-grew-18-to-hit-us22-7b-in-2025/ |
+| 80 phần trăm người tiêu dùng sẵn sàng chi nhiều hơn cho sản phẩm sạch | Khảo sát Nielsen dẫn theo Bộ Công Thương: https://moit.gov.vn/tin-tuc/hoat-dong/80-nguoi-tieu-dung-san-sang-chi-nhieu-hon-cho-san-pham-xanh-2.html |
+| Cụm ký túc xá ĐHQG-HCM hơn 50.000 sinh viên | https://vi.wikipedia.org/wiki/K%C3%BD_t%C3%BAc_x%C3%A1_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh |
+
 ---
 
 ## CTO/Founding Engineer
