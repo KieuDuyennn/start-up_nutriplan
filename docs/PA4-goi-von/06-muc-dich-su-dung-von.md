@@ -78,6 +78,25 @@ Nêu rõ ranh giới cũng quan trọng như nêu mục đích, để nhà đầ
 - Không dồn ngân sách vào quảng cáo trả phí trước khi có thông điệp thắng, đúng điều kiện PA3 hạng mục 5.
 - Không chi cho các kênh không đo được nguồn khách. Kênh nào không tách được chỉ số theo PA3 hạng mục 9 thì chưa rót ngân sách lớn.
 
+### 5. Kế thừa và liên kết
+
+- **PA3 hạng mục 5:** điều kiện mở quảng cáo trả phí và phân vai kênh là cơ sở của mục đích 2 và 6.
+- **PA3 hạng mục 6:** growth loop và cơ chế ưu đãi dẫn tới mục đích 5, phần này do Phúc thiết kế và marketing cấp ngân sách vận hành.
+- **PA3 hạng mục 8 và 9:** nội dung, landing page, cơ chế đo lường định hình mục đích 1, 4, 7.
+- **Task 4 PA4:** tám mục đích ở đây tương ứng các nhóm chi phí trong cơ cấu chi phí marketing; task 7 sẽ gắn số tiền và thời điểm cụ thể cho từng mục đích.
+- **Task 7 PA4:** kế hoạch dùng vốn chi tiết là bước cụ thể hóa danh sách mục đích này thành số tiền theo hạng mục và theo quý.
+- **Task 9 PA4 (giá trị đề xuất cho nhà đầu tư):** ba nhóm kết quả kinh doanh ở mục 3 là phần đóng góp của khối marketing vào giá trị đề xuất chung.
+
+### 6. Nguồn tham khảo
+
+| Nội dung dùng | Nguồn |
+|---|---|
+| Điều kiện mở quảng cáo trả phí, phân vai kênh chính và phụ | `docs/PA3-quang-ba/05-kenh-quang-ba.md` |
+| Referral loop, ưu đãi giới thiệu, xử lý rào cản mua | `docs/PA3-quang-ba/06-chien-luoc-khach-hang-dau-tien.md` |
+| Lịch nội dung, landing page, cơ chế đo lường nguồn khách | `docs/PA3-quang-ba/08-hoat-dong-marketing-giai-doan-dau.md`, `docs/PA3-quang-ba/09-chi-so-do-luong.md` |
+| Mốc lộ trình và chỉ tiêu 25 đến 30 phần trăm khách từ giới thiệu | `docs/PA2-san-pham/09-lo-trinh-phat-trien.md` |
+| Cơ cấu chi phí marketing tương ứng các mục đích | `docs/PA4-goi-von/04-du-kien-doanh-thu-va-chi-phi.md` |
+
 ---
 
 ## CTO/Founding Engineer
