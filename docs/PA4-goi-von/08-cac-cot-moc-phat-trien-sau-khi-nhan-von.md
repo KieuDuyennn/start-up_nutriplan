@@ -83,7 +83,7 @@ Bắt đầu sử dụng dịch vụ
         ↓
 Theo dõi trải nghiệm và thu thập phản hồi
 
-## Mục tiêu
+**Mục tiêu**
 - Ít nhất 80% khách hàng mới hoàn thành quy trình onboarding.
 - 100% khách hàng mới được ghi nhận mục tiêu sức khỏe và thông tin cần thiết.
 - Hạn chế tình trạng khách hàng đăng ký nhưng không bắt đầu sử dụng dịch vụ.
@@ -103,14 +103,14 @@ NutriPlan cần thu thập phản hồi về:
 - Mức giá có phù hợp hay không.
 - Khách hàng có sẵn sàng tiếp tục gia hạn hay không.
 
-## Mục tiêu
+**Mục tiêu**
 
 - Thu thập phản hồi từ ít nhất 70% khách hàng trong nhóm thử nghiệm.
 - Ít nhất 90% phản hồi và vấn đề được ghi nhận và phân loại.
 - Phân loại phản hồi thành:
-+ Vấn đề cần xử lý ngay.
-+ Vấn đề cần cải thiện trong chu kỳ tiếp theo.
-+ Ý tưởng phát triển trong tương lai.
+        + Vấn đề cần xử lý ngay.
+        + Vấn đề cần cải thiện trong chu kỳ tiếp theo.
+        + Ý tưởng phát triển trong tương lai.
 
 ### 4. Xây dựng quan hệ với 3–5 đối tác hoặc cộng đồng
 
@@ -208,7 +208,7 @@ Xử lý vấn đề
         ↓
 Gia hạn hoặc giới thiệu
 
-## Mục tiêu
+**Mục tiêu**
 
 - CSAT đạt tối thiểu 80%.
 - Các yêu cầu thông thường được phản hồi trong vòng 24 giờ.
