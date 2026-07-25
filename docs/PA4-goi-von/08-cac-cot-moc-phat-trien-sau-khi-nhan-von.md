@@ -56,6 +56,30 @@ Xếp riêng ba chỉ số này qua bốn mốc để thấy rõ xu hướng c�
 
 Xu hướng cần đạt: khách tăng theo cấp số, CAC giảm đều, giới thiệu tăng đều. Nếu khách tăng nhưng CAC không giảm thì tăng trưởng đang mua bằng tiền chứ chưa bền, đó là tín hiệu để soi lại cơ cấu kênh theo cây quyết định PA3 hạng mục 9.
 
+### 4. Vì sao các cột mốc này đáng tin
+
+- **Bám chỉ tiêu đã có.** Mốc khách trả phí lấy đúng chỉ tiêu chuyển tiếp của lộ trình PA2 (100 khách Q4/2026, 400 đến 500 khách Q1/2027), không phải con số marketing tự đặt.
+- **CAC giảm dần có cơ chế rõ ràng.** CAC giảm vì ba lý do cụ thể: tài sản nội dung và công cụ dùng lại được nên chi phí trên mỗi khách giảm, tỷ lệ khách đến từ giới thiệu (kênh gần như miễn phí) tăng, và đội ngũ vận hành kênh ngày càng thạo. Cả ba đều là kết quả trực tiếp của các khoản chi ở task 7.
+- **Đo được ngay từ mốc đầu.** Mọi chỉ số ở đây đều nằm trong bảng phễu PA3 hạng mục 9 đã có công thức và nguồn dữ liệu, nên không phải chờ dựng hệ đo mới, chỉ việc điền số khi vận hành thật.
+
+### 5. Kế thừa và liên kết
+
+- **PA3 hạng mục 9:** khung phễu năm tầng và các chỉ số là gốc để đặt cột mốc; hai con số PA3 dặn dùng lại cho PA4 là CAC và tỷ lệ trả trước đều xuất hiện ở đây.
+- **PA3 hạng mục 5 và 6:** cột mốc về giới thiệu và mở kênh dựa trên phân vai kênh và referral loop; phần cột mốc giới thiệu phối hợp với Phúc vì thuộc phần cuối phễu.
+- **PA2 lộ trình:** mốc thời gian và chỉ tiêu khách của bốn cột mốc trùng khớp bốn giai đoạn thương mại sau ra mắt.
+- **Task 4 và Task 7 PA4:** mốc khách và CAC là kết quả kỳ vọng của bảng dự phóng và kế hoạch chi ở hai task trên; đặt cạnh nhau để kiểm chứng tiền chi có tạo ra kết quả cam kết.
+- **Task 8 các phần khác:** cột mốc marketing về số khách tiếp cận nối với cột mốc kinh doanh của Business Development (số đối tác, giữ chân), cột mốc sản phẩm của CTO và Lead Full-stack, và cột mốc vận hành của Operations Manager để tạo bức tranh phát triển toàn dự án.
+
+### 6. Nguồn tham khảo
+
+| Nội dung dùng | Nguồn |
+|---|---|
+| Khung phễu năm tầng, chỉ số CAC, cách tách theo kênh | `docs/PA3-quang-ba/09-chi-so-do-luong.md` |
+| Phân vai kênh chính và phụ | `docs/PA3-quang-ba/05-kenh-quang-ba.md` |
+| Referral loop và tỷ lệ khách từ giới thiệu | `docs/PA3-quang-ba/06-chien-luoc-khach-hang-dau-tien.md` |
+| Chỉ tiêu khách từng quý (100; 400-500; 1.500-2.000; 25-30% từ giới thiệu) | `docs/PA2-san-pham/09-lo-trinh-phat-trien.md` |
+| Bảng dự phóng và kế hoạch chi marketing | `docs/PA4-goi-von/04-du-kien-doanh-thu-va-chi-phi.md`, `docs/PA4-goi-von/07-ke-hoach-su-dung-von.md` |
+
 ---
 
 ## Business Development & Customer Success
