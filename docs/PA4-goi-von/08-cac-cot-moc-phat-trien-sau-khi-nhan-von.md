@@ -46,8 +46,6 @@ Mục tiêu của giai đoạn này không phải là tăng trưởng nhanh về
 
 Giai đoạn này kế thừa chiến lược thu hút khách hàng đầu tiên từ PA3, bao gồm demo trực tiếp, giới thiệu qua bạn bè và cộng đồng, hợp tác với micro-KOC và xây dựng cộng đồng nhỏ.
 
----
-
 ## Các cột mốc chính
 
 ### 1. Đạt 50–100 khách hàng trả phí đầu tiên
@@ -66,8 +64,6 @@ Các khách hàng đầu tiên được tiếp cận thông qua:
 ### Ý nghĩa của cột mốc
 
 Đây là bước kiểm chứng quan trọng cho mô hình subscription của NutriPlan. Số lượng người đăng ký miễn phí hoặc để lại thông tin chưa đủ để chứng minh nhu cầu thị trường. Khách hàng trả phí mới cho thấy khách hàng thực sự nhận thấy giá trị và sẵn sàng chi tiền cho giải pháp.
-
----
 
 ### 2. Thiết lập quy trình onboarding khách hàng
 
@@ -145,6 +141,8 @@ Mục tiêu của giai đoạn này không phải là ký kết với càng nhi�
 | Tỷ lệ giữ chân sang chu kỳ tiếp theo       |    ≥ 60% |
 | Đối tác / cộng đồng được thiết lập quan hệ |      3–5 |
 | Tỷ lệ phản hồi được ghi nhận và phân loại  |    ≥ 90% |
+
+---
 
 # IV. Giai đoạn 2: 4–6 tháng – Tối ưu Product–Market Fit và tăng khả năng giữ chân
 
@@ -242,6 +240,8 @@ Mục tiêu là xây dựng mạng lưới đối tác có khả năng tạo ra 
 | Đối tác / cộng đồng                     |     8–12 |
 | Tỷ lệ phản hồi được xử lý               |    ≥ 90% |
 
+---
+
 # V. Giai đoạn 3: 7–9 tháng – Mở rộng thông qua đối tác và Growth Loop
 
 ## Mục tiêu
@@ -329,6 +329,8 @@ Mục tiêu là xây dựng nhiều nguồn khách hàng khác nhau và giảm s
 | Đối tác / cộng đồng                           |                          15–20 |
 | Tỷ lệ khách hàng thuộc nhóm Retained Customer | Tăng liên tục theo từng chu kỳ |
 
+---
+
 # VI. Giai đoạn 4: 10–12 tháng – Xây dựng hệ thống tăng trưởng bền vững
 
 ## Mục tiêu
@@ -394,6 +396,8 @@ Mục tiêu đến cuối năm đầu tiên:
 | Tỷ lệ phản hồi được xử lý               |    ≥ 95% |
 | Đối tác / cộng đồng                     |    25–30 |
 
+---
+
 # VII. Tổng hợp lộ trình phát triển
 
 | Thời gian       | Mục tiêu kinh doanh                                    | Mục tiêu khách hàng | Mục tiêu đối tác          | Mục tiêu Customer Success                  |
@@ -402,6 +406,8 @@ Mục tiêu đến cuối năm đầu tiên:
 | **4–6 tháng**   | Tối ưu Product–Market Fit                              | 200–300 khách hàng  | 8–12 đối tác / cộng đồng  | Retention ≥ 70%, CSAT ≥ 80%                |
 | **7–9 tháng**   | Mở rộng thông qua referral và đối tác                  | 500–700 khách hàng  | 15–20 đối tác / cộng đồng | Referral ≥ 15% khách hàng mới              |
 | **10–12 tháng** | Xây dựng hệ thống tăng trưởng bền vững                 | ≥ 1.000 khách hàng  | 25–30 đối tác / cộng đồng | Retention ≥ 80%, Referral ≥ 20%            |
+
+---
 
 # VIII. Mối liên hệ giữa các cột mốc và việc sử dụng vốn
 
@@ -438,6 +444,8 @@ Nhờ đó, vốn đầu tư không chỉ tạo ra khách hàng trong ngắn h�
 - Quy trình Customer Success có thể mở rộng.
 
 Các cột mốc trên giúp NutriPlan chuyển từ giai đoạn kiểm chứng ý tưởng sang giai đoạn xây dựng một mô hình kinh doanh có khả năng tăng trưởng và duy trì khách hàng bền vững.
+
+---
 
 ## CTO/Founding Engineer
 
