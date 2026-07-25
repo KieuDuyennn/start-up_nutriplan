@@ -156,7 +156,8 @@ Mục tiêu quan trọng nhất của giai đoạn này là xác định:
 
 *Khách hàng có tiếp tục sử dụng NutriPlan sau gói đầu tiên hay không và lý do khiến họ tiếp tục hoặc rời bỏ dịch vụ là gì?*
 
-Các cột mốc chính
+## Các cột mốc chính
+
 ### 1. Đạt 200–300 khách hàng trả phí
 
 Mục tiêu tăng trưởng trong giai đoạn này đến từ:
@@ -251,7 +252,7 @@ Mục tiêu của giai đoạn này là:
 
 *Tăng trưởng không chỉ bằng nỗ lực trực tiếp của nhóm mà còn thông qua khách hàng cũ và các mối quan hệ kinh doanh.*
 
-**Các cột mốc chính**
+## Các cột mốc chính
 
 ### 1. Đạt 500–700 khách hàng trả phí
 
@@ -334,7 +335,7 @@ Mục tiêu là xây dựng nhiều nguồn khách hàng khác nhau và giảm s
 
 Sau một năm, NutriPlan hướng đến việc chuyển từ một startup đang trong giai đoạn thử nghiệm sang một mô hình kinh doanh có hệ thống khách hàng và đối tác có khả năng mở rộng.
 
-**Các cột mốc chính**
+## Các cột mốc chính
 
 ### 1. Đạt tối thiểu 1.000 khách hàng trả phí
 
