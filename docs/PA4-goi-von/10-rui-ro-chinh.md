@@ -2,7 +2,7 @@
 
 **Người phụ trách:** Dương Minh Dũng (Operations Manager – Logistics & Partners)  
 **Liên quan:** Hạng mục 7 (Mô hình hoạt động), Hạng mục 9 (Lộ trình phát triển), PA2 (Core Service 4 – Phân phối đơn hàng)  
-**Kế thừa:** Mô hình vận hành NutriPlan sử dụng mạng lưới bếp đối tác, giao suất ăn theo hình thức Subscription và điều phối giao hàng theo từng khung giờ. :contentReference[oaicite:0]{index=0} 
+**Kế thừa:** Mô hình vận hành NutriPlan sử dụng mạng lưới bếp đối tác, giao suất ăn theo hình thức Subscription và điều phối giao hàng theo từng khung giờ.
 
 ---
 
