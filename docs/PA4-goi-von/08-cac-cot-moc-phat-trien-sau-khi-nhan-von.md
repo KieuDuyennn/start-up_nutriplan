@@ -89,3 +89,58 @@ Xu hướng cần đạt: khách tăng theo cấp số, CAC giảm đều, giớ
 ## Lead Full-stack Developer & UI/UX Design
 
 ## Operations Manager - Logistics & Partners
+**Kế thừa:** PA2 Lộ trình phát triển, Task 5 (Nhu cầu gọi vốn), Kế hoạch Soft Launch, Kế hoạch vận hành MVP
+
+**Trạng thái:** Hoàn thành phần Operation Managers
+
+---
+
+# 1. Mục tiêu
+
+Sau khi nhận được nguồn vốn đầu tư, bộ phận Operations tập trung xây dựng hệ thống vận hành ổn định và mở rộng mạng lưới đối tác nhằm đảm bảo NutriPlan có khả năng phục vụ khách hàng hiệu quả trong giai đoạn MVP và sẵn sàng mở rộng quy mô khi bước vào giai đoạn thương mại.
+
+Các cột mốc dưới đây được xây dựng theo lộ trình phát triển của dự án và tập trung vào ba mục tiêu chính:
+
+- Hoàn thiện quy trình vận hành.
+- Mở rộng mạng lưới đối tác bếp và logistics.
+- Nâng cao chất lượng dịch vụ và khả năng mở rộng.
+
+---
+
+# 2. Các cột mốc phát triển
+
+| Thời gian | Cột mốc | Chỉ số mục tiêu |
+|-----------|----------|----------------|
+| Tháng 1 sau khi nhận vốn | Hoàn thiện quy trình phối hợp giữa NutriPlan và bếp đối tác | Ban hành quy trình vận hành (SOP) và quy trình xử lý đơn hàng |
+| Tháng 2 | Ký kết các đối tác cung cấp suất ăn healthy phục vụ giai đoạn MVP | Ít nhất 2 bếp đối tác tham gia hệ thống |
+| Tháng 2 | Thiết lập quy trình giao nhận với đơn vị vận chuyển | Hoàn thành quy trình giao hàng và xử lý sự cố |
+| Tháng 3 | Triển khai vận hành Soft Launch | 100% đơn hàng thử nghiệm được xử lý theo quy trình chuẩn |
+| Tháng 4 | Đánh giá hiệu quả vận hành và tối ưu quy trình | Thời gian xử lý đơn hàng giảm so với giai đoạn thử nghiệm; cập nhật SOP khi cần |
+| Tháng 5 | Mở rộng mạng lưới đối tác | Tối thiểu 4 bếp đối tác và 2 đối tác giao hàng hoạt động |
+| Tháng 6 | Sẵn sàng cho giai đoạn mở bán chính thức | Quy trình vận hành ổn định, đáp ứng nhu cầu mở rộng khách hàng |
+
+---
+
+# 3. Các chỉ số đánh giá
+
+Để theo dõi hiệu quả của mảng vận hành và logistics, NutriPlan sử dụng các chỉ số sau:
+
+| Chỉ số | Mục tiêu |
+|---------|-----------|
+| Số lượng bếp đối tác | ≥ 4 đối tác |
+| Số lượng đối tác giao hàng | ≥ 2 đối tác |
+| Tỷ lệ đơn hàng được xử lý đúng quy trình | ≥ 95% |
+| Tỷ lệ giao hàng đúng thời gian cam kết | ≥ 95% |
+| Tỷ lệ sự cố vận hành được xử lý trong ngày | ≥ 90% |
+| Thời gian phản hồi đối tác | Trong vòng 24 giờ |
+
+---
+
+# 4. Kết quả kỳ vọng
+
+Sau khi hoàn thành các cột mốc trên, NutriPlan kỳ vọng:
+
+- Xây dựng được mạng lưới đối tác đủ năng lực phục vụ giai đoạn MVP.
+- Hoàn thiện quy trình phối hợp giữa nền tảng, bếp đối tác và đơn vị giao hàng.
+- Đảm bảo hoạt động vận hành ổn định trước khi mở bán chính thức.
+- Tạo nền tảng để mở rộng sang các khu vực mới mà không cần thay đổi lớn về quy trình vận hành.
