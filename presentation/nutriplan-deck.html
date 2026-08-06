@@ -1,0 +1,360 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>NutriPlan - Startup Pitch Deck</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        overflow-x: hidden !important;
+        overflow-y: auto !important;
+        scroll-snap-type: y mandatory;
+      }
+
+      .slide {
+        position: relative !important;
+        inset: auto !important;
+        display: block !important;
+        scroll-snap-align: start;
+        scroll-snap-stop: always;
+      }
+
+      .slide:first-child {
+        display: grid !important;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen overflow-hidden bg-emerald-950 text-slate-950">
+    <main id="deck" class="relative h-screen w-screen">
+      <section class="slide absolute inset-0 grid h-screen w-screen place-items-center bg-[radial-gradient(circle_at_20%_20%,#fef3c7_0,#ecfccb_30%,#d1fae5_62%,#f8fafc_100%)] px-10 py-8">
+        <div class="grid w-full max-w-6xl grid-cols-[1.05fr_.95fr] items-center gap-10">
+          <div>
+            <p class="mb-4 text-lg font-semibold uppercase tracking-[0.22em] text-emerald-700">Startup Nutriplan</p>
+            <h1 class="text-7xl font-black leading-none text-emerald-950">NutriPlan</h1>
+            <p class="mt-7 max-w-3xl text-3xl font-semibold leading-tight text-slate-800">
+              Ứng dụng web đặt suất ăn healthy theo subscription, cá nhân hóa thực đơn theo TDEE/Macro.
+            </p>
+            <div class="mt-10 flex gap-4 text-lg font-bold text-emerald-950">
+              <span class="rounded-full bg-white/80 px-5 py-3 shadow-sm">Nhóm 14</span>
+              <span class="rounded-full bg-lime-200 px-5 py-3 shadow-sm">Business Plan</span>
+            </div>
+          </div>
+          <div class="rounded-[2rem] bg-white/75 p-8 shadow-2xl ring-1 ring-emerald-900/10">
+            <div class="grid gap-4">
+              <div class="rounded-3xl bg-emerald-900 p-6 text-white">
+                <p class="text-sm font-bold uppercase tracking-[0.18em] text-lime-200">Giá trị cốt lõi</p>
+                <p class="mt-3 text-3xl font-black leading-tight">Ăn đúng cho mục tiêu của bạn, tự động mỗi ngày.</p>
+              </div>
+              <div class="grid grid-cols-2 gap-4 text-lg font-semibold">
+                <div class="rounded-2xl bg-lime-100 p-5">Hồ sơ dinh dưỡng cá nhân</div>
+                <div class="rounded-2xl bg-amber-100 p-5">Thực đơn theo tuần/tháng</div>
+                <div class="rounded-2xl bg-sky-100 p-5">Bếp đối tác và giao hàng</div>
+                <div class="rounded-2xl bg-rose-100 p-5">Theo dõi tiến trình</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-slate-50 px-10 py-8">
+        <div class="mx-auto flex h-full max-w-7xl flex-col">
+          <p class="text-base font-bold uppercase tracking-[0.22em] text-emerald-700">Đội ngũ</p>
+          <h2 class="mt-2 text-5xl font-black text-slate-950">Thành viên team</h2>
+          <div class="mt-8 grid flex-1 grid-cols-3 gap-5">
+            <article class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-900">Trương Công Thiên Phú</h3>
+              <p class="mt-2 text-lg font-bold text-lime-700">CEO / Founder</p>
+              <p class="mt-4 text-base leading-relaxed text-slate-700">Định hướng dự án, phân công công việc, theo dõi tiến độ và đưa ra các quyết định cuối cùng.</p>
+            </article>
+            <article class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-900">Lê Phạm Kiều Duyên</h3>
+              <p class="mt-2 text-lg font-bold text-lime-700">Marketing & Growth Lead</p>
+              <p class="mt-4 text-base leading-relaxed text-slate-700">Nghiên cứu thị trường, chiến lược tiếp cận khách hàng, quảng bá sản phẩm và hỗ trợ phát triển đối tác.</p>
+            </article>
+            <article class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-900">Giao Thái Bảo</h3>
+              <p class="mt-2 text-lg font-bold text-lime-700">Lead Full-stack Developer & UI/UX Designer</p>
+              <p class="mt-4 text-base leading-relaxed text-slate-700">Phát triển trực tiếp sản phẩm, hiện thực hóa chức năng và thiết kế giao diện thân thiện với người dùng.</p>
+            </article>
+            <article class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-900">Trần Ngọc Thành</h3>
+              <p class="mt-2 text-lg font-bold text-lime-700">CTO / Founding Engineer</p>
+              <p class="mt-4 text-base leading-relaxed text-slate-700">Thiết kế kiến trúc hệ thống, lựa chọn công nghệ và dẫn dắt quá trình phát triển sản phẩm MVP.</p>
+            </article>
+            <article class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-900">Nguyễn Trọng Phúc</h3>
+              <p class="mt-2 text-lg font-bold text-lime-700">Business Development & Customer Success</p>
+              <p class="mt-4 text-base leading-relaxed text-slate-700">Tìm kiếm, duy trì quan hệ khách hàng, kết nối bếp ăn đối tác và tiếp nhận phản hồi người dùng.</p>
+            </article>
+            <article class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-900">Dương Minh Dũng</h3>
+              <p class="mt-2 text-lg font-bold text-lime-700">Operations Manager - Logistics & Partners</p>
+              <p class="mt-4 text-base leading-relaxed text-slate-700">Theo dõi tiến độ, phối hợp thành viên, chuẩn hóa quy trình và quản lý vận hành với bếp đối tác.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-emerald-950 px-10 py-8 text-white">
+        <div class="mx-auto grid h-full max-w-6xl place-items-center">
+          <div class="w-full">
+            <p class="text-base font-bold uppercase tracking-[0.22em] text-lime-200">Mục lục</p>
+            <h2 class="mt-2 text-5xl font-black">Nội dung bảo vệ</h2>
+            <div class="mt-10 grid grid-cols-2 gap-x-12 gap-y-5 text-2xl font-bold">
+              <p>1. Vấn đề và cơ hội thị trường.</p>
+              <p>2. Ý tưởng khởi nghiệp và giá trị khác biệt.</p>
+              <p>3. Sản phẩm/dịch vụ và khách hàng mục tiêu.</p>
+              <p>4. Mô hình kinh doanh và kế hoạch tạo doanh thu.</p>
+              <p>5. Kế hoạch quảng bá và phát triển thị trường.</p>
+              <p>6. Kế hoạch tài chính và gọi vốn.</p>
+              <p>7. Đội ngũ và phân công công việc.</p>
+              <p>8. Prototype/demo sản phẩm, nếu có.</p>
+              <p class="col-span-2">9. Các kết quả đã đạt được và hướng phát triển tiếp theo.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-slate-50 px-10 py-8">
+        <div class="mx-auto grid h-full max-w-7xl grid-cols-[.9fr_1.1fr] items-center gap-10">
+          <div>
+            <p class="text-base font-bold uppercase tracking-[0.22em] text-emerald-700">01</p>
+            <h2 class="mt-2 text-5xl font-black leading-tight text-slate-950">Vấn đề và cơ hội thị trường</h2>
+            <p class="mt-6 text-2xl font-semibold leading-snug text-slate-700">Vấn đề không chỉ là thiếu một bữa ăn, mà là duy trì chế độ dinh dưỡng khoa học trong cuộc sống bận rộn.</p>
+          </div>
+          <div class="grid gap-5">
+            <div class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-xl font-black text-emerald-900">Pain points</h3>
+              <ul class="mt-4 space-y-3 text-lg font-medium text-slate-700">
+                <li>Không biết cơ thể cần bao nhiêu Calories và tỷ lệ Protein - Carb - Fat mỗi ngày.</li>
+                <li>Không biết nên ăn gì để đạt mục tiêu giảm cân hoặc tăng cơ.</li>
+                <li>Mỗi ngày đều phải mở ứng dụng đặt đồ ăn, lựa chọn món và thanh toán nhiều lần.</li>
+                <li>Không biết chế độ ăn hiện tại có hiệu quả hay không.</li>
+              </ul>
+            </div>
+            <div class="grid grid-cols-3 gap-4">
+              <div class="rounded-2xl bg-emerald-900 p-5 text-white"><p class="text-3xl font-black">23.000</p><p class="mt-2 font-semibold">tỷ đồng/năm TAM</p></div>
+              <div class="rounded-2xl bg-lime-200 p-5"><p class="text-3xl font-black">1.150</p><p class="mt-2 font-semibold">tỷ đồng/năm SAM</p></div>
+              <div class="rounded-2xl bg-amber-200 p-5"><p class="text-3xl font-black">550</p><p class="mt-2 font-semibold">triệu đồng/tháng SOM MVP</p></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-white px-10 py-8">
+        <div class="mx-auto grid h-full max-w-7xl grid-cols-[1fr_1fr] items-center gap-10">
+          <div>
+            <p class="text-base font-bold uppercase tracking-[0.22em] text-emerald-700">02</p>
+            <h2 class="mt-2 text-5xl font-black leading-tight">Ý tưởng khởi nghiệp và giá trị khác biệt</h2>
+            <p class="mt-6 text-2xl font-semibold leading-snug text-slate-700">NutriPlan tự động tính TDEE/Macro từ số đo cơ thể để lập thực đơn trọn gói theo tuần hoặc tháng.</p>
+          </div>
+          <div class="space-y-4">
+            <div class="rounded-2xl bg-emerald-50 p-6 ring-1 ring-emerald-200">
+              <h3 class="text-2xl font-black text-emerald-950">Khác biệt cốt lõi</h3>
+              <p class="mt-3 text-lg leading-relaxed text-slate-700">Cá nhân hóa thực đơn chính xác đến từng gram dưỡng chất, sau đó tự động kết nối với mạng lưới bếp ăn đối tác để nấu và giao suất ăn tận bàn làm việc mỗi ngày.</p>
+            </div>
+            <div class="grid grid-cols-2 gap-4 text-lg font-bold">
+              <div class="rounded-2xl bg-lime-100 p-5">Hồ sơ dinh dưỡng là lõi vận hành</div>
+              <div class="rounded-2xl bg-sky-100 p-5">Đổi món có kiểm soát cân bằng dinh dưỡng</div>
+              <div class="rounded-2xl bg-amber-100 p-5">Subscription linh hoạt có gói dùng thử</div>
+              <div class="rounded-2xl bg-rose-100 p-5">Vòng lặp theo dõi và tự hiệu chỉnh</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-slate-50 px-10 py-8">
+        <div class="mx-auto flex h-full max-w-7xl flex-col">
+          <p class="text-base font-bold uppercase tracking-[0.22em] text-emerald-700">03</p>
+          <h2 class="mt-2 text-5xl font-black">Sản phẩm/dịch vụ và khách hàng mục tiêu</h2>
+          <div class="mt-8 grid flex-1 grid-cols-[1.1fr_.9fr] gap-8">
+            <div class="grid grid-cols-2 gap-4 text-lg">
+              <div class="rounded-2xl bg-white p-5 shadow-sm ring-1 ring-slate-200"><b>Core Service 1</b><br />Xây dựng hồ sơ dinh dưỡng cá nhân.</div>
+              <div class="rounded-2xl bg-white p-5 shadow-sm ring-1 ring-slate-200"><b>Core Service 2</b><br />Đề xuất và xây dựng thực đơn.</div>
+              <div class="rounded-2xl bg-white p-5 shadow-sm ring-1 ring-slate-200"><b>Core Service 3</b><br />Quản lý gói suất ăn định kỳ.</div>
+              <div class="rounded-2xl bg-white p-5 shadow-sm ring-1 ring-slate-200"><b>Core Service 4</b><br />Phân phối đơn hàng đến bếp đối tác và giao món.</div>
+              <div class="rounded-2xl bg-white p-5 shadow-sm ring-1 ring-slate-200"><b>Core Service 5</b><br />Theo dõi tiến trình dinh dưỡng.</div>
+              <div class="rounded-2xl bg-white p-5 shadow-sm ring-1 ring-slate-200"><b>Core Service 6</b><br />Đánh giá bữa ăn/chất lượng dịch vụ.</div>
+            </div>
+            <div class="rounded-3xl bg-emerald-900 p-8 text-white shadow-xl">
+              <h3 class="text-3xl font-black">Khách hàng mục tiêu</h3>
+              <p class="mt-5 text-xl leading-relaxed">Giai đoạn đầu giới hạn tại TP. Hồ Chí Minh, cho hai nhóm khách hàng đã xác định: sinh viên sống xa nhà ưu tiên và nhân viên văn phòng trẻ.</p>
+              <p class="mt-6 rounded-2xl bg-white/15 p-5 text-xl font-bold">Phạm vi MVP: cụm làng đại học Thủ Đức, khu vực Đại học Quốc gia TP.HCM.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-white px-10 py-8">
+        <div class="mx-auto grid h-full max-w-7xl grid-cols-[.9fr_1.1fr] items-center gap-10">
+          <div>
+            <p class="text-base font-bold uppercase tracking-[0.22em] text-emerald-700">04</p>
+            <h2 class="mt-2 text-5xl font-black leading-tight">Mô hình kinh doanh và kế hoạch tạo doanh thu</h2>
+            <p class="mt-6 text-2xl font-semibold text-slate-700">NutriPlan chuyển mô hình từ đặt món từng bữa sang đăng ký kế hoạch dinh dưỡng.</p>
+          </div>
+          <div class="space-y-5">
+            <div class="rounded-2xl bg-slate-50 p-6 ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-950">Nguồn doanh thu</h3>
+              <p class="mt-3 text-xl leading-relaxed text-slate-700">Người dùng lựa chọn gói tuần hoặc tháng, thanh toán một lần, hệ thống tự động sinh lịch giao hàng cho toàn bộ chu kỳ.</p>
+            </div>
+            <div class="grid grid-cols-3 gap-4">
+              <div class="rounded-2xl bg-lime-100 p-5"><p class="text-3xl font-black">500k</p><p class="font-semibold">ARPU/tháng</p></div>
+              <div class="rounded-2xl bg-sky-100 p-5"><p class="text-3xl font-black">50k</p><p class="font-semibold">giá bình quân/bữa</p></div>
+              <div class="rounded-2xl bg-amber-100 p-5"><p class="text-3xl font-black">12%</p><p class="font-semibold">biên đóng góp nền tảng</p></div>
+            </div>
+            <div class="rounded-2xl bg-emerald-900 p-6 text-white">
+              <p class="text-xl font-bold">6 tháng đầu dự kiến: tổng doanh thu GMV 252,5 triệu đồng; biên đóng góp nền tảng khoảng 30,3 triệu đồng.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-slate-50 px-10 py-8">
+        <div class="mx-auto grid h-full max-w-7xl grid-cols-[1fr_1fr] items-center gap-10">
+          <div>
+            <p class="text-base font-bold uppercase tracking-[0.22em] text-emerald-700">05</p>
+            <h2 class="mt-2 text-5xl font-black leading-tight">Kế hoạch quảng bá và phát triển thị trường</h2>
+            <p class="mt-6 text-2xl font-semibold text-slate-700">SOM cho thấy giai đoạn MVP nên tập trung ngân sách marketing vào một cụm trường duy nhất thay vì dàn trải khắp TP.HCM.</p>
+          </div>
+          <div class="grid gap-4">
+            <div class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-950">Kênh chính</h3>
+              <p class="mt-2 text-xl text-slate-700">Demo trực tiếp tại lớp và câu lạc bộ trong cụm trường.</p>
+            </div>
+            <div class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-950">Kênh phụ</h3>
+              <p class="mt-2 text-xl text-slate-700">TikTok gánh phần phủ sóng để kéo lượng người biết đến vượt khỏi số lớp mà nhóm đi được.</p>
+            </div>
+            <div class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-950">Kênh hạ tầng</h3>
+              <p class="mt-2 text-xl text-slate-700">Zalo và Facebook group dùng để chăm sóc người đăng ký và đẩy giới thiệu.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-white px-10 py-8">
+        <div class="mx-auto flex h-full max-w-7xl flex-col">
+          <p class="text-base font-bold uppercase tracking-[0.22em] text-emerald-700">06</p>
+          <h2 class="mt-2 text-5xl font-black">Kế hoạch tài chính và gọi vốn</h2>
+          <div class="mt-8 grid flex-1 grid-cols-[1fr_1fr] gap-8">
+            <div class="rounded-3xl bg-emerald-900 p-8 text-white">
+              <h3 class="text-3xl font-black">Mục tiêu gọi vốn</h3>
+              <p class="mt-5 text-xl leading-relaxed">Đảm bảo đủ nguồn lực vận hành từ khi ra mắt MVP đến hết giai đoạn Thí điểm thương mại, tháng 8/2026 đến tháng 1/2027.</p>
+              <p class="mt-8 text-6xl font-black text-lime-200">500 triệu</p>
+              <p class="mt-2 text-xl font-bold">đề xuất huy động vòng đầu tiên</p>
+            </div>
+            <div class="rounded-3xl bg-slate-50 p-8 ring-1 ring-slate-200">
+              <h3 class="text-3xl font-black text-emerald-950">Căn cứ tính toán</h3>
+              <div class="mt-5 space-y-4 text-xl font-semibold text-slate-700">
+                <p>Tổng chi phí dự kiến: 400 triệu đồng.</p>
+                <p>Doanh thu đóng góp dự kiến: 30 triệu đồng.</p>
+                <p>Vốn tự có nhóm sáng lập: 100 triệu đồng.</p>
+                <p>Nhu cầu gọi vốn tối thiểu: 270 triệu đồng.</p>
+                <p>Phần chênh lệch đóng vai trò vốn dự phòng.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-slate-50 px-10 py-8">
+        <div class="mx-auto flex h-full max-w-7xl flex-col">
+          <p class="text-base font-bold uppercase tracking-[0.22em] text-emerald-700">07</p>
+          <h2 class="mt-2 text-5xl font-black">Đội ngũ và phân công công việc</h2>
+          <div class="mt-8 grid flex-1 grid-cols-3 gap-5">
+            <div class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200"><h3 class="text-2xl font-black text-emerald-900">CEO</h3><p class="mt-3 text-lg text-slate-700">Điều phối tổng thể, phân công nhiệm vụ và đảm bảo các mảng đi đúng định hướng chung.</p></div>
+            <div class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200"><h3 class="text-2xl font-black text-emerald-900">Sản phẩm & Công nghệ</h3><p class="mt-3 text-lg text-slate-700">CTO/Founding Engineer và Lead Full-stack Developer & UI/UX Designer phát triển web app NutriPlan.</p></div>
+            <div class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200"><h3 class="text-2xl font-black text-emerald-900">Tăng trưởng & Khách hàng</h3><p class="mt-3 text-lg text-slate-700">Marketing & Growth Lead và Business Development & Customer Success phối hợp theo phễu khách hàng.</p></div>
+            <div class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200"><h3 class="text-2xl font-black text-emerald-900">Vận hành</h3><p class="mt-3 text-lg text-slate-700">Operations Manager theo dõi tiến độ, phối hợp quy trình, bếp ăn đối tác và giao hàng.</p></div>
+            <div class="col-span-2 rounded-2xl bg-emerald-900 p-6 text-white shadow-sm">
+              <h3 class="text-2xl font-black text-lime-200">Cơ cấu tổ chức</h3>
+              <p class="mt-3 text-xl leading-relaxed">NutriPlan lựa chọn mô hình tổ chức phẳng gồm 2 cấp: CEO điều phối chung ở cấp thứ nhất, và các trưởng khối chức năng báo cáo trực tiếp cho CEO ở cấp thứ hai.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-white px-10 py-8">
+        <div class="flex h-full items-center justify-center">
+          <h2 class="text-8xl font-black text-emerald-900">Demo</h2>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-slate-50 px-10 py-8">
+        <div class="mx-auto grid h-full max-w-7xl grid-cols-[.95fr_1.05fr] items-center gap-10">
+          <div>
+            <p class="text-base font-bold uppercase tracking-[0.22em] text-emerald-700">09</p>
+            <h2 class="mt-2 text-5xl font-black leading-tight">Kết quả đã đạt được và hướng phát triển tiếp theo</h2>
+            <p class="mt-6 text-2xl font-semibold text-slate-700">PA3 là bản kế hoạch, nhóm chưa chạy chiến dịch thật; phần chạy thật để lại giai đoạn sau.</p>
+          </div>
+          <div class="space-y-5">
+            <div class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-950">Đã chuẩn bị</h3>
+              <p class="mt-3 text-xl text-slate-700">Landing page một trang, form đăng ký beta, mockup, Figma clickthrough, video/bài đăng cho ba biến thể và thực đơn mẫu.</p>
+            </div>
+            <div class="rounded-2xl bg-white p-6 shadow-sm ring-1 ring-slate-200">
+              <h3 class="text-2xl font-black text-emerald-950">Kịch bản kiểm chứng</h3>
+              <p class="mt-3 text-xl text-slate-700">Chiến dịch 7 ngày theo vòng lặp Hypothesis, Run, Measure, Decision; ngày 5 là cổng rà giữa kỳ.</p>
+            </div>
+            <div class="rounded-2xl bg-emerald-900 p-6 text-white">
+              <h3 class="text-2xl font-black text-lime-200">Hướng tiếp theo</h3>
+              <p class="mt-3 text-xl">Từ 8/8, sản phẩm ở trạng thái sẵn sàng nhận khách hàng thật; sau ra mắt đi qua thí điểm thương mại, hoàn thiện giữ chân, tự động hóa và mở rộng.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="slide absolute inset-0 hidden h-screen w-screen bg-emerald-600 px-10 py-8 text-white">
+        <div class="mx-auto grid h-full max-w-6xl place-items-center text-center">
+          <div>
+            <p class="text-lg font-bold uppercase tracking-[0.22em] text-lime-200">Kết thúc</p>
+            <h2 class="mt-5 text-7xl font-black leading-none">NutriPlan</h2>
+            <p class="mx-auto mt-8 max-w-4xl text-3xl font-semibold leading-tight">Biến chỉ số dinh dưỡng của từng người thành những bữa ăn cụ thể đến đúng giờ mỗi ngày.</p>
+            <p class="mt-12 text-2xl font-black text-lime-200">Cảm ơn thầy/cô và các bạn đã lắng nghe.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const slides = Array.from(document.querySelectorAll(".slide"));
+      let current = 0;
+
+      function goToSlide(index) {
+        current = Math.max(0, Math.min(index, slides.length - 1));
+        slides[current].scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+
+      const observer = new IntersectionObserver(
+        (entries) => {
+          const visibleSlide = entries
+            .filter((entry) => entry.isIntersecting)
+            .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+
+          if (visibleSlide) current = slides.indexOf(visibleSlide.target);
+        },
+        { threshold: [0.5, 0.75] },
+      );
+
+      slides.forEach((slide) => observer.observe(slide));
+
+      window.addEventListener("keydown", (event) => {
+        if (event.key === "ArrowDown") {
+          event.preventDefault();
+          goToSlide(current + 1);
+        }
+
+        if (event.key === "ArrowUp") {
+          event.preventDefault();
+          goToSlide(current - 1);
+        }
+      });
+    </script>
+  </body>
+</html>
